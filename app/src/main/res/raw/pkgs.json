@@ -1,0 +1,9113 @@
+[
+{
+	"pkgId": "a2dp.Vol"
+},
+{
+	"pkgId": "aarddict.android"
+},
+{
+	"pkgId": "acr.browser.lightning"
+},
+{
+	"pkgId": "agrigolo.chubbyclick"
+},
+{
+	"pkgId": "ai.susi"
+},
+{
+	"pkgId": "akk.astro.droid.moonphase"
+},
+{
+	"pkgId": "am.ed.exportcontacts"
+},
+{
+	"pkgId": "am.ed.importcontacts"
+},
+{
+	"pkgId": "amirz.dngprocessor"
+},
+{
+	"pkgId": "amirz.rootless.nexuslauncher"
+},
+{
+	"pkgId": "am.zoom.mbrowser"
+},
+{
+	"pkgId": "am.zoom.mlauncher"
+},
+{
+	"pkgId": "androdns.android.leetdreams.ch.androdns"
+},
+{
+	"pkgId": "android.androidVNC"
+},
+{
+	"pkgId": "android.game.prboom"
+},
+{
+	"pkgId": "android.nachiketa.ebookdownloader"
+},
+{
+	"pkgId": "An.stop"
+},
+{
+	"pkgId": "anupam.acrylic"
+},
+{
+	"pkgId": "app.crescentcash.src"
+},
+{
+	"pkgId": "app.easytoken"
+},
+{
+	"pkgId": "app.fedilab.lite"
+},
+{
+	"pkgId": "app.fedilab.nitterizeme"
+},
+{
+	"pkgId": "app.fedilab.nitterizemelite"
+},
+{
+	"pkgId": "app.fedilab.openmaps"
+},
+{
+	"pkgId": "app.fyreplace.client"
+},
+{
+	"pkgId": "app.librenews.io.librenews"
+},
+{
+	"pkgId": "app.openconnect"
+},
+{
+	"pkgId": "app.reading.stoic.stoicreading"
+},
+{
+	"pkgId": "apps.amine.bou.readerforselfoss"
+},
+{
+	"pkgId": "apps.babycaretimer"
+},
+{
+	"pkgId": "apps.droidnotify"
+},
+{
+	"pkgId": "apps.jizzu.simpletodo"
+},
+{
+	"pkgId": "app.varlorg.unote"
+},
+{
+	"pkgId": "aq.com.sharetobrowser"
+},
+{
+	"pkgId": "arity.calculator"
+},
+{
+	"pkgId": "ar.rulosoft.mimanganu"
+},
+{
+	"pkgId": "at.bitfire.cadroid"
+},
+{
+	"pkgId": "at.bitfire.davdroid"
+},
+{
+	"pkgId": "at.bitfire.devicelocator"
+},
+{
+	"pkgId": "at.bitfire.gfxtablet"
+},
+{
+	"pkgId": "at.bitfire.icsdroid"
+},
+{
+	"pkgId": "at.bitfire.nophonespam"
+},
+{
+	"pkgId": "at.dasz.KolabDroid"
+},
+{
+	"pkgId": "at.h4x.awhip"
+},
+{
+	"pkgId": "at.h4x.metaapp"
+},
+{
+	"pkgId": "atitel.com.todoer"
+},
+{
+	"pkgId": "at.jclehner.rxdroid"
+},
+{
+	"pkgId": "at.linuxtage.companion"
+},
+{
+	"pkgId": "atm.nasaimages"
+},
+{
+	"pkgId": "atm.rocketguardian"
+},
+{
+	"pkgId": "atm.starun.game"
+},
+{
+	"pkgId": "at.or.at.plugoffairplane"
+},
+{
+	"pkgId": "at.tacticaldevc.panictrigger"
+},
+{
+	"pkgId": "at.tomtasche.reader"
+},
+{
+	"pkgId": "at.univie.sensorium"
+},
+{
+	"pkgId": "at.zweng.bankomatinfos"
+},
+{
+	"pkgId": "at.zweng.bankomatinfos2"
+},
+{
+	"pkgId": "au.com.wallaceit.reddinator"
+},
+{
+	"pkgId": "au.id.micolous.farebot"
+},
+{
+	"pkgId": "awais.instagrabber"
+},
+{
+	"pkgId": "aws.apps.androidDrawables"
+},
+{
+	"pkgId": "aws.apps.usbDeviceEnumerator"
+},
+{
+	"pkgId": "axp.tool.apkextractor"
+},
+{
+	"pkgId": "bander.notepad"
+},
+{
+	"pkgId": "be.ac.ulb.lisa.idot.android.dicomviewer"
+},
+{
+	"pkgId": "be.brunoparmentier.apkshare"
+},
+{
+	"pkgId": "be.brunoparmentier.dnssetter"
+},
+{
+	"pkgId": "be.brunoparmentier.openbikesharing.app"
+},
+{
+	"pkgId": "be.brunoparmentier.wifikeyshare"
+},
+{
+	"pkgId": "be.digitalia.fosdem"
+},
+{
+	"pkgId": "be.humanoids.webthingify"
+},
+{
+	"pkgId": "be.lionslink.ucllstudent"
+},
+{
+	"pkgId": "be.mygod.vpnhotspot"
+},
+{
+	"pkgId": "be.norio.randomapp"
+},
+{
+	"pkgId": "be.ppareit.shutdown"
+},
+{
+	"pkgId": "be.ppareit.swiftp_free"
+},
+{
+	"pkgId": "be.quentinloos.manille"
+},
+{
+	"pkgId": "be.uhasselt.privacypolice"
+},
+{
+	"pkgId": "biz.codefuture.svgviewer"
+},
+{
+	"pkgId": "biz.gyrus.yaab"
+},
+{
+	"pkgId": "br.com.frs.foodrestrictions"
+},
+{
+	"pkgId": "br.odb.knights"
+},
+{
+	"pkgId": "br.usp.ime.retrobreaker"
+},
+{
+	"pkgId": "btools.routingapp"
+},
+{
+	"pkgId": "budo.budoist"
+},
+{
+	"pkgId": "buet.rafi.dictionary"
+},
+{
+	"pkgId": "bughunter2.smsfilter"
+},
+{
+	"pkgId": "bus.chio.wishmaster"
+},
+{
+	"pkgId": "byrne.utilities.converter"
+},
+{
+	"pkgId": "byrne.utilities.hashpass"
+},
+{
+	"pkgId": "byrne.utilities.pasteedroid"
+},
+{
+	"pkgId": "ca.chancehorizon.paseo"
+},
+{
+	"pkgId": "ca.cmetcalfe.locationshare"
+},
+{
+	"pkgId": "ca.cmetcalfe.xposed.disablebatterywarnings"
+},
+{
+	"pkgId": "ca.cmetcalfe.xposed.flatconnectivityicons"
+},
+{
+	"pkgId": "ca.ddaly.android.heart"
+},
+{
+	"pkgId": "ca.farrelltonsolar.classic"
+},
+{
+	"pkgId": "caldwell.ben.bites"
+},
+{
+	"pkgId": "caldwell.ben.trolly"
+},
+{
+	"pkgId": "ca.mimic.apphangar"
+},
+{
+	"pkgId": "ca.momi.lift"
+},
+{
+	"pkgId": "campyre.android"
+},
+{
+	"pkgId": "ca.mudar.fairphone.peaceofmind"
+},
+{
+	"pkgId": "ca.pr0ps.xposed.entrustunblocker"
+},
+{
+	"pkgId": "ca.rmen.android.frenchcalendar"
+},
+{
+	"pkgId": "ca.rmen.android.networkmonitor"
+},
+{
+	"pkgId": "ca.rmen.android.poetassistant"
+},
+{
+	"pkgId": "ca.rmen.android.scrumchatter"
+},
+{
+	"pkgId": "ca.rmen.nounours"
+},
+{
+	"pkgId": "cat.jordihernandez.cinecat"
+},
+{
+	"pkgId": "cat.mvmike.minimalcalendarwidget"
+},
+{
+	"pkgId": "cat.pantsu.nyaapantsu"
+},
+{
+	"pkgId": "cc.calliope.mini"
+},
+{
+	"pkgId": "cc.co.eurdev.urecorder"
+},
+{
+	"pkgId": "cc.echonet.coolmicapp"
+},
+{
+	"pkgId": "cc.rainwave.android"
+},
+{
+	"pkgId": "cf.fridays.fff_info"
+},
+{
+	"pkgId": "ch.abertschi.adfree"
+},
+{
+	"pkgId": "chat.rocket.android"
+},
+{
+	"pkgId": "ch.bailu.aat"
+},
+{
+	"pkgId": "ch.blinkenlights.android.apnswitch"
+},
+{
+	"pkgId": "ch.blinkenlights.android.vanilla"
+},
+{
+	"pkgId": "ch.blinkenlights.android.vanillaplug"
+},
+{
+	"pkgId": "ch.blinkenlights.battery"
+},
+{
+	"pkgId": "ch.citux.td"
+},
+{
+	"pkgId": "ch.corten.aha.worldclock"
+},
+{
+	"pkgId": "ch.deletescape.lawnchair.plah"
+},
+{
+	"pkgId": "ch.dissem.android.drupal"
+},
+{
+	"pkgId": "ch.fixme.cowsay"
+},
+{
+	"pkgId": "ch.fixme.status"
+},
+{
+	"pkgId": "ch.hgdev.toposuite"
+},
+{
+	"pkgId": "ch.hsr.eyecam"
+},
+{
+	"pkgId": "ch.ihdg.calendarcolor"
+},
+{
+	"pkgId": "ch.jiikuy.velocitycalculator"
+},
+{
+	"pkgId": "ch.logixisland.anuto"
+},
+{
+	"pkgId": "ch.nexuscomputing.android.osciprimeics"
+},
+{
+	"pkgId": "ch.protonvpn.android"
+},
+{
+	"pkgId": "ch.rmy.android.statusbar_tacho"
+},
+{
+	"pkgId": "chromiumupdater.bamless.com.chromiumsweupdater"
+},
+{
+	"pkgId": "ch.rrelmy.android.batterymanager"
+},
+{
+	"pkgId": "ch.rrelmy.android.locationcachemap"
+},
+{
+	"pkgId": "ch.thgoebel.spartathlonapp"
+},
+{
+	"pkgId": "cityfreqs.com.pilfershushjammer"
+},
+{
+	"pkgId": "cl.coders.faketraveler"
+},
+{
+	"pkgId": "click.dummer.funphonepuppet"
+},
+{
+	"pkgId": "click.dummer.have_radiosion"
+},
+{
+	"pkgId": "click.dummer.imagesms"
+},
+{
+	"pkgId": "click.dummer.notify_to_jabber"
+},
+{
+	"pkgId": "click.dummer.rickapp"
+},
+{
+	"pkgId": "click.dummer.textthing"
+},
+{
+	"pkgId": "click.dummer.UartSmartwatch"
+},
+{
+	"pkgId": "click.dummer.yidkey"
+},
+{
+	"pkgId": "co.epitre.aelf_lectures"
+},
+{
+	"pkgId": "co.loubo.icicle"
+},
+{
+	"pkgId": "com.a5corp.weather"
+},
+{
+	"pkgId": "com.aa.mynotes"
+},
+{
+	"pkgId": "com.aaronhalbert.nosurfforreddit"
+},
+{
+	"pkgId": "com.aaronjwood.portauthority"
+},
+{
+	"pkgId": "com.abast.homebot"
+},
+{
+	"pkgId": "com.abcdjdj.rootverifier"
+},
+{
+	"pkgId": "com.abhijitvalluri.android.fitnotifications"
+},
+{
+	"pkgId": "com.abitsinc.andr"
+},
+{
+	"pkgId": "com.achep.acdisplay"
+},
+{
+	"pkgId": "com.achep.widget.jellyclock"
+},
+{
+	"pkgId": "com.actisec.clipcaster"
+},
+{
+	"pkgId": "com.acvarium.tasclock"
+},
+{
+	"pkgId": "com.adam.aslfms"
+},
+{
+	"pkgId": "com.addi"
+},
+{
+	"pkgId": "com.adgad.kboard"
+},
+{
+	"pkgId": "com.adguard.android.contentblocker"
+},
+{
+	"pkgId": "com.adonai.manman"
+},
+{
+	"pkgId": "com.adstrosoftware.launchappops"
+},
+{
+	"pkgId": "com.aefyr.sai.fdroid"
+},
+{
+	"pkgId": "com.afollestad.nocknock"
+},
+{
+	"pkgId": "com.agateau.catgenerator"
+},
+{
+	"pkgId": "com.agateau.tinywheels.android"
+},
+{
+	"pkgId": "com.agnibho.android.solarcompass"
+},
+{
+	"pkgId": "com.ahorcado"
+},
+{
+	"pkgId": "com.aidinhut.simpletextcrypt"
+},
+{
+	"pkgId": "com.akop.bach"
+},
+{
+	"pkgId": "com.alaskalinuxuser.criticalvelocity"
+},
+{
+	"pkgId": "com.alaskalinuxuser.hourglass"
+},
+{
+	"pkgId": "com.alaskalinuxuser.justchess"
+},
+{
+	"pkgId": "com.alaskalinuxuser.justcraigslist"
+},
+{
+	"pkgId": "com.alaskalinuxuser.justnotes"
+},
+{
+	"pkgId": "com.alaskalinuxuser.rilcontrol"
+},
+{
+	"pkgId": "com.alaskalinuxuser.shipcaptainandcrew"
+},
+{
+	"pkgId": "com.alexcruz.papuhwalls"
+},
+{
+	"pkgId": "com.alexkang.bluechat"
+},
+{
+	"pkgId": "com.alexkang.loopboard"
+},
+{
+	"pkgId": "com.alexkang.x3matrixcalculator"
+},
+{
+	"pkgId": "com.alexxz.hawkingquotes"
+},
+{
+	"pkgId": "com.alfray.asqare"
+},
+{
+	"pkgId": "com.alfray.timeriffic"
+},
+{
+	"pkgId": "com.alienpants.leafpicrevived"
+},
+{
+	"pkgId": "com.allansimon.verbisteandroid"
+},
+{
+	"pkgId": "com.altillimity.satpredict"
+},
+{
+	"pkgId": "com.alxgnon.postwriter"
+},
+{
+	"pkgId": "com.amabyte.vtucslabmanual"
+},
+{
+	"pkgId": "com.amaze.filemanager"
+},
+{
+	"pkgId": "com.ames.books"
+},
+{
+	"pkgId": "com.amphoras.tpthelper"
+},
+{
+	"pkgId": "com.ancantus.HYPNOTOAD"
+},
+{
+	"pkgId": "com.anddevw.getchromium"
+},
+{
+	"pkgId": "com.andrew.apollo"
+},
+{
+	"pkgId": "com.android2.calculator3"
+},
+{
+	"pkgId": "com.android.adbkeyboard"
+},
+{
+	"pkgId": "com.androidemu.gba"
+},
+{
+	"pkgId": "com.androidemu.gbc"
+},
+{
+	"pkgId": "com.androidemu.nes"
+},
+{
+	"pkgId": "com.androidfromfrankfurt.workingtimealert"
+},
+{
+	"pkgId": "com.android.gpstest.osmdroid"
+},
+{
+	"pkgId": "com.android.keepass"
+},
+{
+	"pkgId": "com.android.launcher3"
+},
+{
+	"pkgId": "com.android.music"
+},
+{
+	"pkgId": "com.android.quake"
+},
+{
+	"pkgId": "com.android.shellms"
+},
+{
+	"pkgId": "com.android.talkback"
+},
+{
+	"pkgId": "com.android.todolist"
+},
+{
+	"pkgId": "com.androzic"
+},
+{
+	"pkgId": "com.andybotting.tramhunter"
+},
+{
+	"pkgId": "com.angryburg.uapp"
+},
+{
+	"pkgId": "com.angrydoughnuts.android.alarmclock"
+},
+{
+	"pkgId": "com.anoopknr.pastebin"
+},
+{
+	"pkgId": "com.anoshenko.android.mahjongg"
+},
+{
+	"pkgId": "com.anpmech.launcher"
+},
+{
+	"pkgId": "com.antoniotari.reactiveampacheapp"
+},
+{
+	"pkgId": "com.antony.muzei.pixiv"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.afrikaans"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.basque"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.brazilian"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.catalan"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.danish"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.dutch"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.esperanto"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.french"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.french_xlarge"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.galician"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.georgian.fdroid"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.german"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.greek"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.hebrew"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.hungarian"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.icelandic"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.indonesian"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.italian"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.latvian"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.macedonian"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.malayalam"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.neo"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.norwegian"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.osspolish"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.ossturkish"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.pali"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.persian"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.portuguese"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.russian2"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.slovene"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.spain"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.SSH"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.swedish"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.tatar"
+},
+{
+	"pkgId": "com.anysoftkeyboard.languagepack.ukrainian"
+},
+{
+	"pkgId": "com.anysoftkeyboard.theme.classic_pc"
+},
+{
+	"pkgId": "com.app2go.sudokufree"
+},
+{
+	"pkgId": "com.appengine.paranoid_android.lost"
+},
+{
+	"pkgId": "com.app.missednotificationsreminder"
+},
+{
+	"pkgId": "com.apps.adrcotfas.goodtime"
+},
+{
+	"pkgId": "com.appspot.usbhidterminal"
+},
+{
+	"pkgId": "com.app.Zensuren"
+},
+{
+	"pkgId": "com.aptasystems.dicewarepasswordgenerator"
+},
+{
+	"pkgId": "com.aragaer.jtt"
+},
+{
+	"pkgId": "com.ariwilson.seismowallpaper"
+},
+{
+	"pkgId": "com.arnaud.metronome"
+},
+{
+	"pkgId": "com.artifex.mupdf.mini.app"
+},
+{
+	"pkgId": "com.artifex.mupdf.viewer.app"
+},
+{
+	"pkgId": "com.as.anagramsolver"
+},
+{
+	"pkgId": "com.asdoi.gymwen"
+},
+{
+	"pkgId": "com.asdoi.timetable"
+},
+{
+	"pkgId": "com.aselalee.trainschedule"
+},
+{
+	"pkgId": "com.asksven.betterwifionoff"
+},
+{
+	"pkgId": "com.atelieryl.wonderdroid"
+},
+{
+	"pkgId": "com.ath0.rpn"
+},
+{
+	"pkgId": "com.atop"
+},
+{
+	"pkgId": "com.atr.tedit"
+},
+{
+	"pkgId": "com.aurora.adroid"
+},
+{
+	"pkgId": "com.aurora.corona"
+},
+{
+	"pkgId": "com.aurora.store"
+},
+{
+	"pkgId": "com.averi.worldscribe"
+},
+{
+	"pkgId": "com.b44t.messenger"
+},
+{
+	"pkgId": "com.bald.uriah.baldphone"
+},
+{
+	"pkgId": "com.banasiak.coinflip"
+},
+{
+	"pkgId": "com.banasiak.coinflipext.example"
+},
+{
+	"pkgId": "com.bec3.mobilite"
+},
+{
+	"pkgId": "com.beckhamd.nasaimageryfetcher"
+},
+{
+	"pkgId": "com.beemdevelopment.aegis"
+},
+{
+	"pkgId": "com.benny.openlauncher"
+},
+{
+	"pkgId": "com.bernaferrari.changedetection"
+},
+{
+	"pkgId": "com.bernaferrari.sdkmonitor"
+},
+{
+	"pkgId": "com.better.alarm"
+},
+{
+	"pkgId": "com.biglybt.android.client"
+},
+{
+	"pkgId": "com.bijoysingh.quicknote"
+},
+{
+	"pkgId": "com.Bisha.TI89EmuDonation"
+},
+{
+	"pkgId": "com.blanyal.remindly"
+},
+{
+	"pkgId": "com.bleyl.recurrence"
+},
+{
+	"pkgId": "com.blippex.app"
+},
+{
+	"pkgId": "com.blntsoft.emailpopup"
+},
+{
+	"pkgId": "com.blogspot.tonyatkins.freespeech"
+},
+{
+	"pkgId": "com.bmco.cratesiounofficial"
+},
+{
+	"pkgId": "com.bmpak.anagramsolver"
+},
+{
+	"pkgId": "com.boardgamegeek"
+},
+{
+	"pkgId": "com.bobbyrne01.howfardoyouswim"
+},
+{
+	"pkgId": "com.boombuler.games.shift"
+},
+{
+	"pkgId": "com.boombuler.piraten.map"
+},
+{
+	"pkgId": "com.boombuler.widgets.contacts"
+},
+{
+	"pkgId": "com.borneq.heregpslocation"
+},
+{
+	"pkgId": "com.botbrew.basil"
+},
+{
+	"pkgId": "com.bottleworks.dailymoney"
+},
+{
+	"pkgId": "com.boztalay.puppyframeuid"
+},
+{
+	"pkgId": "com.brapeba.roaminginfo"
+},
+{
+	"pkgId": "com.brentpanther.bitcoincashwidget"
+},
+{
+	"pkgId": "com.brentpanther.bitcoinwidget"
+},
+{
+	"pkgId": "com.brentpanther.ethereumwidget"
+},
+{
+	"pkgId": "com.brentpanther.litecoinwidget"
+},
+{
+	"pkgId": "com.bretternst.URLazy"
+},
+{
+	"pkgId": "com.brewcrewfoo.performance"
+},
+{
+	"pkgId": "com.bri1.soundbored"
+},
+{
+	"pkgId": "com.brianco.colorclock"
+},
+{
+	"pkgId": "com.briankhuu.nfcmessageboard"
+},
+{
+	"pkgId": "com.brillenheini.deepscratch.free"
+},
+{
+	"pkgId": "com.brocktice.JustSit"
+},
+{
+	"pkgId": "com.brosmike.airpushdetector"
+},
+{
+	"pkgId": "com.brucelet.spacetrader"
+},
+{
+	"pkgId": "com.btcontract.wallet"
+},
+{
+	"pkgId": "com.btmura.android.reddit"
+},
+{
+	"pkgId": "com.bvalosek.cpuspy"
+},
+{
+	"pkgId": "com.bwx.bequick"
+},
+{
+	"pkgId": "com.byagowi.persiancalendar"
+},
+{
+	"pkgId": "com.bytehamster.changelog"
+},
+{
+	"pkgId": "com.bytesforge.linkasanote"
+},
+{
+	"pkgId": "com.bytestemplar.tonedef"
+},
+{
+	"pkgId": "com.call.recorder"
+},
+{
+	"pkgId": "com.callrecorder.android"
+},
+{
+	"pkgId": "com.casimirlab.simpleDeadlines"
+},
+{
+	"pkgId": "com.catchingnow.tinyclipboardmanager"
+},
+{
+	"pkgId": "com.cause.commune"
+},
+{
+	"pkgId": "com.cepmuvakkit.times"
+},
+{
+	"pkgId": "com.cgogolin.library"
+},
+{
+	"pkgId": "com.chanapps.four.activity"
+},
+{
+	"pkgId": "com.chessclock.android"
+},
+{
+	"pkgId": "com.chmod0.manpages"
+},
+{
+	"pkgId": "com.ciarang.tallyphant"
+},
+{
+	"pkgId": "com.cityfreqs.littlesirecho"
+},
+{
+	"pkgId": "com.cityzen.cityzen"
+},
+{
+	"pkgId": "com.claha.showtimeremote"
+},
+{
+	"pkgId": "com.cleveroad.sample"
+},
+{
+	"pkgId": "com.coboltforge.dontmind.multivnc"
+},
+{
+	"pkgId": "com.code61.deadpixel"
+},
+{
+	"pkgId": "com.code.android.vibevault"
+},
+{
+	"pkgId": "com.codebutler.farebot"
+},
+{
+	"pkgId": "com.colinmcdonough.android.torch"
+},
+{
+	"pkgId": "com.color.colornamer"
+},
+{
+	"pkgId": "com.commit451.gitlab"
+},
+{
+	"pkgId": "com.commonslab.commonslab"
+},
+{
+	"pkgId": "com.commonsware.android.arXiv"
+},
+{
+	"pkgId": "com.concentricsky.android.khan"
+},
+{
+	"pkgId": "com.controlloid"
+},
+{
+	"pkgId": "com.cookiegames.smartcookie"
+},
+{
+	"pkgId": "com.corner23.android.beautyclocklivewallpaper"
+},
+{
+	"pkgId": "com.corona_info"
+},
+{
+	"pkgId": "com.corphish.nightlight.generic"
+},
+{
+	"pkgId": "com.corvettecole.gotosleep"
+},
+{
+	"pkgId": "com.coste.syncorg"
+},
+{
+	"pkgId": "com.cr5315.cfdc"
+},
+{
+	"pkgId": "com.cradle.iitc_mobile"
+},
+{
+	"pkgId": "com.crazyhitty.chdev.ks.munch"
+},
+{
+	"pkgId": "com.csmarosi.wifiautoff"
+},
+{
+	"pkgId": "com.ctemplar.app.fdroid"
+},
+{
+	"pkgId": "com.cyanogenmod.filemanager.ics"
+},
+{
+	"pkgId": "com.cybrosys.palmcalc"
+},
+{
+	"pkgId": "com.dalthed.tucan"
+},
+{
+	"pkgId": "com.damiengo.websiterss"
+},
+{
+	"pkgId": "com.danefinlay.ttsutil"
+},
+{
+	"pkgId": "com.danhasting.radar"
+},
+{
+	"pkgId": "com.danielkim.soundrecorder"
+},
+{
+	"pkgId": "com.danielme.muspyforandroid"
+},
+{
+	"pkgId": "com.daniel.mobilepauker2"
+},
+{
+	"pkgId": "com.danvelazco.fbwrapper"
+},
+{
+	"pkgId": "com.darknessmap"
+},
+{
+	"pkgId": "com.dar.nclientv2"
+},
+{
+	"pkgId": "com.darshancomputing.BatteryIndicator"
+},
+{
+	"pkgId": "com.darshancomputing.BatteryIndicatorPro"
+},
+{
+	"pkgId": "com.DartChecker"
+},
+{
+	"pkgId": "com.daviancorp.android.mh4udatabase"
+},
+{
+	"pkgId": "com.daviancorp.android.monsterhunter3udatabase"
+},
+{
+	"pkgId": "com.davidshewitt.admincontrol"
+},
+{
+	"pkgId": "com.dconstructing.cooper"
+},
+{
+	"pkgId": "com.developerfromjokela.motioneyeclient"
+},
+{
+	"pkgId": "com.developfreedom.wordpowermadeeasy"
+},
+{
+	"pkgId": "com.dev.xavier.tempusromanum"
+},
+{
+	"pkgId": "com.dfa.hubzilla_android"
+},
+{
+	"pkgId": "com.dftec.planetcon"
+},
+{
+	"pkgId": "com.dfzlv.gjjlt.caramelos"
+},
+{
+	"pkgId": "com.dgmltn.morphclock.app"
+},
+{
+	"pkgId": "com.digitalfishfun.openshift"
+},
+{
+	"pkgId": "com.dimension.tessercube"
+},
+{
+	"pkgId": "com.dimtion.shaarlier"
+},
+{
+	"pkgId": "com.dirkgassen.wator"
+},
+{
+	"pkgId": "com.dje.openwifinetworkremover"
+},
+{
+	"pkgId": "com.dkanada.chip"
+},
+{
+	"pkgId": "com.dkanada.icecons"
+},
+{
+	"pkgId": "com.dkanada.openapk"
+},
+{
+	"pkgId": "com.dngames.mobilewebcam"
+},
+{
+	"pkgId": "com.dnielfe.manager"
+},
+{
+	"pkgId": "com.doomy.overflow"
+},
+{
+	"pkgId": "com.doomy.torch"
+},
+{
+	"pkgId": "com.doplgangr.secrecy"
+},
+{
+	"pkgId": "com.dosse.airpods"
+},
+{
+	"pkgId": "com.dosse.bwentrain.androidPlayer"
+},
+{
+	"pkgId": "com.dosse.chromiumautoupdater"
+},
+{
+	"pkgId": "com.dosse.speedtest"
+},
+{
+	"pkgId": "com.dougkeen.bart"
+},
+{
+	"pkgId": "com.dozingcatsoftware.asciicam"
+},
+{
+	"pkgId": "com.dozingcatsoftware.bouncy"
+},
+{
+	"pkgId": "com.dozingcatsoftware.cameratimer"
+},
+{
+	"pkgId": "com.dozingcatsoftware.dodge"
+},
+{
+	"pkgId": "com.dozingcatsoftware.vectorcamera"
+},
+{
+	"pkgId": "com.dozuki.ifixit"
+},
+{
+	"pkgId": "com.dp.logcatapp"
+},
+{
+	"pkgId": "com.drhoffmannstoolsdataloggerreader"
+},
+{
+	"pkgId": "com.drip"
+},
+{
+	"pkgId": "com.dririan.RingyDingyDingy"
+},
+{
+	"pkgId": "com.drismo"
+},
+{
+	"pkgId": "com.drodin.tuxrider"
+},
+{
+	"pkgId": "com.duckduckgo.mobile.android"
+},
+{
+	"pkgId": "com.dwak.lastcall"
+},
+{
+	"pkgId": "com.dwalkes.android.toggleheadset2"
+},
+{
+	"pkgId": "com.dynamicg.homebuttonlauncher"
+},
+{
+	"pkgId": "com.dynamite.heaterrc"
+},
+{
+	"pkgId": "com.earthblood.tictactoe"
+},
+{
+	"pkgId": "com.easwareapps.baria"
+},
+{
+	"pkgId": "com.easwareapps.f2lflap2lock_adfree"
+},
+{
+	"pkgId": "com.easwareapps.g2l"
+},
+{
+	"pkgId": "com.easwareapps.marbleone_ad_free"
+},
+{
+	"pkgId": "com.easwareapps.quoter"
+},
+{
+	"pkgId": "com.easwareapps.transparentwidget"
+},
+{
+	"pkgId": "com.easyfitness"
+},
+{
+	"pkgId": "com.easytarget.micopi"
+},
+{
+	"pkgId": "com.ebaschiera.triplecamel"
+},
+{
+	"pkgId": "com.ecuamobi.deckwallet"
+},
+{
+	"pkgId": "com.edwardoyarzun.diccionario"
+},
+{
+	"pkgId": "com.eibriel.reddot"
+},
+{
+	"pkgId": "com.einmalfel.podlisten"
+},
+{
+	"pkgId": "com.elementarytoday.theia"
+},
+{
+	"pkgId": "com.eletac.tronwallet"
+},
+{
+	"pkgId": "com.eleybourn.bookcatalogue"
+},
+{
+	"pkgId": "com.elsdoerfer.android.autostarts"
+},
+{
+	"pkgId": "com.elsewhat.android.currentwallpaper"
+},
+{
+	"pkgId": "com.emmaguy.cleanstatusbar"
+},
+{
+	"pkgId": "com.emmanuelmess.simpleaccounting"
+},
+{
+	"pkgId": "com.emmanuelmess.simplecleanup"
+},
+{
+	"pkgId": "com.endeepak.dotsnsquares"
+},
+{
+	"pkgId": "com.eneko.hexcolortimewallpaper"
+},
+{
+	"pkgId": "com.enjoyingfoss.feeel"
+},
+{
+	"pkgId": "com.enjoyingfoss.om"
+},
+{
+	"pkgId": "com.enrico.earthquake"
+},
+{
+	"pkgId": "com.enrico.earthquake.batterysimplysolid"
+},
+{
+	"pkgId": "com.enrico.filemanager"
+},
+{
+	"pkgId": "com.enrico.sample"
+},
+{
+	"pkgId": "com.eolwral.osmonitor"
+},
+{
+	"pkgId": "com.episode6.android.appalarm.pro"
+},
+{
+	"pkgId": "com.etesync.syncadapter"
+},
+{
+	"pkgId": "com.EthanHeming.NeuralNetworkSimulator"
+},
+{
+	"pkgId": "com.euedge.openaviationmap.android"
+},
+{
+	"pkgId": "com.evancharlton.mileage"
+},
+{
+	"pkgId": "com.evenement.encapsulation"
+},
+{
+	"pkgId": "com.eventyay.attendee"
+},
+{
+	"pkgId": "com.eventyay.organizer"
+},
+{
+	"pkgId": "com.everysoft.autoanswer"
+},
+{
+	"pkgId": "com.example.android.maxpapers"
+},
+{
+	"pkgId": "com.example.android.monthcalendarwidget"
+},
+{
+	"pkgId": "com.example.anycut"
+},
+{
+	"pkgId": "com.example.dozenalclock"
+},
+{
+	"pkgId": "com.example.dozencalc"
+},
+{
+	"pkgId": "com.example.forgottenumbrella.cardboardmuseum"
+},
+{
+	"pkgId": "com.example.harisont.librery"
+},
+{
+	"pkgId": "com.example.hochi.nextcompanion"
+},
+{
+	"pkgId": "com.example.ismael.downloadfilesweb"
+},
+{
+	"pkgId": "com.example.muzei.muzeiapod"
+},
+{
+	"pkgId": "com.example.openpass"
+},
+{
+	"pkgId": "com.example.root.analyticaltranslator"
+},
+{
+	"pkgId": "com.example.sshtry"
+},
+{
+	"pkgId": "com.example.tobiastrumm.freifunkautoconnect"
+},
+{
+	"pkgId": "com.example.trigger"
+},
+{
+	"pkgId": "com.f0x.eddymalou"
+},
+{
+	"pkgId": "com.f2prateek.dfg"
+},
+{
+	"pkgId": "com.fabienli.dokuwiki"
+},
+{
+	"pkgId": "com.fake.android.torchlight"
+},
+{
+	"pkgId": "com.falconware.prestissimo"
+},
+{
+	"pkgId": "com.faltenreich.diaguard"
+},
+{
+	"pkgId": "com.farmerbb.notepad"
+},
+{
+	"pkgId": "com.farmerbb.secondscreen.free"
+},
+{
+	"pkgId": "com.farmerbb.taskbar"
+},
+{
+	"pkgId": "com.fastaccess.github.libre"
+},
+{
+	"pkgId": "com.fastebro.androidrgbtool"
+},
+{
+	"pkgId": "com.fediphoto"
+},
+{
+	"pkgId": "com.fgrim.msnake"
+},
+{
+	"pkgId": "com.FireFart.Permissions2"
+},
+{
+	"pkgId": "com.fisheradelakin.interactivestory"
+},
+{
+	"pkgId": "com.fivasim.antikythera"
+},
+{
+	"pkgId": "com.flipcamera"
+},
+{
+	"pkgId": "com.flxrs.dankchat"
+},
+{
+	"pkgId": "com.foobnix.pro.pdf.reader"
+},
+{
+	"pkgId": "com.formfun"
+},
+{
+	"pkgId": "com.forrestguice.suntimescalendars"
+},
+{
+	"pkgId": "com.forrestguice.suntimeswidget"
+},
+{
+	"pkgId": "com.foxykeep.lifecounter"
+},
+{
+	"pkgId": "com.fproject.cryptolitycs"
+},
+{
+	"pkgId": "com.fr3ts0n.androbd.plugin.gpsprovider"
+},
+{
+	"pkgId": "com.fr3ts0n.androbd.plugin.mqtt"
+},
+{
+	"pkgId": "com.fr3ts0n.androbd.plugin.sensorprovider"
+},
+{
+	"pkgId": "com.fr3ts0n.ecu.gui.androbd"
+},
+{
+	"pkgId": "com.fr3ts0n.stagefever"
+},
+{
+	"pkgId": "com.frankcalise.h2droid"
+},
+{
+	"pkgId": "com.freerdp.afreerdp"
+},
+{
+	"pkgId": "com.freezingwind.animereleasenotifier"
+},
+{
+	"pkgId": "com.freshollie.monkeyboard.keystoneradio"
+},
+{
+	"pkgId": "com.frostwire.android"
+},
+{
+	"pkgId": "com.frozendevs.cache.cleaner"
+},
+{
+	"pkgId": "com.frozendevs.periodictable"
+},
+{
+	"pkgId": "com.frrahat.quransimple"
+},
+{
+	"pkgId": "com.fsck.k9"
+},
+{
+	"pkgId": "com.fullscreen"
+},
+{
+	"pkgId": "com.futonredemption.mylocation"
+},
+{
+	"pkgId": "com.futurice.android.reservator"
+},
+{
+	"pkgId": "com.gabm.fancyplaces"
+},
+{
+	"pkgId": "com.gabm.screenrotationcontrol"
+},
+{
+	"pkgId": "com.gabriel.covid19stats"
+},
+{
+	"pkgId": "com.gacode.relaunchx"
+},
+{
+	"pkgId": "com.games.boardgames.aeonsend"
+},
+{
+	"pkgId": "com.gbeatty.arxiv"
+},
+{
+	"pkgId": "com.gcstar.scanner"
+},
+{
+	"pkgId": "com.gcstar.viewer"
+},
+{
+	"pkgId": "com.geecko.QuickLyric"
+},
+{
+	"pkgId": "com.gelakinetic.mtgfam"
+},
+{
+	"pkgId": "com.genonbeta.TrebleShot"
+},
+{
+	"pkgId": "com.germainz.activityforcenewtask"
+},
+{
+	"pkgId": "com.germainz.identiconizer"
+},
+{
+	"pkgId": "com.gh4a"
+},
+{
+	"pkgId": "com.ghisguth.sun"
+},
+{
+	"pkgId": "com.ghostsq.commander"
+},
+{
+	"pkgId": "com.ghostsq.commander.samba"
+},
+{
+	"pkgId": "com.ghostsq.commander.sftp"
+},
+{
+	"pkgId": "com.ghstudios.android.mhgendatabase"
+},
+{
+	"pkgId": "com.gianlu.aria2android"
+},
+{
+	"pkgId": "com.gianlu.aria2app"
+},
+{
+	"pkgId": "com.gianlu.dnshero"
+},
+{
+	"pkgId": "com.gianlu.pretendyourexyzzy"
+},
+{
+	"pkgId": "com.gimranov.zandy.app"
+},
+{
+	"pkgId": "com.ginkel.hashit"
+},
+{
+	"pkgId": "com.github.aba2l.taswast"
+},
+{
+	"pkgId": "com.github.alijc.cricketsalarm"
+},
+{
+	"pkgId": "com.github.andlyticsproject"
+},
+{
+	"pkgId": "com.github.andremiras.etheroll"
+},
+{
+	"pkgId": "com.github.andremiras.qrscan"
+},
+{
+	"pkgId": "com.github.andremiras.zbarcamdemo"
+},
+{
+	"pkgId": "com.github.ashutoshgngwr.noice"
+},
+{
+	"pkgId": "com.github.axet.audiorecorder"
+},
+{
+	"pkgId": "com.github.axet.binauralbeats"
+},
+{
+	"pkgId": "com.github.axet.bookreader"
+},
+{
+	"pkgId": "com.github.axet.callrecorder"
+},
+{
+	"pkgId": "com.github.axet.darknessimmunity"
+},
+{
+	"pkgId": "com.github.axet.filemanager"
+},
+{
+	"pkgId": "com.github.axet.hourlyreminder"
+},
+{
+	"pkgId": "com.github.axet.maps"
+},
+{
+	"pkgId": "com.github.axet.mover"
+},
+{
+	"pkgId": "com.github.axet.smsgate"
+},
+{
+	"pkgId": "com.github.axet.tonegenerator"
+},
+{
+	"pkgId": "com.github.axet.torrentclient"
+},
+{
+	"pkgId": "com.github.catfriend1.syncthingandroid"
+},
+{
+	"pkgId": "com.github.cetoolbox"
+},
+{
+	"pkgId": "com.github.characterdog.bmicalculator"
+},
+{
+	"pkgId": "com.github.characterdog.share_my_number"
+},
+{
+	"pkgId": "com.github.cvzi.screenshottile"
+},
+{
+	"pkgId": "com.github.cythara"
+},
+{
+	"pkgId": "com.github.darthjoey91.hangman"
+},
+{
+	"pkgId": "com.github.dfa.diaspora_android"
+},
+{
+	"pkgId": "com.github.doomsdayrs.apps.shosetsu"
+},
+{
+	"pkgId": "com.github.egonw.isotopes"
+},
+{
+	"pkgId": "com.github.fi3te.notificationcron"
+},
+{
+	"pkgId": "com.github.gianlucanitti.expreval"
+},
+{
+	"pkgId": "com.github.gotify"
+},
+{
+	"pkgId": "com.github.grimpy.botifier"
+},
+{
+	"pkgId": "com.github.igrmk.smsq"
+},
+{
+	"pkgId": "com.github.jtjj222.sudburytransit"
+},
+{
+	"pkgId": "com.github.kiliakin.yalpstore"
+},
+{
+	"pkgId": "com.github.marmalade.aRevelation"
+},
+{
+	"pkgId": "com.github.mobile"
+},
+{
+	"pkgId": "com.github.mofosyne.instantreadme"
+},
+{
+	"pkgId": "com.github.mofosyne.tagdrop"
+},
+{
+	"pkgId": "com.github.moko256.twitlatte"
+},
+{
+	"pkgId": "com.github.mueller_ma.viewandroidversion"
+},
+{
+	"pkgId": "com.github.nicolassmith.urlevaluator"
+},
+{
+	"pkgId": "com.github.niqdev.ipcam"
+},
+{
+	"pkgId": "com.github.nutomic.controldlna"
+},
+{
+	"pkgId": "com.github.onetimepass"
+},
+{
+	"pkgId": "com.github.ooz.heymeditation"
+},
+{
+	"pkgId": "com.github.palmcalc2019.palmcalc"
+},
+{
+	"pkgId": "com.github.pires.obd.reader"
+},
+{
+	"pkgId": "com.github.postapczuk.lalauncher"
+},
+{
+	"pkgId": "com.github.premnirmal.tickerwidget"
+},
+{
+	"pkgId": "com.github.quarck.calnotify"
+},
+{
+	"pkgId": "com.github.redpanal.android"
+},
+{
+	"pkgId": "com.github.rsteube.t4"
+},
+{
+	"pkgId": "com.github.ruleant.getback_gps"
+},
+{
+	"pkgId": "com.github.samotari.cryptoterminal"
+},
+{
+	"pkgId": "com.github.shadowsocks.plugin.v2ray"
+},
+{
+	"pkgId": "com.github.sryze.wirebug"
+},
+{
+	"pkgId": "com.github.timnew.smartremotecontrol"
+},
+{
+	"pkgId": "com.github.wakhub.tinyclock"
+},
+{
+	"pkgId": "com.github.wdkapps.fillup"
+},
+{
+	"pkgId": "com.github.xloem.qrstream"
+},
+{
+	"pkgId": "com.github.yeriomin.dumbphoneassistant"
+},
+{
+	"pkgId": "com.github.yeriomin.smsscheduler"
+},
+{
+	"pkgId": "com.github.yeriomin.workoutlog"
+},
+{
+	"pkgId": "com.github.yeriomin.yalpstore"
+},
+{
+	"pkgId": "com.gitlab.ardash.appleflinger.android"
+},
+{
+	"pkgId": "com.gitlab.dibdib.dib2calc"
+},
+{
+	"pkgId": "com.gitlab.kreikenbaum.suntime.fdroid"
+},
+{
+	"pkgId": "com.gitlab.mahc9kez.shadowsocks.foss"
+},
+{
+	"pkgId": "com.gitlab.terrakok.gitfox"
+},
+{
+	"pkgId": "com.gk.simpleworkoutjournal"
+},
+{
+	"pkgId": "com.gladis.tictactoe"
+},
+{
+	"pkgId": "com.glanznig.beepme"
+},
+{
+	"pkgId": "com.glTron"
+},
+{
+	"pkgId": "com.gluegadget.hndroid"
+},
+{
+	"pkgId": "com.gmail.afonsotrepa.pocketgopher"
+},
+{
+	"pkgId": "com.gmail.altakey.effy"
+},
+{
+	"pkgId": "com.gmail.anubhavdas54.whatsdeleted"
+},
+{
+	"pkgId": "com.gmail.jerickson314.sdscanner"
+},
+{
+	"pkgId": "com.gmail.jiwopene.temperature"
+},
+{
+	"pkgId": "com.gmail.mugcuposup.android"
+},
+{
+	"pkgId": "com.gokhanmoral.stweaks.app"
+},
+{
+	"pkgId": "com.goltzkiste.guessaday"
+},
+{
+	"pkgId": "com.googamaphone.typeandspeak"
+},
+{
+	"pkgId": "com.google.android.accessibility.talkback"
+},
+{
+	"pkgId": "com.google.android.apps.authenticator2"
+},
+{
+	"pkgId": "com.google.android.diskusage"
+},
+{
+	"pkgId": "com.google.android.gms"
+},
+{
+	"pkgId": "com.google.android.location"
+},
+{
+	"pkgId": "com.google.android.marvin.talkback"
+},
+{
+	"pkgId": "com.google.android.sambadocumentsprovider"
+},
+{
+	"pkgId": "com.google.android.stardroid"
+},
+{
+	"pkgId": "com.google.code.apps2org"
+},
+{
+	"pkgId": "com.google.code.appsorganizer"
+},
+{
+	"pkgId": "com.googlecode.awsms"
+},
+{
+	"pkgId": "com.googlecode.chartdroid"
+},
+{
+	"pkgId": "com.googlecode.droidwall"
+},
+{
+	"pkgId": "com.googlecode.eyesfree.espeak"
+},
+{
+	"pkgId": "com.googlecode.gogodroid"
+},
+{
+	"pkgId": "com.googlecode.gtalksms"
+},
+{
+	"pkgId": "com.googlecode.networklog"
+},
+{
+	"pkgId": "com.googlecode.openwnn.legacy"
+},
+{
+	"pkgId": "com.googlecode.tcime"
+},
+{
+	"pkgId": "com.google.marvin.shell"
+},
+{
+	"pkgId": "com.google.zxing.client.android"
+},
+{
+	"pkgId": "com.governikus.ausweisapp2"
+},
+{
+	"pkgId": "com.gpl.rpg.AndorsTrail"
+},
+{
+	"pkgId": "com.gpstether"
+},
+{
+	"pkgId": "com.gracecode.android.presentation"
+},
+{
+	"pkgId": "com.greenaddress.abcore"
+},
+{
+	"pkgId": "com.greenaddress.greenbits_android_wallet"
+},
+{
+	"pkgId": "com.greenaddress.greenbits_android_wallet.testnet"
+},
+{
+	"pkgId": "com.gregorywlodarek.torontotransit.torontotransit"
+},
+{
+	"pkgId": "com.gs.mobileprint"
+},
+{
+	"pkgId": "com.gsnathan.pdfviewer"
+},
+{
+	"pkgId": "com.GTP.eveminer"
+},
+{
+	"pkgId": "com.gtp.showapicturetoyourfriend"
+},
+{
+	"pkgId": "com.gueei.applocker"
+},
+{
+	"pkgId": "com.gulshansingh.hackerlivewallpaper"
+},
+{
+	"pkgId": "com.gunshippenguin.openflood"
+},
+{
+	"pkgId": "com.guvery.notifyme"
+},
+{
+	"pkgId": "com.haha01haha01.harail"
+},
+{
+	"pkgId": "com.halftough.webcomreader"
+},
+{
+	"pkgId": "com.harasoft.relaunch"
+},
+{
+	"pkgId": "com.haringeymobile.ukweather"
+},
+{
+	"pkgId": "com.harleensahni.android.mbr"
+},
+{
+	"pkgId": "com.hasi.hasid00r"
+},
+{
+	"pkgId": "com.health.openscale"
+},
+{
+	"pkgId": "com.heb12.heb12"
+},
+{
+	"pkgId": "com.hectorone.multismssender"
+},
+{
+	"pkgId": "com.hexad.bluezime"
+},
+{
+	"pkgId": "com.hexad.bluezime.hidenabler"
+},
+{
+	"pkgId": "com.hlidskialf.android.pomodoro"
+},
+{
+	"pkgId": "com.hobbyone.HashDroid"
+},
+{
+	"pkgId": "com.holokenmod"
+},
+{
+	"pkgId": "com.howeyc.spiped"
+},
+{
+	"pkgId": "com.htruong.inputmethod.latin"
+},
+{
+	"pkgId": "com.hykwok.CurrencyConverter"
+},
+{
+	"pkgId": "com.hyperionics.fbreader.plugin.tts_plus"
+},
+{
+	"pkgId": "com.iamtrk.androidexplorer"
+},
+{
+	"pkgId": "com.iatfei.streakalarm"
+},
+{
+	"pkgId": "com.iazasoft.footguy"
+},
+{
+	"pkgId": "com.iboalali.sysnotifsnooze"
+},
+{
+	"pkgId": "com.ibrahimyousre.resumebuilder"
+},
+{
+	"pkgId": "com.icechen1.notable.pro"
+},
+{
+	"pkgId": "com.icecondor.nest"
+},
+{
+	"pkgId": "com.ichi2.anki"
+},
+{
+	"pkgId": "com.idunnololz.igo"
+},
+{
+	"pkgId": "com.igisw.openmoneybox"
+},
+{
+	"pkgId": "com.igormaznitsa.piratedice"
+},
+{
+	"pkgId": "com.ihunda.android.binauralbeat"
+},
+{
+	"pkgId": "com.ilm.sandwich"
+},
+{
+	"pkgId": "com.indieweb.indigenous"
+},
+{
+	"pkgId": "com.infomaniak.sync"
+},
+{
+	"pkgId": "com.infonuascape.osrshelper"
+},
+{
+	"pkgId": "com.innodroid.mongobrowser"
+},
+{
+	"pkgId": "com.integralblue.callerid"
+},
+{
+	"pkgId": "com.internalpositioning.find3.find3app"
+},
+{
+	"pkgId": "com.intervigil.micdroid"
+},
+{
+	"pkgId": "com.intrications.android.sharebrowser"
+},
+{
+	"pkgId": "com.invano.ambientweather"
+},
+{
+	"pkgId": "com.irahul.worldclock"
+},
+{
+	"pkgId": "com.isanexusdev.androidcpg"
+},
+{
+	"pkgId": "com.isdp.trirose"
+},
+{
+	"pkgId": "com.iskrembilen.quasseldroid"
+},
+{
+	"pkgId": "com.itds.sms.ping"
+},
+{
+	"pkgId": "com.ivanvolosyuk.sharetobrowser"
+},
+{
+	"pkgId": "com.iven.iconify"
+},
+{
+	"pkgId": "com.iven.musicplayergo"
+},
+{
+	"pkgId": "com.iven.xdafeedreader"
+},
+{
+	"pkgId": "com.jadn.cc"
+},
+{
+	"pkgId": "com.jakebasile.android.hearingsaver"
+},
+{
+	"pkgId": "com.james.status"
+},
+{
+	"pkgId": "com.jarsilio.android.drowser"
+},
+{
+	"pkgId": "com.jarsilio.android.scrambledeggsif"
+},
+{
+	"pkgId": "com.jarsilio.android.waveup"
+},
+{
+	"pkgId": "com.jarsilio.android.waveup.tasker"
+},
+{
+	"pkgId": "com.java.SmokeReducer"
+},
+{
+	"pkgId": "com.javierllorente.adc"
+},
+{
+	"pkgId": "com.javiersantos.mlmanager"
+},
+{
+	"pkgId": "com.javiersantos.whatsappbetaupdater"
+},
+{
+	"pkgId": "com.jaygoel.virginminuteschecker"
+},
+{
+	"pkgId": "com.jbirdvegas.mgerrit"
+},
+{
+	"pkgId": "com.jecelyin.editor"
+},
+{
+	"pkgId": "com.jeffboody.GearsES2eclair"
+},
+{
+	"pkgId": "com.jellyshack.block6"
+},
+{
+	"pkgId": "com.jelly.theme.revenge"
+},
+{
+	"pkgId": "com.jereksel.libresubstratum"
+},
+{
+	"pkgId": "com.jeyries.quake2"
+},
+{
+	"pkgId": "com.jforce.chapelhillnextbus"
+},
+{
+	"pkgId": "com.jim.sharetocomputer"
+},
+{
+	"pkgId": "com.jkcarino.ankieditor"
+},
+{
+	"pkgId": "com.jlyr"
+},
+{
+	"pkgId": "com.jmartin.temaki"
+},
+{
+	"pkgId": "com.jmstudios.chibe"
+},
+{
+	"pkgId": "com.jmstudios.pointandhit.android"
+},
+{
+	"pkgId": "com.jmstudios.redmoon"
+},
+{
+	"pkgId": "com.jonbanjo.cupsprintservice"
+},
+{
+	"pkgId": "com.jonglen7.jugglinglab"
+},
+{
+	"pkgId": "com.jorgecastillo.kanadrill"
+},
+{
+	"pkgId": "com.joshtwigg.cmus.droid"
+},
+{
+	"pkgId": "com.jotabout.screeninfo"
+},
+{
+	"pkgId": "com.jparkie.aizoban"
+},
+{
+	"pkgId": "com.jpwolfso.privdnsqt"
+},
+{
+	"pkgId": "com.jstappdev.dbclf"
+},
+{
+	"pkgId": "com.jtechme.jumpgo"
+},
+{
+	"pkgId": "com.jtmcn.archwiki.viewer"
+},
+{
+	"pkgId": "com.juet.attendance"
+},
+{
+	"pkgId": "com.juliansparber.captiveportallogin"
+},
+{
+	"pkgId": "com.junjunguo.pocketmaps"
+},
+{
+	"pkgId": "com.jvillalba.apod.classic"
+},
+{
+	"pkgId": "com.jvillalba.apod.md"
+},
+{
+	"pkgId": "com.jwetherell.heart_rate_monitor"
+},
+{
+	"pkgId": "com.kabouzeid.gramophone"
+},
+{
+	"pkgId": "com.kaeruct.glxy"
+},
+{
+	"pkgId": "com.kai1973i"
+},
+{
+	"pkgId": "com.kaliturin.blacklist"
+},
+{
+	"pkgId": "com.kanedias.vanilla.audiotag"
+},
+{
+	"pkgId": "com.kanedias.vanilla.coverfetch"
+},
+{
+	"pkgId": "com.kanedias.vanilla.lyrics"
+},
+{
+	"pkgId": "com.kanedias.vanilla.metadata"
+},
+{
+	"pkgId": "com.kaneoriley.cyanogenport.launcher3"
+},
+{
+	"pkgId": "com.keylesspalace.tusky"
+},
+{
+	"pkgId": "com.kgurgul.cpuinfo"
+},
+{
+	"pkgId": "com.khuttun.notificationnotes"
+},
+{
+	"pkgId": "com.kibab.android.EncPassChanger"
+},
+{
+	"pkgId": "com.kkinder.charmap"
+},
+{
+	"pkgId": "com.knirirr.beecount"
+},
+{
+	"pkgId": "com.kn.paper_foss_theme"
+},
+{
+	"pkgId": "com.kodarkooperativet.notificationstopwatch"
+},
+{
+	"pkgId": "com.kokkle.gamevirusattack"
+},
+{
+	"pkgId": "com.kolloware.hypezigapp"
+},
+{
+	"pkgId": "com.kostmo.wallpaper.spiral"
+},
+{
+	"pkgId": "com.koushikdutta.superuser"
+},
+{
+	"pkgId": "com.kpz.pomodorotasks.activity"
+},
+{
+	"pkgId": "com.kunzisoft.keepass.libre"
+},
+{
+	"pkgId": "com.kunzisoft.keyboard.switcher"
+},
+{
+	"pkgId": "com.kure.musicplayer"
+},
+{
+	"pkgId": "com.kvance.Nectroid"
+},
+{
+	"pkgId": "com.kyakujin.android.tagnotepad"
+},
+{
+	"pkgId": "com.kylecorry.trail_sense"
+},
+{
+	"pkgId": "com.lako.moclock"
+},
+{
+	"pkgId": "com.LAPARCELA.nihonoari"
+},
+{
+	"pkgId": "com.launcher.silverfish"
+},
+{
+	"pkgId": "com.lavadip.miniVector"
+},
+{
+	"pkgId": "com.leafdigital.kanji.android"
+},
+{
+	"pkgId": "com.lecz.android.tiltmazes"
+},
+{
+	"pkgId": "com.leinardi.kitchentimer"
+},
+{
+	"pkgId": "com.leocardz.multitouch.test"
+},
+{
+	"pkgId": "com.lesspass.android"
+},
+{
+	"pkgId": "com.lgallardo.qbittorrentclientpro"
+},
+{
+	"pkgId": "com.liato.bankdroid"
+},
+{
+	"pkgId": "com.libopenmw.openmw"
+},
+{
+	"pkgId": "com.lightbox.android.camera"
+},
+{
+	"pkgId": "com.lightning.walletapp"
+},
+{
+	"pkgId": "com.limbo.emu.main"
+},
+{
+	"pkgId": "com.limelight"
+},
+{
+	"pkgId": "com.lindevhard.android.raspfinder"
+},
+{
+	"pkgId": "com.linkomnia.android.Changjie"
+},
+{
+	"pkgId": "com.linuxcounter.lico_update_003"
+},
+{
+	"pkgId": "com.lithium.leona.openstud"
+},
+{
+	"pkgId": "com.litmus.worldscope"
+},
+{
+	"pkgId": "com.littlebytesofpi.pylauncher"
+},
+{
+	"pkgId": "com.llamacorp.equate"
+},
+{
+	"pkgId": "com.lligainterm"
+},
+{
+	"pkgId": "com.log28"
+},
+{
+	"pkgId": "com.lolo.io.onelist"
+},
+{
+	"pkgId": "com.lonepulse.travisjr"
+},
+{
+	"pkgId": "com.lostrealm.lembretes"
+},
+{
+	"pkgId": "com.lucasdnd.bitclock16"
+},
+{
+	"pkgId": "com.lucasdnd.decimaltimeclockwidget"
+},
+{
+	"pkgId": "com.lucasdnd.unixtimeclockwidget"
+},
+{
+	"pkgId": "com.lukekorth.screennotifications"
+},
+{
+	"pkgId": "com.luk.saucenao"
+},
+{
+	"pkgId": "com.luk.timetable2"
+},
+{
+	"pkgId": "com.lun.chin.aicamera"
+},
+{
+	"pkgId": "com.lyonbros.turtl"
+},
+{
+	"pkgId": "com.machiav3lli.backup"
+},
+{
+	"pkgId": "com.madgag.agit"
+},
+{
+	"pkgId": "com.majeur.applicationsinfo"
+},
+{
+	"pkgId": "com.makeinfo.sudokugenerator"
+},
+{
+	"pkgId": "com.malek.alldebrid"
+},
+{
+	"pkgId": "com.manichord.mgit"
+},
+{
+	"pkgId": "com.manor.currentwidget"
+},
+{
+	"pkgId": "com.mantz_it.rfanalyzer"
+},
+{
+	"pkgId": "com.manuelmaly.hn"
+},
+{
+	"pkgId": "com.marcdonald.hibi"
+},
+{
+	"pkgId": "com.marceljurtz.lifecounter"
+},
+{
+	"pkgId": "com.MarcosDiez.shareviahttp"
+},
+{
+	"pkgId": "com.marcospoerl.simplypace"
+},
+{
+	"pkgId": "com.mareksebera.simpledilbert"
+},
+{
+	"pkgId": "com.markusborg.test"
+},
+{
+	"pkgId": "com.markuspage.android.atimetracker"
+},
+{
+	"pkgId": "com.martinborjesson.o2xtouchlednotifications"
+},
+{
+	"pkgId": "com.marv42.ebt.newnote"
+},
+{
+	"pkgId": "com.maskyn.fileeditorpro"
+},
+{
+	"pkgId": "com.matburt.mobileorg"
+},
+{
+	"pkgId": "com.matejdro.pebbledialer"
+},
+{
+	"pkgId": "com.materialos.cm.theme"
+},
+{
+	"pkgId": "com.mathi_amorim.emmanuel.metrictime"
+},
+{
+	"pkgId": "com.matoski.adbm"
+},
+{
+	"pkgId": "com.mattallen.dpixel"
+},
+{
+	"pkgId": "com.mattallen.loaned"
+},
+{
+	"pkgId": "com.matteopacini.katana"
+},
+{
+	"pkgId": "com.mattermost.mattermost"
+},
+{
+	"pkgId": "com.mattermost.rnbeta"
+},
+{
+	"pkgId": "com.mattgmg.miracastwidget"
+},
+{
+	"pkgId": "com.mattieapps.roommates"
+},
+{
+	"pkgId": "com.maxfierke.sandwichroulette"
+},
+{
+	"pkgId": "com.maxfour.music"
+},
+{
+	"pkgId": "com.mde.potdroid"
+},
+{
+	"pkgId": "com.mdroid"
+},
+{
+	"pkgId": "com.mehmetakiftutuncu.eshotroid"
+},
+{
+	"pkgId": "com.mendhak.gpslogger"
+},
+{
+	"pkgId": "com.menny.android.anysoftkeyboard"
+},
+{
+	"pkgId": "com.menny.anysoftkeyboard.finnish"
+},
+{
+	"pkgId": "com.metinkale.prayer"
+},
+{
+	"pkgId": "com.mgaetan89.showsrage"
+},
+{
+	"pkgId": "com.michaldabski.filemanager"
+},
+{
+	"pkgId": "com.midisheetmusic"
+},
+{
+	"pkgId": "com.mikifus.padland"
+},
+{
+	"pkgId": "com.mill_e.twitterwrapper"
+},
+{
+	"pkgId": "com.miqote.angelplayerwp"
+},
+{
+	"pkgId": "com.miqote.brswp"
+},
+{
+	"pkgId": "com.miqote.shanawp"
+},
+{
+	"pkgId": "com.mirasmithy.epochlauncher"
+},
+{
+	"pkgId": "com.mitzuli"
+},
+{
+	"pkgId": "com.mkf.droidsat"
+},
+{
+	"pkgId": "com.mkulesh.micromath.plus"
+},
+{
+	"pkgId": "com.mkulesh.onpc"
+},
+{
+	"pkgId": "com.mmazzarolo.breathly"
+},
+{
+	"pkgId": "com.mobilepearls.sokoban"
+},
+{
+	"pkgId": "com.mobiperf"
+},
+{
+	"pkgId": "com.mod.android.widget.fbcw"
+},
+{
+	"pkgId": "com.moez.QKSMS"
+},
+{
+	"pkgId": "com.mohammadag.beamfile"
+},
+{
+	"pkgId": "com.monead.games.android.sequence"
+},
+{
+	"pkgId": "com.money.manager.ex"
+},
+{
+	"pkgId": "com.mookie.circo"
+},
+{
+	"pkgId": "com.moonpi.swiftnotes"
+},
+{
+	"pkgId": "com.moonpi.tapunlock"
+},
+{
+	"pkgId": "com.morlunk.mountie"
+},
+{
+	"pkgId": "com.morlunk.mumbleclient"
+},
+{
+	"pkgId": "com.movim.movim"
+},
+{
+	"pkgId": "com.mrbimc.selinux"
+},
+{
+	"pkgId": "com.mridang.cellinfo"
+},
+{
+	"pkgId": "com.mridang.speedo"
+},
+{
+	"pkgId": "com.mridang.throttle"
+},
+{
+	"pkgId": "com.mridang.wifiinfo"
+},
+{
+	"pkgId": "com.msapps.touchdetector"
+},
+{
+	"pkgId": "com.mschlauch.comfortreader"
+},
+{
+	"pkgId": "community.fairphone.checkup"
+},
+{
+	"pkgId": "community.fairphone.clock"
+},
+{
+	"pkgId": "community.fairphone.fplauncher3"
+},
+{
+	"pkgId": "community.fairphone.launcher"
+},
+{
+	"pkgId": "community.fairphone.mycontacts"
+},
+{
+	"pkgId": "community.peers.internetradio"
+},
+{
+	"pkgId": "community.peers.license"
+},
+{
+	"pkgId": "com.mustafaali.sensorssandbox"
+},
+{
+	"pkgId": "com.mustupid.metronome"
+},
+{
+	"pkgId": "com.mustupid.pitch_pipe"
+},
+{
+	"pkgId": "com.mykola.lexinproject"
+},
+{
+	"pkgId": "com.myopicmobile.textwarrior.android"
+},
+{
+	"pkgId": "com.nagopy.android.disablemanager2"
+},
+{
+	"pkgId": "com.naman14.stools"
+},
+{
+	"pkgId": "com.namelessdev.mpdroid"
+},
+{
+	"pkgId": "com.nanoconverter.zlab"
+},
+{
+	"pkgId": "com.nathaniel.motus.cavevin"
+},
+{
+	"pkgId": "com.nathanosman.chronosnap"
+},
+{
+	"pkgId": "com.nauj27.android.colorpicker"
+},
+{
+	"pkgId": "com.nbossard.packlist"
+},
+{
+	"pkgId": "com.nephi.getoffyourphone"
+},
+{
+	"pkgId": "com.nephoapp.anarxiv"
+},
+{
+	"pkgId": "com.nesswit.galbijjimsearcher"
+},
+{
+	"pkgId": "com.netthreads.android.noiz2"
+},
+{
+	"pkgId": "com.newsblur"
+},
+{
+	"pkgId": "com.nexes.manager"
+},
+{
+	"pkgId": "com.nextcloud.android.beta"
+},
+{
+	"pkgId": "com.nextcloud.client"
+},
+{
+	"pkgId": "com.nextcloudpasswords"
+},
+{
+	"pkgId": "com.nextcloud.talk2"
+},
+{
+	"pkgId": "com.nextgis.mobile"
+},
+{
+	"pkgId": "com.nhellfire.kerneladiutor"
+},
+{
+	"pkgId": "com.nicobrailo.pianoli"
+},
+{
+	"pkgId": "com.nicolasbrailo.vlcfreemote"
+},
+{
+	"pkgId": "com.nicue.onetwo"
+},
+{
+	"pkgId": "com.nightshadelabs.anotherbrowser"
+},
+{
+	"pkgId": "com.nikhiljha.lobstersapp"
+},
+{
+	"pkgId": "com.nilhcem.frcndict"
+},
+{
+	"pkgId": "com.nilhcem.hostseditor"
+},
+{
+	"pkgId": "com.niparasc.papanikolis"
+},
+{
+	"pkgId": "com.nishantboro.splititeasy"
+},
+{
+	"pkgId": "com.nkanaev.comics"
+},
+{
+	"pkgId": "com.nltechno.dolidroidpro"
+},
+{
+	"pkgId": "com.nma.util.sdcardtrac"
+},
+{
+	"pkgId": "com.nolanlawson.apptracker"
+},
+{
+	"pkgId": "com.nolanlawson.chordreader"
+},
+{
+	"pkgId": "com.nolanlawson.jnameconverter"
+},
+{
+	"pkgId": "com.nolanlawson.keepscore"
+},
+{
+	"pkgId": "com.nolanlawson.logcat"
+},
+{
+	"pkgId": "com.nomadlabs.labcoat.deeplinks"
+},
+{
+	"pkgId": "com.nononsenseapps.feeder"
+},
+{
+	"pkgId": "com.nononsenseapps.notepad"
+},
+{
+	"pkgId": "com.noprestige.kanaquiz"
+},
+{
+	"pkgId": "com.notecryptpro"
+},
+{
+	"pkgId": "com.notriddle.budget"
+},
+{
+	"pkgId": "com.notriddle.null_launcer"
+},
+{
+	"pkgId": "com.nucc.hackwinds"
+},
+{
+	"pkgId": "com.numguesser.tonio_rpchp.numberguesser"
+},
+{
+	"pkgId": "com.numix.calculator"
+},
+{
+	"pkgId": "com.numix.icons_circle"
+},
+{
+	"pkgId": "com.nutomic.ensichat"
+},
+{
+	"pkgId": "com.nutomic.syncthingandroid"
+},
+{
+	"pkgId": "com.nutomic.zertman"
+},
+{
+	"pkgId": "com.oakley.fon"
+},
+{
+	"pkgId": "com.oF2pks.adbungfu"
+},
+{
+	"pkgId": "com.oF2pks.applicationsinfo"
+},
+{
+	"pkgId": "com.oF2pks.chairlock"
+},
+{
+	"pkgId": "com.oF2pks.classyshark3xodus"
+},
+{
+	"pkgId": "com.oF2pks.jquarks"
+},
+{
+	"pkgId": "com.oF2pks.kalturadeviceinfos"
+},
+{
+	"pkgId": "com.oF2pks.neolinker"
+},
+{
+	"pkgId": "com.ogsdroid"
+},
+{
+	"pkgId": "com.olam"
+},
+{
+	"pkgId": "com.omegavesko.holocounter"
+},
+{
+	"pkgId": "com.omegavesko.sutransplus"
+},
+{
+	"pkgId": "com.oml.recordtimedroid"
+},
+{
+	"pkgId": "com.onetwofivegames.kungfoobarracuda"
+},
+{
+	"pkgId": "com.opendoorstudios.ds4droid"
+},
+{
+	"pkgId": "com.orgzly"
+},
+{
+	"pkgId": "com.oriondev.moneywallet"
+},
+{
+	"pkgId": "com.orphan.amplayer"
+},
+{
+	"pkgId": "com.orpheusdroid.screenrecorder"
+},
+{
+	"pkgId": "com.orpheusdroid.sqliteviewer"
+},
+{
+	"pkgId": "com.osfans.trime"
+},
+{
+	"pkgId": "com.outdoordevs.ellaism.wallet"
+},
+{
+	"pkgId": "com.owncloud.android"
+},
+{
+	"pkgId": "com.packetsender.android"
+},
+{
+	"pkgId": "com.palliser.nztides"
+},
+{
+	"pkgId": "com.paranoid.ParanoidWallpapers"
+},
+{
+	"pkgId": "com.passcard"
+},
+{
+	"pkgId": "com.Pau.ImapNotes2"
+},
+{
+	"pkgId": "com.pavelsikun.runinbackgroundpermissionsetter"
+},
+{
+	"pkgId": "com.pcinpact"
+},
+{
+	"pkgId": "com.perflyst.twire"
+},
+{
+	"pkgId": "com.pheelicks.visualizer"
+},
+{
+	"pkgId": "com.phg.constellations"
+},
+{
+	"pkgId": "com.phikal.regex"
+},
+{
+	"pkgId": "com.philliphsu.clock2"
+},
+{
+	"pkgId": "com.philolog.hoplitekeyboard"
+},
+{
+	"pkgId": "com.phpsysinfo"
+},
+{
+	"pkgId": "com.physphil.android.unitconverterultimate"
+},
+{
+	"pkgId": "com.pi.attestation"
+},
+{
+	"pkgId": "com.pierreduchemin.punchlinebingo"
+},
+{
+	"pkgId": "com.pikselbit.wrongpinshutdown"
+},
+{
+	"pkgId": "com.pilockerstable"
+},
+{
+	"pkgId": "com.pilot51.voicenotify"
+},
+{
+	"pkgId": "com.pindroid"
+},
+{
+	"pkgId": "com.piratebayfree"
+},
+{
+	"pkgId": "com.pitchedapps.frost"
+},
+{
+	"pkgId": "com.piwi.stickeroid"
+},
+{
+	"pkgId": "com.pixiv.muzei.pixivsource"
+},
+{
+	"pkgId": "com.pjuu.otterdroid"
+},
+{
+	"pkgId": "com.planes.android"
+},
+{
+	"pkgId": "com.platypus.dicer"
+},
+{
+	"pkgId": "com.platypus.SAnd"
+},
+{
+	"pkgId": "com.pluscubed.matloglibre"
+},
+{
+	"pkgId": "com.plusonelabs.calendar"
+},
+{
+	"pkgId": "com.poinsart.votar"
+},
+{
+	"pkgId": "com.polipoid"
+},
+{
+	"pkgId": "com.politedroid"
+},
+{
+	"pkgId": "com.poloure.simplerss"
+},
+{
+	"pkgId": "com.poupa.attestationdeplacement"
+},
+{
+	"pkgId": "com.poupa.vinylmusicplayer"
+},
+{
+	"pkgId": "com.powerje.nyan"
+},
+{
+	"pkgId": "com.powerpoint45.lucidbrowser"
+},
+{
+	"pkgId": "com.prangesoftwaresolutions.audioanchor"
+},
+{
+	"pkgId": "com.prhlt.aemus.Read4SpeechExperiments"
+},
+{
+	"pkgId": "com.primavera.arduino.listener"
+},
+{
+	"pkgId": "com.primokorn.enhancement"
+},
+{
+	"pkgId": "com.proch.practicehub"
+},
+{
+	"pkgId": "com.procrastimax.birthdaybuddy"
+},
+{
+	"pkgId": "com.projectsexception.myapplist.open"
+},
+{
+	"pkgId": "com.punksta.apps.volumecontrol"
+},
+{
+	"pkgId": "com.purplefoto.pfdock"
+},
+{
+	"pkgId": "com.qsp.player"
+},
+{
+	"pkgId": "com.quaap.audiometer"
+},
+{
+	"pkgId": "com.quaap.bookymcbookface"
+},
+{
+	"pkgId": "com.quaap.computationaldemonology"
+},
+{
+	"pkgId": "com.quaap.dodatheexploda"
+},
+{
+	"pkgId": "com.quaap.fishberserker"
+},
+{
+	"pkgId": "com.quaap.launchtime"
+},
+{
+	"pkgId": "com.quaap.phonefonefun"
+},
+{
+	"pkgId": "com.quaap.primary"
+},
+{
+	"pkgId": "com.qubling.sidekick"
+},
+{
+	"pkgId": "com.quchen.flashcard"
+},
+{
+	"pkgId": "com.radioreddit.android"
+},
+{
+	"pkgId": "com.radiostudent.radiostudentstream"
+},
+{
+	"pkgId": "com.rareventure.gps2"
+},
+{
+	"pkgId": "com.rascarlo.adaptive.brightness.tile"
+},
+{
+	"pkgId": "com.rascarlo.arch.packages"
+},
+{
+	"pkgId": "com.rascarlo.aurdroid"
+},
+{
+	"pkgId": "com.rascarlo.power.button.tile"
+},
+{
+	"pkgId": "com.rastating.droidbeard"
+},
+{
+	"pkgId": "com.readrops.app"
+},
+{
+	"pkgId": "com.readystatesoftware.ghostlog"
+},
+{
+	"pkgId": "com.redblaster.hsl.main"
+},
+{
+	"pkgId": "com.redcoracle.episodes"
+},
+{
+	"pkgId": "com.reddyetwo.hashmypass.app"
+},
+{
+	"pkgId": "com.redirectapps.tvkill"
+},
+{
+	"pkgId": "com.refactech.driibo"
+},
+{
+	"pkgId": "com.rehanced.lunary"
+},
+{
+	"pkgId": "com.reicast.emulator"
+},
+{
+	"pkgId": "com.repay.android"
+},
+{
+	"pkgId": "com.replica.replicaisland"
+},
+{
+	"pkgId": "com.rfo.basic"
+},
+{
+	"pkgId": "com.rfo.LASKmobile"
+},
+{
+	"pkgId": "com.rhiannonweb.android.migrainetracker"
+},
+{
+	"pkgId": "com.ridgelineapps.resdicegame"
+},
+{
+	"pkgId": "com.rigid.birthdroid"
+},
+{
+	"pkgId": "com.ringdroid"
+},
+{
+	"pkgId": "com.rj.pixelesque"
+},
+{
+	"pkgId": "com.robert.maps"
+},
+{
+	"pkgId": "com.rockbyte.arxiv"
+},
+{
+	"pkgId": "com.rogerbassonsrenart.paddletennis"
+},
+{
+	"pkgId": "com.roguetemple.hydroid"
+},
+{
+	"pkgId": "com.roguetemple.hyperroid"
+},
+{
+	"pkgId": "com.rohitsuratekar.NCBSinfo"
+},
+{
+	"pkgId": "com.roozen.SoundManagerv2"
+},
+{
+	"pkgId": "com.rtbishop.look4sat"
+},
+{
+	"pkgId": "com.rubenroy.minimaltodo"
+},
+{
+	"pkgId": "com.rubenwardy.minetestmodmanager"
+},
+{
+	"pkgId": "com.ruesga.android.wallpapers.photophase"
+},
+{
+	"pkgId": "com.sagar.screenshift2"
+},
+{
+	"pkgId": "com.saha.batchuninstaller"
+},
+{
+	"pkgId": "com.sahdeepsingh.Bop"
+},
+{
+	"pkgId": "com.saibotd.bitbeaker"
+},
+{
+	"pkgId": "com.saladdressing.veterondo"
+},
+{
+	"pkgId": "com.samarthdesai.repeatme"
+},
+{
+	"pkgId": "com.samco.trackandgraph"
+},
+{
+	"pkgId": "com.samebits.beacon.locator"
+},
+{
+	"pkgId": "com.sam.hex"
+},
+{
+	"pkgId": "com.samsandberg.mtafarebuster"
+},
+{
+	"pkgId": "com.samsung.srpol"
+},
+{
+	"pkgId": "com.sandeel.bushidoblocks"
+},
+{
+	"pkgId": "com.sanskritbasics.memory"
+},
+{
+	"pkgId": "com.sapos_aplastados.game.clash_of_balls"
+},
+{
+	"pkgId": "com.sapuseven.untis"
+},
+{
+	"pkgId": "com.scar45.aokp.co.webviewer"
+},
+{
+	"pkgId": "com.scottmain.android.searchlight"
+},
+{
+	"pkgId": "com.scraperclub.android"
+},
+{
+	"pkgId": "com.sduduzog.slimlauncher"
+},
+{
+	"pkgId": "com.seafile.seadroid2"
+},
+{
+	"pkgId": "com.seavenois.tetris"
+},
+{
+	"pkgId": "com.seawolfsanctuary.keepingtracks"
+},
+{
+	"pkgId": "com.seb.SLWP"
+},
+{
+	"pkgId": "com.seb.SLWPmaps"
+},
+{
+	"pkgId": "com.secuso.privacyFriendlyCodeScanner"
+},
+{
+	"pkgId": "com.secuso.torchlight2"
+},
+{
+	"pkgId": "com.selbie.wrek"
+},
+{
+	"pkgId": "com.selesca.xkcdmuzei"
+},
+{
+	"pkgId": "com.sensirion.smartgadget"
+},
+{
+	"pkgId": "com.serone.desktoplabel"
+},
+{
+	"pkgId": "com.servoz.appsdisabler"
+},
+{
+	"pkgId": "com.serwylo.lexica"
+},
+{
+	"pkgId": "com.serwylo.msjviewer"
+},
+{
+	"pkgId": "com.sevag.pitcha"
+},
+{
+	"pkgId": "com.sevag.unrealtracker"
+},
+{
+	"pkgId": "com.sgr_b2.compass"
+},
+{
+	"pkgId": "com.shadcat.secdroid"
+},
+{
+	"pkgId": "com.shanewmiller.gorecompanion"
+},
+{
+	"pkgId": "com.shatteredpixel.shatteredpixeldungeon"
+},
+{
+	"pkgId": "com.shkmishra.lyrically"
+},
+{
+	"pkgId": "com.showmehills"
+},
+{
+	"pkgId": "com.shurik.droidzebra"
+},
+{
+	"pkgId": "com.sigmarelax.doitoscihub"
+},
+{
+	"pkgId": "com.sigseg.android.worldmap"
+},
+{
+	"pkgId": "com.silentlexx.instead"
+},
+{
+	"pkgId": "com.simonramstedt.yoke"
+},
+{
+	"pkgId": "com.simpledecredwidget"
+},
+{
+	"pkgId": "com.simplemobiletools.applauncher"
+},
+{
+	"pkgId": "com.simplemobiletools.calculator"
+},
+{
+	"pkgId": "com.simplemobiletools.calendar.pro"
+},
+{
+	"pkgId": "com.simplemobiletools.camera"
+},
+{
+	"pkgId": "com.simplemobiletools.clock"
+},
+{
+	"pkgId": "com.simplemobiletools.contacts.pro"
+},
+{
+	"pkgId": "com.simplemobiletools.dialer"
+},
+{
+	"pkgId": "com.simplemobiletools.draw.pro"
+},
+{
+	"pkgId": "com.simplemobiletools.filemanager.pro"
+},
+{
+	"pkgId": "com.simplemobiletools.flashlight"
+},
+{
+	"pkgId": "com.simplemobiletools.gallery.pro"
+},
+{
+	"pkgId": "com.simplemobiletools.musicplayer"
+},
+{
+	"pkgId": "com.simplemobiletools.notes.pro"
+},
+{
+	"pkgId": "com.simplemobiletools.smsmessenger"
+},
+{
+	"pkgId": "com.simplemobiletools.thankyou"
+},
+{
+	"pkgId": "com.simplemobiletools.voicerecorder"
+},
+{
+	"pkgId": "com.sinpo.xnfc"
+},
+{
+	"pkgId": "com.sismics.reader"
+},
+{
+	"pkgId": "com.slash.batterychargelimit"
+},
+{
+	"pkgId": "com.sli.ohmcalc"
+},
+{
+	"pkgId": "com.slothwerks.hearthstone.compendiumforhearthstone"
+},
+{
+	"pkgId": "com.smerty.ham"
+},
+{
+	"pkgId": "com.smilla.greentooth"
+},
+{
+	"pkgId": "com.smithdtyler.prettygoodmusicplayer"
+},
+{
+	"pkgId": "com.smithdtyler.prettygoodmusicplayer.launchermode"
+},
+{
+	"pkgId": "com.smorgasbork.hotdeath"
+},
+{
+	"pkgId": "com.Sommerlichter.social"
+},
+{
+	"pkgId": "com.sound.ampache"
+},
+{
+	"pkgId": "com.sovworks.edslite"
+},
+{
+	"pkgId": "com.soyblue.bluesound"
+},
+{
+	"pkgId": "com.spazedog.mounts2sd"
+},
+{
+	"pkgId": "com.spisoft.quicknote"
+},
+{
+	"pkgId": "com.sputnik.wispr"
+},
+{
+	"pkgId": "com.spydiko.rotationmanager_foss"
+},
+{
+	"pkgId": "com.ssaurel.clocklw"
+},
+{
+	"pkgId": "com.standardnotes"
+},
+{
+	"pkgId": "com.starapps.tools.tnefextractor"
+},
+{
+	"pkgId": "com.stealthcotper.networktools"
+},
+{
+	"pkgId": "com.stoutner.privacybrowser.standard"
+},
+{
+	"pkgId": "com.stripe1.xmouse"
+},
+{
+	"pkgId": "com.studio332.flickit"
+},
+{
+	"pkgId": "com.studio332.flickit.android"
+},
+{
+	"pkgId": "com.stwalkerster.android.apps.strobelight"
+},
+{
+	"pkgId": "com.stypox.mastercom_workbook"
+},
+{
+	"pkgId": "com.styrkurapp.app"
+},
+{
+	"pkgId": "com.sunyata.kindmind"
+},
+{
+	"pkgId": "com.suyashsrijan.forcedoze"
+},
+{
+	"pkgId": "com.sweetiepiggy.everylocale"
+},
+{
+	"pkgId": "com.swiss.tournament"
+},
+{
+	"pkgId": "com.tachibana.downloader"
+},
+{
+	"pkgId": "com.tananaev.calculator"
+},
+{
+	"pkgId": "com.tananaev.logcat"
+},
+{
+	"pkgId": "com.tasomaniac.dashclock.hackerspace.floss"
+},
+{
+	"pkgId": "com.tasomaniac.openwith.floss"
+},
+{
+	"pkgId": "com.tastycactus.timesheet"
+},
+{
+	"pkgId": "com.teamdc.stephendiniz.autoaway"
+},
+{
+	"pkgId": "com.teleca.jamendo"
+},
+{
+	"pkgId": "com.templaro.opsiz.aka"
+},
+{
+	"pkgId": "com.ten15.diyfish"
+},
+{
+	"pkgId": "com.tengu.sharetoclipboard"
+},
+{
+	"pkgId": "com.termoneplus"
+},
+{
+	"pkgId": "com.termux"
+},
+{
+	"pkgId": "com.termux.api"
+},
+{
+	"pkgId": "com.termux.boot"
+},
+{
+	"pkgId": "com.termux.nix"
+},
+{
+	"pkgId": "com.termux.styling"
+},
+{
+	"pkgId": "com.termux.tasker"
+},
+{
+	"pkgId": "com.termux.widget"
+},
+{
+	"pkgId": "com.termux.window"
+},
+{
+	"pkgId": "com.thechiefmeat.freetusky"
+},
+{
+	"pkgId": "com.thefonz.ed_tool"
+},
+{
+	"pkgId": "com.thehoick.evergreenwishlist"
+},
+{
+	"pkgId": "com.theksmith.android.car_bus_interface"
+},
+{
+	"pkgId": "com.thermatk.android.xf.fakegapps"
+},
+{
+	"pkgId": "com.theworld.help.cbtandroid"
+},
+{
+	"pkgId": "com.thibaudperso.sonycamera"
+},
+{
+	"pkgId": "com.threedlite.livePolys"
+},
+{
+	"pkgId": "com.threedlite.urforms"
+},
+{
+	"pkgId": "com.threedlite.userhash.location"
+},
+{
+	"pkgId": "com.tht.k3pler"
+},
+{
+	"pkgId": "com.th.XenonWallpapers"
+},
+{
+	"pkgId": "com.tierep.notificationanalyser"
+},
+{
+	"pkgId": "com.timvdalen.gizmooi"
+},
+{
+	"pkgId": "com.tinkerlog.android.pongtime"
+},
+{
+	"pkgId": "com.tiwa.pl"
+},
+{
+	"pkgId": "com.tjm.crushr"
+},
+{
+	"pkgId": "com.tjm.stripepaper"
+},
+{
+	"pkgId": "com.tkjelectronics.balanduino"
+},
+{
+	"pkgId": "com.tmarki.comicmaker"
+},
+{
+	"pkgId": "com.tmendes.birthdaydroid"
+},
+{
+	"pkgId": "com.tmendes.dadosd"
+},
+{
+	"pkgId": "com.tobiaskuban.android.monthcalendarwidgetfoss"
+},
+{
+	"pkgId": "com.tobykurien.batteryfu"
+},
+{
+	"pkgId": "com.tobykurien.google_news"
+},
+{
+	"pkgId": "com.tobykurien.webapps"
+},
+{
+	"pkgId": "com.tobykurien.webmediashare"
+},
+{
+	"pkgId": "com.todobom.opennotescanner"
+},
+{
+	"pkgId": "com.tomaszmarzeion.notepad"
+},
+{
+	"pkgId": "com.tomatodev.timerdroid"
+},
+{
+	"pkgId": "com.tomer.alwayson"
+},
+{
+	"pkgId": "com.tomer.dbz.widget"
+},
+{
+	"pkgId": "com.tomer.draw"
+},
+{
+	"pkgId": "com.tomer.poke.notifier"
+},
+{
+	"pkgId": "com.tomer.screenshotsharer"
+},
+{
+	"pkgId": "com.tortel.syslog"
+},
+{
+	"pkgId": "com.tortuca.holoken"
+},
+{
+	"pkgId": "com.totsp.bookworm"
+},
+{
+	"pkgId": "com.totsp.crossword.shortyz"
+},
+{
+	"pkgId": "com.toxtox.philosopherstonewidget"
+},
+{
+	"pkgId": "com.traffar.a24game"
+},
+{
+	"pkgId": "com.traffar.game_of_life"
+},
+{
+	"pkgId": "com.traffar.gomoku"
+},
+{
+	"pkgId": "com.traffar.oware"
+},
+{
+	"pkgId": "com.traffar.pentago"
+},
+{
+	"pkgId": "com.transway.caresteouvert"
+},
+{
+	"pkgId": "com.tritop.androsense2"
+},
+{
+	"pkgId": "com.tttdevs.stncbookmarks"
+},
+{
+	"pkgId": "com.tum.yahtzee"
+},
+{
+	"pkgId": "com.tunes.viewer"
+},
+{
+	"pkgId": "com.tunjid.fingergestures"
+},
+{
+	"pkgId": "com.turtleplayerv2"
+},
+{
+	"pkgId": "com.tutpro.baresip"
+},
+{
+	"pkgId": "com.tutpro.baresip.plus"
+},
+{
+	"pkgId": "com.twinone.locker"
+},
+{
+	"pkgId": "com.twistedplane.sealnote"
+},
+{
+	"pkgId": "com.twofours.surespot"
+},
+{
+	"pkgId": "com.twsitedapps.homemanager"
+},
+{
+	"pkgId": "com.u17od.upm"
+},
+{
+	"pkgId": "com.ubergeek42.WeechatAndroid"
+},
+{
+	"pkgId": "com.uberspot.a2048"
+},
+{
+	"pkgId": "com.ulicae.cinelog"
+},
+{
+	"pkgId": "com.ultrafunk.network_info"
+},
+{
+	"pkgId": "com.ultramegasoft.flavordex2"
+},
+{
+	"pkgId": "com.ultramegatech.ey"
+},
+{
+	"pkgId": "com.umang.dashnotifier"
+},
+{
+	"pkgId": "com.unciv.app"
+},
+{
+	"pkgId": "com.unwind.networkmonitor"
+},
+{
+	"pkgId": "com.unwrappedapps.android.wallpaper.creative"
+},
+{
+	"pkgId": "com.uploadedlobster.PwdHash"
+},
+{
+	"pkgId": "com.utazukin.ichaival"
+},
+{
+	"pkgId": "com.utyf.pmetro"
+},
+{
+	"pkgId": "com.vackosar.searchbasedlauncher"
+},
+{
+	"pkgId": "com.vadimfrolov.duorem"
+},
+{
+	"pkgId": "com.valleytg.oasvn.android"
+},
+{
+	"pkgId": "com.vanderbie.heart_rate_monitor"
+},
+{
+	"pkgId": "com.veken0m.bitcoinium"
+},
+{
+	"pkgId": "com.veniosg.dir"
+},
+{
+	"pkgId": "com.vgorcum.minedmonero"
+},
+{
+	"pkgId": "com.viper.simplert"
+},
+{
+	"pkgId": "com.vlath.beheexplorer"
+},
+{
+	"pkgId": "com.vlath.keyboard"
+},
+{
+	"pkgId": "com.vlille.checker"
+},
+{
+	"pkgId": "com.voidcode.diasporawebclient"
+},
+{
+	"pkgId": "com.volosyukivan"
+},
+{
+	"pkgId": "com.vonglasow.michael.qz"
+},
+{
+	"pkgId": "com.vonglasow.michael.satstat"
+},
+{
+	"pkgId": "com.vrem.wifianalyzer"
+},
+{
+	"pkgId": "com.vsmartcard.acardemulator"
+},
+{
+	"pkgId": "com.vsmartcard.remotesmartcardreader.app"
+},
+{
+	"pkgId": "com.vuze.android.remote"
+},
+{
+	"pkgId": "com.vwp.locdemo"
+},
+{
+	"pkgId": "com.vwp.owmap"
+},
+{
+	"pkgId": "com.vwp.owmini"
+},
+{
+	"pkgId": "com.wabadaba.dziennik"
+},
+{
+	"pkgId": "com.waist.line"
+},
+{
+	"pkgId": "com.wangdaye.mysplash"
+},
+{
+	"pkgId": "com.wanghaus.remembeer"
+},
+{
+	"pkgId": "com.watabou.pixeldungeon"
+},
+{
+	"pkgId": "com.wbrenna.gtfsoffline"
+},
+{
+	"pkgId": "com.weatherlight.elloshare"
+},
+{
+	"pkgId": "com.weicheng.taipeiyoubikeoffline"
+},
+{
+	"pkgId": "com.wentam.defcol"
+},
+{
+	"pkgId": "com.wesaphzt.privatelocation"
+},
+{
+	"pkgId": "com.wesaphzt.privatelock"
+},
+{
+	"pkgId": "com.weskenyon.bookmarkos"
+},
+{
+	"pkgId": "com.wikaba.ogapp"
+},
+{
+	"pkgId": "com.wikijourney.wikijourney"
+},
+{
+	"pkgId": "com.willhauck.linconnectclient"
+},
+{
+	"pkgId": "com.willianveiga.countdowntimer"
+},
+{
+	"pkgId": "com.wireguard.android"
+},
+{
+	"pkgId": "com.wmstein.tourcount"
+},
+{
+	"pkgId": "com.wmstein.transektcount"
+},
+{
+	"pkgId": "com.woefe.shoppinglist"
+},
+{
+	"pkgId": "com.wolas.awesomewallpaper"
+},
+{
+	"pkgId": "com.wordpress.sarfraznawaz.callerdetails"
+},
+{
+	"pkgId": "com.workingagenda.democracydroid"
+},
+{
+	"pkgId": "com.workingagenda.devinettes"
+},
+{
+	"pkgId": "com.workingagenda.fissure"
+},
+{
+	"pkgId": "com.wownero.wownerujo"
+},
+{
+	"pkgId": "com.write.Quill"
+},
+{
+	"pkgId": "com.wrmndfzzy.atomize"
+},
+{
+	"pkgId": "com.x1unix.s60icons"
+},
+{
+	"pkgId": "com.xabber.android"
+},
+{
+	"pkgId": "com.xabber.android.classic"
+},
+{
+	"pkgId": "com.xargsgrep.portknocker"
+},
+{
+	"pkgId": "com.xatik.app.droiddraw.client"
+},
+{
+	"pkgId": "com.xBrowserSync.android"
+},
+{
+	"pkgId": "com.xda.theme.cyanogenmod"
+},
+{
+	"pkgId": "com.xenris.liquidwarsos"
+},
+{
+	"pkgId": "com.xlythe.calculator.material"
+},
+{
+	"pkgId": "com.xlythe.minecraftclock"
+},
+{
+	"pkgId": "com.xmission.trevin.android.todo"
+},
+{
+	"pkgId": "com.xperia64.timidityae"
+},
+{
+	"pkgId": "com.yacgroup.yacguide.dev"
+},
+{
+	"pkgId": "com.yasfa.views"
+},
+{
+	"pkgId": "com.yassirh.digitalocean"
+},
+{
+	"pkgId": "com.yubico.yubiclip"
+},
+{
+	"pkgId": "com.yubico.yubioath"
+},
+{
+	"pkgId": "com.yubico.yubitotp"
+},
+{
+	"pkgId": "com.zachrattner.pockettalk"
+},
+{
+	"pkgId": "com.zagayevskiy.pacman"
+},
+{
+	"pkgId": "com.zapta.apps.maniana"
+},
+{
+	"pkgId": "com.zaren"
+},
+{
+	"pkgId": "com.zegoggles.smssync"
+},
+{
+	"pkgId": "com.zeusln.zeus"
+},
+{
+	"pkgId": "com.zoffcc.applications.aagtl"
+},
+{
+	"pkgId": "com.zoffcc.applications.metalab_open_widget"
+},
+{
+	"pkgId": "com.zoffcc.applications.trifa"
+},
+{
+	"pkgId": "com.zoffcc.applications.zanavi"
+},
+{
+	"pkgId": "com.zoffcc.fahrplan.toxcon"
+},
+{
+	"pkgId": "com.zola.bmi"
+},
+{
+	"pkgId": "com.zorinos.zorin_connect"
+},
+{
+	"pkgId": "com.zzzmode.appopsx"
+},
+{
+	"pkgId": "co.pxhouse.sas"
+},
+{
+	"pkgId": "cri.sanity"
+},
+{
+	"pkgId": "cs4295.memecreator"
+},
+{
+	"pkgId": "csci567.squeez"
+},
+{
+	"pkgId": "csd.qtproject.minesweeper"
+},
+{
+	"pkgId": "cxa.gridwallpaper"
+},
+{
+	"pkgId": "cxa.lineswallpaper"
+},
+{
+	"pkgId": "cx.hell.android.pdfview"
+},
+{
+	"pkgId": "cx.ring"
+},
+{
+	"pkgId": "cz.antecky.netswitch"
+},
+{
+	"pkgId": "cz.dvratil.fbeventsync"
+},
+{
+	"pkgId": "cz.eutopia.snooperstopper"
+},
+{
+	"pkgId": "cz.harvie.northdog"
+},
+{
+	"pkgId": "cz.hejl.chesswalk"
+},
+{
+	"pkgId": "cz.jiriskorpil.amixerwebui"
+},
+{
+	"pkgId": "cz.jirkovsky.lukas.chmupocasi"
+},
+{
+	"pkgId": "cz.martykan.forecastie"
+},
+{
+	"pkgId": "cz.martykan.webtube"
+},
+{
+	"pkgId": "cz.nic.turris"
+},
+{
+	"pkgId": "cz.romario.opensudoku"
+},
+{
+	"pkgId": "cz.vitSkalicky.klavesnice"
+},
+{
+	"pkgId": "cz.vitskalicky.lepsirozvrh"
+},
+{
+	"pkgId": "damo.three.ie"
+},
+{
+	"pkgId": "daniel_32.flexiblewallpaper"
+},
+{
+	"pkgId": "dasher.android"
+},
+{
+	"pkgId": "d.d.meshenger"
+},
+{
+	"pkgId": "de.antonarnold.android.xoverrideheadphonejackdetection"
+},
+{
+	"pkgId": "de.antonfluegge.android.yubnubwidgetadfree"
+},
+{
+	"pkgId": "de.antonwolf.agendawidget"
+},
+{
+	"pkgId": "de.arnefeil.bewegungsmelder"
+},
+{
+	"pkgId": "de.arnowelzel.android.periodical"
+},
+{
+	"pkgId": "de.audioattack.openlink"
+},
+{
+	"pkgId": "de.azapps.mirakelandroid"
+},
+{
+	"pkgId": "de.azapps.mirakel.dashclock"
+},
+{
+	"pkgId": "de.b0nk.fp1_epo_autoupdate"
+},
+{
+	"pkgId": "de.badaix.snapcast"
+},
+{
+	"pkgId": "de.bahnhoefe.deutschlands.bahnhofsfotos"
+},
+{
+	"pkgId": "de.bashtian.dashclocksunrise"
+},
+{
+	"pkgId": "de.baumann.browser"
+},
+{
+	"pkgId": "de.baumann.hhsmoodle"
+},
+{
+	"pkgId": "de.baumann.pdfcreator"
+},
+{
+	"pkgId": "de.baumann.quitsmoking"
+},
+{
+	"pkgId": "de.baumann.sieben"
+},
+{
+	"pkgId": "de.baumann.thema"
+},
+{
+	"pkgId": "de.baumann.weather"
+},
+{
+	"pkgId": "de.beatbrot.screenshotassistant"
+},
+{
+	"pkgId": "de.binary_kitchen.doorlock_app"
+},
+{
+	"pkgId": "de.bitsharesmunich.smartcoinswallet"
+},
+{
+	"pkgId": "de.bitsharesmunich.wallet"
+},
+{
+	"pkgId": "de.bjusystems.vdrmanager"
+},
+{
+	"pkgId": "de.blau.android"
+},
+{
+	"pkgId": "de.blinkt.openvpn"
+},
+{
+	"pkgId": "de.blocklink.pigrid"
+},
+{
+	"pkgId": "de.bloosberg.basti.childresuscalc"
+},
+{
+	"pkgId": "de.boesling.hydromemo"
+},
+{
+	"pkgId": "de.c3nav.droid"
+},
+{
+	"pkgId": "de.ccc.events.badge.card10"
+},
+{
+	"pkgId": "de.chaosdorf.meteroid"
+},
+{
+	"pkgId": "de.Cherubin7th.blackscreenpresentationremote"
+},
+{
+	"pkgId": "de.christinecoenen.code.zapp"
+},
+{
+	"pkgId": "de.cketti.dashclock.k9"
+},
+{
+	"pkgId": "de.clemensbartz.android.launcher"
+},
+{
+	"pkgId": "de.cryptobitch.muelli.barcodegen"
+},
+{
+	"pkgId": "de.cryptobitch.muelli.vouchercalc"
+},
+{
+	"pkgId": "de.csicar.mensaplan"
+},
+{
+	"pkgId": "de.cwde.freeshisen"
+},
+{
+	"pkgId": "de.cweiske.headphoneindicator"
+},
+{
+	"pkgId": "de.danielweisser.android.ldapsync"
+},
+{
+	"pkgId": "de.danoeh.antennapod"
+},
+{
+	"pkgId": "de.delusionsoftware.congress_fahrplan"
+},
+{
+	"pkgId": "de.democracydeutschland.app"
+},
+{
+	"pkgId": "de.dennisguse.opentracks"
+},
+{
+	"pkgId": "de.determapp.android"
+},
+{
+	"pkgId": "de.devisnik.android.sliding"
+},
+{
+	"pkgId": "de.devmil.muzei.bingimageofthedayartsource"
+},
+{
+	"pkgId": "de.devmil.paperlaunch"
+},
+{
+	"pkgId": "de.digisocken.anotherrss"
+},
+{
+	"pkgId": "de.digisocken.openwort"
+},
+{
+	"pkgId": "de.digisocken.reotwe"
+},
+{
+	"pkgId": "de.digisocken.stop_o_moto"
+},
+{
+	"pkgId": "de.dotwee.micropinner"
+},
+{
+	"pkgId": "de.drhoffmannsoft.pizza"
+},
+{
+	"pkgId": "de.drhoffmannsoftware"
+},
+{
+	"pkgId": "de.drhoffmannsoftware.calcvac"
+},
+{
+	"pkgId": "de.drhoffmannsoftware.xearth"
+},
+{
+	"pkgId": "de.duenndns.gmdice"
+},
+{
+	"pkgId": "de.eidottermihi.raspicheck"
+},
+{
+	"pkgId": "de.enaikoon.android.keypadmapper3"
+},
+{
+	"pkgId": "deep.ryd.rydplayer"
+},
+{
+	"pkgId": "de.feisar.wordvalue"
+},
+{
+	"pkgId": "de.fgerbig.spacepeng"
+},
+{
+	"pkgId": "de.fmaul.android.cmis"
+},
+{
+	"pkgId": "de.fragdenstaat.app"
+},
+{
+	"pkgId": "de.freewarepoint.whohasmystuff"
+},
+{
+	"pkgId": "de.freifunk_karte.freifunk_karte"
+},
+{
+	"pkgId": "de.gabbo.forro_lyrics"
+},
+{
+	"pkgId": "de.geeksfactory.opacclient"
+},
+{
+	"pkgId": "de.grobox.blitzmail"
+},
+{
+	"pkgId": "de.grobox.liberario"
+},
+{
+	"pkgId": "de.hampager.dapnetmobile"
+},
+{
+	"pkgId": "de.hechler.andfish"
+},
+{
+	"pkgId": "de.hfu.funfpunktnull"
+},
+{
+	"pkgId": "de.hirtenstrasse.michael.lnkshortener"
+},
+{
+	"pkgId": "de.hoffmannsgimmicks"
+},
+{
+	"pkgId": "de.hoffmannsgimmickstaupunkt"
+},
+{
+	"pkgId": "de.hosenhasser.funktrainer"
+},
+{
+	"pkgId": "de.HS_Aalen.don"
+},
+{
+	"pkgId": "de.hskl.contacts"
+},
+{
+	"pkgId": "de.hu_berlin.eduroam"
+},
+{
+	"pkgId": "de.hu_berlin.informatik.spws2014.mapever"
+},
+{
+	"pkgId": "de.igloffstein.maik.aRevelation"
+},
+{
+	"pkgId": "de.j4velin.pedometer"
+},
+{
+	"pkgId": "de.j4velin.systemappmover"
+},
+{
+	"pkgId": "de.j4velin.wifiAutoOff"
+},
+{
+	"pkgId": "de.jdsoft.law"
+},
+{
+	"pkgId": "de.jkliemann.parkendd"
+},
+{
+	"pkgId": "de.jl.notificationlog"
+},
+{
+	"pkgId": "de.jugendhacker.xmppadmin"
+},
+{
+	"pkgId": "de.jurihock.voicesmith"
+},
+{
+	"pkgId": "de.k3b.android.androFotoFinder"
+},
+{
+	"pkgId": "de.k3b.android.calendar.ics.adapter"
+},
+{
+	"pkgId": "de.k3b.android.contentproviderhelper"
+},
+{
+	"pkgId": "de.k3b.android.intentintercept"
+},
+{
+	"pkgId": "de.k3b.android.locationMapViewer"
+},
+{
+	"pkgId": "de.k3b.android.lossless_jpg_crop"
+},
+{
+	"pkgId": "de.k3b.android.toGoZip"
+},
+{
+	"pkgId": "de.k4ever.k4android"
+},
+{
+	"pkgId": "de.kaffeemitkoffein.feinstaubwidget"
+},
+{
+	"pkgId": "de.kaffeemitkoffein.imagepipe"
+},
+{
+	"pkgId": "de.karbach.tac"
+},
+{
+	"pkgId": "de.kodejak.hashr"
+},
+{
+	"pkgId": "de.koelle.christian.trickytripper"
+},
+{
+	"pkgId": "de.kromke.andreas.mediascanner"
+},
+{
+	"pkgId": "de.kromke.andreas.musictagger"
+},
+{
+	"pkgId": "de.kromke.andreas.unpopmusicplayerfree"
+},
+{
+	"pkgId": "de.ktran.anno1404warenrechner"
+},
+{
+	"pkgId": "de.kugihan.dictionaryformids.hmi_android"
+},
+{
+	"pkgId": "de.larcado.sesam"
+},
+{
+	"pkgId": "de.laxu.apps.nachtlagerdownloader"
+},
+{
+	"pkgId": "de.lihotzki.pixelflood"
+},
+{
+	"pkgId": "de.lisas.alex.runuserinit"
+},
+{
+	"pkgId": "de.live.gdev.cherrymusic"
+},
+{
+	"pkgId": "de.live.gdev.timetracker"
+},
+{
+	"pkgId": "de.lsubel.amam"
+},
+{
+	"pkgId": "de.luhmer.owncloudnewsreader"
+},
+{
+	"pkgId": "de.mangelow.balance"
+},
+{
+	"pkgId": "de.mangelow.debdroid"
+},
+{
+	"pkgId": "de.mangelow.network"
+},
+{
+	"pkgId": "de.mangelow.slideitloud"
+},
+{
+	"pkgId": "de.mangelow.syncwifi"
+},
+{
+	"pkgId": "de.mangelow.throughput"
+},
+{
+	"pkgId": "de.markusfisch.android.binaryeye"
+},
+{
+	"pkgId": "de.markusfisch.android.shadereditor"
+},
+{
+	"pkgId": "de.markusfisch.android.wavelines"
+},
+{
+	"pkgId": "de.marmaro.krt.ffupdater"
+},
+{
+	"pkgId": "de.mbutscher.wikiandpad.alphabeta"
+},
+{
+	"pkgId": "de.measite.contactmerger"
+},
+{
+	"pkgId": "de.meonwax.soundboard"
+},
+{
+	"pkgId": "de.micmun.android.deufeitage"
+},
+{
+	"pkgId": "de.moekadu.metronome"
+},
+{
+	"pkgId": "de.msal.muzei.nationalgeographic"
+},
+{
+	"pkgId": "de.mw136.tonuino"
+},
+{
+	"pkgId": "de.naturalnet.mirwtfapp"
+},
+{
+	"pkgId": "de.nellessen.usercontrolleddecryptionoperations"
+},
+{
+	"pkgId": "de.nodomain.tobihille.seniorlauncher"
+},
+{
+	"pkgId": "de.nproth.pin"
+},
+{
+	"pkgId": "de.nulide.shiftcal"
+},
+{
+	"pkgId": "de.onyxbits.droidentify"
+},
+{
+	"pkgId": "de.onyxbits.drudgery"
+},
+{
+	"pkgId": "de.onyxbits.geobookmark"
+},
+{
+	"pkgId": "de.onyxbits.listmyapps"
+},
+{
+	"pkgId": "de.onyxbits.photobookmark"
+},
+{
+	"pkgId": "de.onyxbits.pocketbandit"
+},
+{
+	"pkgId": "de.onyxbits.remotekeyboard"
+},
+{
+	"pkgId": "de.onyxbits.sensorreadout"
+},
+{
+	"pkgId": "de.onyxbits.textfiction"
+},
+{
+	"pkgId": "de.perflyst.batterycalibration"
+},
+{
+	"pkgId": "de.perflyst.untis"
+},
+{
+	"pkgId": "de.ph1b.audiobook"
+},
+{
+	"pkgId": "de.phoenixstudios.pc_dimmer"
+},
+{
+	"pkgId": "de.php_tech.piggybudget"
+},
+{
+	"pkgId": "de.pinyto.exalteddicer"
+},
+{
+	"pkgId": "de.pixart.messenger"
+},
+{
+	"pkgId": "de.qspool.clementineremote"
+},
+{
+	"pkgId": "de.quaddyservices.dynamicnightlight"
+},
+{
+	"pkgId": "de.r4md4c.gamedealz"
+},
+{
+	"pkgId": "de.rampro.activitydiary"
+},
+{
+	"pkgId": "de.reimardoeffinger.quickdic"
+},
+{
+	"pkgId": "de.repat.mosf"
+},
+{
+	"pkgId": "de.retujo.bierverkostung"
+},
+{
+	"pkgId": "de.robv.android.xposed.installer"
+},
+{
+	"pkgId": "de.rwth_aachen.phyphox"
+},
+{
+	"pkgId": "de.saschahlusiak.freebloks"
+},
+{
+	"pkgId": "de.schaeuffelhut.android.openvpn"
+},
+{
+	"pkgId": "de.schildbach.oeffi"
+},
+{
+	"pkgId": "de.schildbach.wallet"
+},
+{
+	"pkgId": "de.schildbach.wallet_test"
+},
+{
+	"pkgId": "de.selfnet.wifisetup"
+},
+{
+	"pkgId": "de.sensebox.blockly"
+},
+{
+	"pkgId": "de.serverfrog.pw.android"
+},
+{
+	"pkgId": "de.shandschuh.slightbackup"
+},
+{
+	"pkgId": "de.sigfood"
+},
+{
+	"pkgId": "design.codeux.authpass.fdroid"
+},
+{
+	"pkgId": "de.simplestatswidget"
+},
+{
+	"pkgId": "de.skubware.opentraining"
+},
+{
+	"pkgId": "de.smasi.tickmate"
+},
+{
+	"pkgId": "de.spiritcroc.darkcroc.substratum"
+},
+{
+	"pkgId": "de.spiritcroc.defaultdarktheme_oms"
+},
+{
+	"pkgId": "de.srlabs.gsmmap"
+},
+{
+	"pkgId": "de.srlabs.snoopsnitch"
+},
+{
+	"pkgId": "de.stefan_oltmann.falling_blocks"
+},
+{
+	"pkgId": "de.stefan_oltmann.kaesekaestchen"
+},
+{
+	"pkgId": "de.steinpfeffer.rdt"
+},
+{
+	"pkgId": "de.stephanlindauer.criticalmaps"
+},
+{
+	"pkgId": "de.storchp.opentracks.osmplugin"
+},
+{
+	"pkgId": "de.sudoq"
+},
+{
+	"pkgId": "de.syss.MifareClassicTool"
+},
+{
+	"pkgId": "de.szalkowski.activitylauncher"
+},
+{
+	"pkgId": "de.tadris.fitness"
+},
+{
+	"pkgId": "de.tap.easy_xkcd"
+},
+{
+	"pkgId": "de.t_dankworth.secscanqr"
+},
+{
+	"pkgId": "de.thecode.android.tazreader"
+},
+{
+	"pkgId": "de.thecode.lmd"
+},
+{
+	"pkgId": "de.tobiasbielefeld.brickgames"
+},
+{
+	"pkgId": "de.tobiasbielefeld.searchbar"
+},
+{
+	"pkgId": "de.tobiasbielefeld.solitaire"
+},
+{
+	"pkgId": "de.tu_chemnitz.wlan"
+},
+{
+	"pkgId": "de.tui.itlogger"
+},
+{
+	"pkgId": "de.tutao.tutanota"
+},
+{
+	"pkgId": "de.ub0r.android.clipboardbeam"
+},
+{
+	"pkgId": "de.ub0r.android.portaltimer"
+},
+{
+	"pkgId": "de.uni_potsdam.hpi.openmensa"
+},
+{
+	"pkgId": "de.uwepost.android.deltacam"
+},
+{
+	"pkgId": "de.vanitasvitae.enigmandroid"
+},
+{
+	"pkgId": "dev.drsoran.moloko"
+},
+{
+	"pkgId": "de.vibora.viborafeed"
+},
+{
+	"pkgId": "de.vier_bier.habpanelviewer"
+},
+{
+	"pkgId": "dev.jtsalva.cloudmare"
+},
+{
+	"pkgId": "dev.lonami.klooni"
+},
+{
+	"pkgId": "dev.lucanlm.antimine"
+},
+{
+	"pkgId": "dev.msfjarvis.aps"
+},
+{
+	"pkgId": "dev.ukanth.ufirewall"
+},
+{
+	"pkgId": "de.we.acaldav"
+},
+{
+	"pkgId": "de.westnordost.streetcomplete"
+},
+{
+	"pkgId": "de.wikilab.android.friendica01"
+},
+{
+	"pkgId": "de.wikilab.android.ldapsync"
+},
+{
+	"pkgId": "de.xskat"
+},
+{
+	"pkgId": "de.yaacc"
+},
+{
+	"pkgId": "de.yazo_games.mensaguthaben"
+},
+{
+	"pkgId": "de.zieren.rot13"
+},
+{
+	"pkgId": "dk.andsen.asqlitemanager"
+},
+{
+	"pkgId": "dk.jens.backup"
+},
+{
+	"pkgId": "dk.kjeldsen.carwingsflutter"
+},
+{
+	"pkgId": "dk.meznik.jan.encrypttext"
+},
+{
+	"pkgId": "dk.nindroid.rss"
+},
+{
+	"pkgId": "dmusiolik.pijaret"
+},
+{
+	"pkgId": "dnsfilter.android"
+},
+{
+	"pkgId": "douzifly.list"
+},
+{
+	"pkgId": "dudeofx.eval"
+},
+{
+	"pkgId": "dummydomain.yetanothercallblocker"
+},
+{
+	"pkgId": "edu.cmu.cs.speech.tts.flite"
+},
+{
+	"pkgId": "edu.cmu.cylab.starslinger.demo"
+},
+{
+	"pkgId": "edu.cmu.pocketsphinx.demo"
+},
+{
+	"pkgId": "edu.harvard.android.mmskeeper"
+},
+{
+	"pkgId": "edu.killerud.kitchentimer"
+},
+{
+	"pkgId": "edu.rit.poe.atomix"
+},
+{
+	"pkgId": "edu.sfsu.cs.orange.ocr"
+},
+{
+	"pkgId": "ee.ioc.phon.android.speak"
+},
+{
+	"pkgId": "ee.smkv.calc.loan"
+},
+{
+	"pkgId": "email.schaal.ocreader"
+},
+{
+	"pkgId": "es.cesar.quitesleep"
+},
+{
+	"pkgId": "es.esy.CosyDVR"
+},
+{
+	"pkgId": "es.usc.citius.servando.calendula"
+},
+{
+	"pkgId": "eth.matteljay.mastermindy"
+},
+{
+	"pkgId": "et.nWifiManager"
+},
+{
+	"pkgId": "eu.depau.etchdroid"
+},
+{
+	"pkgId": "eu.devunit.fb_client"
+},
+{
+	"pkgId": "eu.domob.anacam"
+},
+{
+	"pkgId": "eu.domob.angulo"
+},
+{
+	"pkgId": "eu.domob.bjtrainer"
+},
+{
+	"pkgId": "eu.domob.shopt"
+},
+{
+	"pkgId": "eu.droogers.smsmatrix"
+},
+{
+	"pkgId": "eu.e43.impeller"
+},
+{
+	"pkgId": "eu.faircode.email"
+},
+{
+	"pkgId": "eu.faircode.finegeotag"
+},
+{
+	"pkgId": "eu.faircode.netguard"
+},
+{
+	"pkgId": "eu.faircode.xlua"
+},
+{
+	"pkgId": "eu.flatworld.android.slider"
+},
+{
+	"pkgId": "eu.halaser.beamctrl"
+},
+{
+	"pkgId": "eu.hydrologis.geopaparazzi"
+},
+{
+	"pkgId": "eu.johncasson.meerkatchallenge"
+},
+{
+	"pkgId": "eu.kanade.tachiyomi"
+},
+{
+	"pkgId": "eu.lavarde.pmtd"
+},
+{
+	"pkgId": "eu.lepiller.nani"
+},
+{
+	"pkgId": "eu.mrogalski.saidit"
+},
+{
+	"pkgId": "eun.initialvolume"
+},
+{
+	"pkgId": "eu.polarclock"
+},
+{
+	"pkgId": "eu.pretix.pretixdroid"
+},
+{
+	"pkgId": "eu.pretix.pretixprint"
+},
+{
+	"pkgId": "eu.pretix.pretixscan.droid"
+},
+{
+	"pkgId": "eu.prismsw.lampshade"
+},
+{
+	"pkgId": "eu.quelltext.gita"
+},
+{
+	"pkgId": "eu.quelltext.mundraub"
+},
+{
+	"pkgId": "eu.roggstar.getmitokens"
+},
+{
+	"pkgId": "eu.roggstar.luigithehunter.batterycalibrate"
+},
+{
+	"pkgId": "eu.roggstar.luigithehunter.dsaassistent"
+},
+{
+	"pkgId": "eu.ryuu.screeps"
+},
+{
+	"pkgId": "eu.siacs.conversations"
+},
+{
+	"pkgId": "eu.siacs.conversations.voicerecorder"
+},
+{
+	"pkgId": "eu.siebeck.sipswitch"
+},
+{
+	"pkgId": "eu.sum7.conversations"
+},
+{
+	"pkgId": "eu.uwot.fabio.altcoinprices"
+},
+{
+	"pkgId": "eu.veldsoft.brainstonz"
+},
+{
+	"pkgId": "eu.veldsoft.colors.overflow"
+},
+{
+	"pkgId": "eu.veldsoft.complica4"
+},
+{
+	"pkgId": "eu.veldsoft.dice.overflow"
+},
+{
+	"pkgId": "eu.veldsoft.fish.rings"
+},
+{
+	"pkgId": "eu.veldsoft.free.klondike"
+},
+{
+	"pkgId": "eu.veldsoft.house.of.cards"
+},
+{
+	"pkgId": "eu.veldsoft.hungarian.rings"
+},
+{
+	"pkgId": "eu.veldsoft.ithaka.board.game"
+},
+{
+	"pkgId": "eu.veldsoft.kechi"
+},
+{
+	"pkgId": "eu.veldsoft.politrics"
+},
+{
+	"pkgId": "eu.veldsoft.scribe4"
+},
+{
+	"pkgId": "eu.veldsoft.svarka.odds.calculator"
+},
+{
+	"pkgId": "eu.veldsoft.tri.peaks"
+},
+{
+	"pkgId": "eu.veldsoft.tuty.fruty.slot"
+},
+{
+	"pkgId": "eu.veldsoft.vitosha.blackjack"
+},
+{
+	"pkgId": "eu.veldsoft.vitoshadm"
+},
+{
+	"pkgId": "eu.veldsoft.vitosha.poker.odds"
+},
+{
+	"pkgId": "eu.vranckaert.worktime"
+},
+{
+	"pkgId": "eu.wikijourney.wikijourney"
+},
+{
+	"pkgId": "eu.woju.android.packages.hud"
+},
+{
+	"pkgId": "exa.lnx.a"
+},
+{
+	"pkgId": "faenza.adw.theme"
+},
+{
+	"pkgId": "felixwiemuth.lincal"
+},
+{
+	"pkgId": "fi.bitrite.android.ws"
+},
+{
+	"pkgId": "fi.harism.wallpaper.flier"
+},
+{
+	"pkgId": "fi.harism.wallpaper.flowers"
+},
+{
+	"pkgId": "fi.harism.wallpaper.yinyang"
+},
+{
+	"pkgId": "fi.kroon.vadret"
+},
+{
+	"pkgId": "fil.libre.repwifiapp"
+},
+{
+	"pkgId": "fi.testbed2"
+},
+{
+	"pkgId": "fluddokt.opsu.android"
+},
+{
+	"pkgId": "fly.speedmeter.grub"
+},
+{
+	"pkgId": "fm.a2d.sf"
+},
+{
+	"pkgId": "fm.libre.droid"
+},
+{
+	"pkgId": "foehnix.widget"
+},
+{
+	"pkgId": "foss.cnugteren.nlweer"
+},
+{
+	"pkgId": "foundation.e.blisslauncher"
+},
+{
+	"pkgId": "fr.ac_versailles.dane.xiaexpress"
+},
+{
+	"pkgId": "fr.asterope"
+},
+{
+	"pkgId": "fr.bellev.stdatmosphere"
+},
+{
+	"pkgId": "fr.bepo.clavierexterne"
+},
+{
+	"pkgId": "fr.byped.bwarearea"
+},
+{
+	"pkgId": "fr.cap_rel.fr.sagc_plongee.fr.nitroxCalc"
+},
+{
+	"pkgId": "fr.chenry.android.freshrss"
+},
+{
+	"pkgId": "fr.corenting.traficparis"
+},
+{
+	"pkgId": "fr.covidat.android"
+},
+{
+	"pkgId": "fr.cph.chicago.foss"
+},
+{
+	"pkgId": "freemap.opentrail"
+},
+{
+	"pkgId": "free.rm.netcfgwidget"
+},
+{
+	"pkgId": "free.rm.skytube.oss"
+},
+{
+	"pkgId": "free.yhc.feeder"
+},
+{
+	"pkgId": "fr.free.nrw.commons"
+},
+{
+	"pkgId": "fr.gaulupeau.apps.InThePoche"
+},
+{
+	"pkgId": "fr.gouv.etalab.mastodon"
+},
+{
+	"pkgId": "fr.guillaumevillena.opendnsupdater"
+},
+{
+	"pkgId": "fr.herverenault.directdictaphone"
+},
+{
+	"pkgId": "fr.hnit.babyname"
+},
+{
+	"pkgId": "fr.hnit.riverferry"
+},
+{
+	"pkgId": "friimaind.piholedroid"
+},
+{
+	"pkgId": "fr.jakse.raphael.simpleprotocolplayer"
+},
+{
+	"pkgId": "fr.jnda.android.flashalert"
+},
+{
+	"pkgId": "fr.jnda.android.ipcalc"
+},
+{
+	"pkgId": "fr.keuse.rightsalert"
+},
+{
+	"pkgId": "fr.kwiatkowski.ApkTrack"
+},
+{
+	"pkgId": "fr.librinfo.evecontrol2"
+},
+{
+	"pkgId": "fr.ludo1520.whatexp"
+},
+{
+	"pkgId": "fr.magistry.taigime"
+},
+{
+	"pkgId": "fr.masciulli.drinks"
+},
+{
+	"pkgId": "fr.miximum.napply"
+},
+{
+	"pkgId": "fr.mobdev.blooddonation"
+},
+{
+	"pkgId": "fr.mobdev.goblim"
+},
+{
+	"pkgId": "fr.neamar.kiss"
+},
+{
+	"pkgId": "fr.nicopico.dashclock.birthday"
+},
+{
+	"pkgId": "fr.nocle.passegares"
+},
+{
+	"pkgId": "fr.pssoftware.scoretarot"
+},
+{
+	"pkgId": "fr.renzo.wikipoff"
+},
+{
+	"pkgId": "fr.rhaz.ipfs.sweet"
+},
+{
+	"pkgId": "fr.s13d.photobackup"
+},
+{
+	"pkgId": "fr.s3i.pointeuse"
+},
+{
+	"pkgId": "fr.seeks"
+},
+{
+	"pkgId": "fr.simon.marquis.preferencesmanager"
+},
+{
+	"pkgId": "fr.simon.marquis.secretcodes"
+},
+{
+	"pkgId": "fr.strasweb.asso"
+},
+{
+	"pkgId": "fr.strasweb.browserquest"
+},
+{
+	"pkgId": "fr.strasweb.campus"
+},
+{
+	"pkgId": "fr.syncarnet"
+},
+{
+	"pkgId": "fr.tvbarthel.apps.cameracolorpicker"
+},
+{
+	"pkgId": "fr.tvbarthel.apps.simplethermometer"
+},
+{
+	"pkgId": "fr.tvbarthel.apps.simpleweatherforcast"
+},
+{
+	"pkgId": "fr.ubordeaux.math.paridroid"
+},
+{
+	"pkgId": "fr.unix_experience.owncloud_sms"
+},
+{
+	"pkgId": "fr.witchdoctors.c4ffein.oosfirmwareextractor"
+},
+{
+	"pkgId": "fr.xgouchet.packageexplorer"
+},
+{
+	"pkgId": "fr.xgouchet.texteditor"
+},
+{
+	"pkgId": "fr.xplod.focal"
+},
+{
+	"pkgId": "fr.xtof54.dragonGoApp"
+},
+{
+	"pkgId": "fr.xtof54.mousetodon"
+},
+{
+	"pkgId": "fr.xtof54.scrabble"
+},
+{
+	"pkgId": "fr.ybo.transportsbordeaux"
+},
+{
+	"pkgId": "fr.ybo.transportsrennes"
+},
+{
+	"pkgId": "ga.testapp.testapp"
+},
+{
+	"pkgId": "genius.mohammad.floating.stickies"
+},
+{
+	"pkgId": "gg.mw.passera"
+},
+{
+	"pkgId": "giraffine.dimmer"
+},
+{
+	"pkgId": "github.daneren2005.dsub"
+},
+{
+	"pkgId": "github.vatsal.easyweatherdemo"
+},
+{
+	"pkgId": "github.yaa110.memento"
+},
+{
+	"pkgId": "github.yaa110.piclice"
+},
+{
+	"pkgId": "git.rrgb.kinolog"
+},
+{
+	"pkgId": "godau.fynn.bandcampdirect"
+},
+{
+	"pkgId": "godau.fynn.dsbdirect"
+},
+{
+	"pkgId": "godau.fynn.usagedirect"
+},
+{
+	"pkgId": "goo.TeaTimer"
+},
+{
+	"pkgId": "grmpl.mk.stepandheightcounter"
+},
+{
+	"pkgId": "gr.ndre.scuttloid"
+},
+{
+	"pkgId": "groomiac.crocodilenote"
+},
+{
+	"pkgId": "gr.ratmole.android.Mach3Pendant"
+},
+{
+	"pkgId": "hashengineering.darkcoin.wallet"
+},
+{
+	"pkgId": "hashengineering.groestlcoin.wallet"
+},
+{
+	"pkgId": "hashengineering.groestlcoin.wallet_test"
+},
+{
+	"pkgId": "headrevision.BehatReporter"
+},
+{
+	"pkgId": "home.jmstudios.calc"
+},
+{
+	"pkgId": "horse.amazin.my.stratum0.statuswidget"
+},
+{
+	"pkgId": "hr.kravarscan.enchantedfortress"
+},
+{
+	"pkgId": "hsware.HSTempo"
+},
+{
+	"pkgId": "hu.tagsoft.ttorrent.search"
+},
+{
+	"pkgId": "hu.vmiklos.plees_tracker"
+},
+{
+	"pkgId": "hu.vsza.adsdroid"
+},
+{
+	"pkgId": "i4nc4mp.myLock"
+},
+{
+	"pkgId": "idv.markkuo.ambitsync"
+},
+{
+	"pkgId": "im.quicksy.client"
+},
+{
+	"pkgId": "im.r_c.android.clearweather"
+},
+{
+	"pkgId": "im.r_c.android.jigsaw"
+},
+{
+	"pkgId": "im.vector.alpha"
+},
+{
+	"pkgId": "im.vector.riotx"
+},
+{
+	"pkgId": "in.ac.dtu.subtlenews"
+},
+{
+	"pkgId": "in.ac.iitb.cse.cartsbusboarding"
+},
+{
+	"pkgId": "in.andres.kandroid"
+},
+{
+	"pkgId": "in.arjsna.permissionchecker"
+},
+{
+	"pkgId": "in.blogspot.anselmbros.torchie"
+},
+{
+	"pkgId": "indrora.atomic"
+},
+{
+	"pkgId": "info.aario.killcamera"
+},
+{
+	"pkgId": "info.aario.mywifipasswords"
+},
+{
+	"pkgId": "info.aario.snotepad"
+},
+{
+	"pkgId": "info.dvkr.screenstream"
+},
+{
+	"pkgId": "info.frangor.laicare"
+},
+{
+	"pkgId": "info.guardianproject.checkey"
+},
+{
+	"pkgId": "info.guardianproject.gilga"
+},
+{
+	"pkgId": "info.guardianproject.notepadbot"
+},
+{
+	"pkgId": "info.guardianproject.pixelknot"
+},
+{
+	"pkgId": "info.guardianproject.ripple"
+},
+{
+	"pkgId": "info.lamatricexiste.network"
+},
+{
+	"pkgId": "info.meoblast001.thugaim"
+},
+{
+	"pkgId": "info.metadude.android.bitsundbaeume.schedule"
+},
+{
+	"pkgId": "info.metadude.android.cccamp.schedule"
+},
+{
+	"pkgId": "info.metadude.android.congress.schedule"
+},
+{
+	"pkgId": "info.metadude.android.datenspuren.schedule"
+},
+{
+	"pkgId": "info.papdt.blackblub"
+},
+{
+	"pkgId": "info.puzz.a10000sentences"
+},
+{
+	"pkgId": "info.schnatterer.nusic"
+},
+{
+	"pkgId": "info.staticfree.android.robotfindskitten"
+},
+{
+	"pkgId": "info.staticfree.android.twentyfourhour"
+},
+{
+	"pkgId": "info.staticfree.android.units"
+},
+{
+	"pkgId": "info.staticfree.SuperGenPass"
+},
+{
+	"pkgId": "info.tangential.cone"
+},
+{
+	"pkgId": "info.varden.hauk"
+},
+{
+	"pkgId": "info.zamojski.soft.towercollector"
+},
+{
+	"pkgId": "info.zwanenburg.caffeinetile"
+},
+{
+	"pkgId": "in.indiandragon.shellshock.shellshockvulnerabilityscan"
+},
+{
+	"pkgId": "in.p1x.tanks_of_freedom"
+},
+{
+	"pkgId": "in.shick.diode"
+},
+{
+	"pkgId": "in.shick.lockpatterngenerator"
+},
+{
+	"pkgId": "in.umairkhan.remotedroid"
+},
+{
+	"pkgId": "io.anuke.mindustry"
+},
+{
+	"pkgId": "io.davidar.fabularium"
+},
+{
+	"pkgId": "io.davidar.tensor"
+},
+{
+	"pkgId": "io.github.alketii.mightyknight"
+},
+{
+	"pkgId": "io.github.benoitduffez.cupsprint"
+},
+{
+	"pkgId": "io.github.deweyreed.clipboardcleaner"
+},
+{
+	"pkgId": "io.github.domi04151309.alwayson"
+},
+{
+	"pkgId": "io.github.domi04151309.home"
+},
+{
+	"pkgId": "io.github.domi04151309.powerapp"
+},
+{
+	"pkgId": "io.github.droidapps.pdfreader"
+},
+{
+	"pkgId": "io.github.easyintent.quickref"
+},
+{
+	"pkgId": "io.github.engsergiu.react"
+},
+{
+	"pkgId": "io.githubfede0d.planetrider"
+},
+{
+	"pkgId": "io.github.fvasco.pinpoi"
+},
+{
+	"pkgId": "io.github.gsantner.memetastic"
+},
+{
+	"pkgId": "io.github.hidroh.materialistic"
+},
+{
+	"pkgId": "io.github.hopedia"
+},
+{
+	"pkgId": "io.github.kobuge.games.minilens"
+},
+{
+	"pkgId": "io.github.lonamiwebs.stringlate"
+},
+{
+	"pkgId": "io.github.lufte.lona"
+},
+{
+	"pkgId": "io.github.mthli.Ninja"
+},
+{
+	"pkgId": "io.github.otakuchiyan.dnsman"
+},
+{
+	"pkgId": "io.github.phora.aeondroid"
+},
+{
+	"pkgId": "io.github.powerinside.scrollsocket"
+},
+{
+	"pkgId": "io.github.powerinside.syncplay"
+},
+{
+	"pkgId": "io.github.project_travel_mate"
+},
+{
+	"pkgId": "io.github.sanbeg.flashlight"
+},
+{
+	"pkgId": "io.github.sds100.keymapper"
+},
+{
+	"pkgId": "io.github.subhamtyagi.lastlauncher"
+},
+{
+	"pkgId": "io.github.subhamtyagi.nightmode"
+},
+{
+	"pkgId": "io.github.subhamtyagi.openinwhatsapp"
+},
+{
+	"pkgId": "io.github.subhamtyagi.privacyapplock"
+},
+{
+	"pkgId": "io.github.thachillera.cardsscorekeeper"
+},
+{
+	"pkgId": "io.github.tiagoshibata.gpsdclient"
+},
+{
+	"pkgId": "io.github.tjg1.nori"
+},
+{
+	"pkgId": "io.github.tompreuss.apnsettings"
+},
+{
+	"pkgId": "io.github.trytonvanmeer.libretrivia"
+},
+{
+	"pkgId": "io.github.webbluetoothcg.bletestperipheral"
+},
+{
+	"pkgId": "io.github.whirish.tvbuses"
+},
+{
+	"pkgId": "io.github.wulkanowy"
+},
+{
+	"pkgId": "io.github.z3r0c00l_2k.aquadroid"
+},
+{
+	"pkgId": "io.gitlab.allenb1.todolist"
+},
+{
+	"pkgId": "io.gitlab.mudassir.youtubecacher"
+},
+{
+	"pkgId": "io.gresse.hugo.anecdote"
+},
+{
+	"pkgId": "io.kuenzler.whatsappwebtogo"
+},
+{
+	"pkgId": "io.lbry.browser"
+},
+{
+	"pkgId": "io.mainframe.hacs"
+},
+{
+	"pkgId": "io.mkg20001.arubanetworkslogin"
+},
+{
+	"pkgId": "io.mrarm.irc"
+},
+{
+	"pkgId": "io.neurolab"
+},
+{
+	"pkgId": "io.oversec.one"
+},
+{
+	"pkgId": "io.pslab"
+},
+{
+	"pkgId": "io.timelimit.android.open"
+},
+{
+	"pkgId": "io.tiph.smsspammer"
+},
+{
+	"pkgId": "io.trezor.app"
+},
+{
+	"pkgId": "io.va.exposed"
+},
+{
+	"pkgId": "io.vertretungsplan.client.android"
+},
+{
+	"pkgId": "io.wookey.wallet"
+},
+{
+	"pkgId": "ir.hsn6.defendo"
+},
+{
+	"pkgId": "ir.hsn6.k2"
+},
+{
+	"pkgId": "ir.hsn6.tpb"
+},
+{
+	"pkgId": "ir.hsn6.trans"
+},
+{
+	"pkgId": "ir.hsn6.turo"
+},
+{
+	"pkgId": "is.pinterjann.jaws"
+},
+{
+	"pkgId": "is.xyz.omw"
+},
+{
+	"pkgId": "is.xyz.omw_nightly"
+},
+{
+	"pkgId": "is.xyz.vcmi"
+},
+{
+	"pkgId": "is.zi.huewidgets"
+},
+{
+	"pkgId": "it.alessandropira.wesnoth114"
+},
+{
+	"pkgId": "italian.said.fran.theitaliansaid"
+},
+{
+	"pkgId": "it.andreascarpino.hostisdown"
+},
+{
+	"pkgId": "it.angrydroids.epub3reader"
+},
+{
+	"pkgId": "it.collideorscopeapps.codename_hippopotamos"
+},
+{
+	"pkgId": "it.diab"
+},
+{
+	"pkgId": "it.ecosw.dudo"
+},
+{
+	"pkgId": "it.eternitywall.eternitywall"
+},
+{
+	"pkgId": "it.fabmazz.triestebus"
+},
+{
+	"pkgId": "it.faerb.crond"
+},
+{
+	"pkgId": "it.feio.android.omninotes.foss"
+},
+{
+	"pkgId": "it.fossoft.timberfoss"
+},
+{
+	"pkgId": "it.gmariotti.android.apps.dashclock.extensions.battery"
+},
+{
+	"pkgId": "it.greenaddress.cordova"
+},
+{
+	"pkgId": "it.iiizio.epubator"
+},
+{
+	"pkgId": "itkach.aard2"
+},
+{
+	"pkgId": "it.lucci.cm.greyscaletheme"
+},
+{
+	"pkgId": "it.mn.salvi.linuxDayOSM"
+},
+{
+	"pkgId": "it.mobimentum.dualsimwidget"
+},
+{
+	"pkgId": "it.niedermann.nextcloud.deck"
+},
+{
+	"pkgId": "it.niedermann.owncloud.notes"
+},
+{
+	"pkgId": "it.reyboz.bustorino"
+},
+{
+	"pkgId": "it.reyboz.chordshift"
+},
+{
+	"pkgId": "it.reyboz.minesweeper"
+},
+{
+	"pkgId": "it.reyboz.screenlock"
+},
+{
+	"pkgId": "it.rgp.nyagua.pafcalc"
+},
+{
+	"pkgId": "it.rignanese.leo.slimfacebook"
+},
+{
+	"pkgId": "it.rignanese.leo.slimtwitter"
+},
+{
+	"pkgId": "it.sasabz.android.sasabus"
+},
+{
+	"pkgId": "it.sineo.android.noFrillsCPUClassic"
+},
+{
+	"pkgId": "it.skarafaz.mercury"
+},
+{
+	"pkgId": "ivl.android.moneybalance"
+},
+{
+	"pkgId": "jackpal.androidterm"
+},
+{
+	"pkgId": "jackpal.droidexaminer"
+},
+{
+	"pkgId": "jl.musicalnotes"
+},
+{
+	"pkgId": "jonas.tool.saveForOffline"
+},
+{
+	"pkgId": "joshuatee.wx"
+},
+{
+	"pkgId": "jp.co.kayo.android.localplayer"
+},
+{
+	"pkgId": "jp.co.kayo.android.localplayer.ds.ampache"
+},
+{
+	"pkgId": "jp.co.kayo.android.localplayer.ds.podcast"
+},
+{
+	"pkgId": "jp.co.omronsoft.openwnn"
+},
+{
+	"pkgId": "jp.co.qsdn.android.jinbei3d"
+},
+{
+	"pkgId": "jp.ddo.hotmist.unicodepad"
+},
+{
+	"pkgId": "jpf.android.diary"
+},
+{
+	"pkgId": "jpf.android.magiadni"
+},
+{
+	"pkgId": "jp.forkhub"
+},
+{
+	"pkgId": "jp.gr.java_conf.hatalab.mnv"
+},
+{
+	"pkgId": "jp.ksksue.app.terminal"
+},
+{
+	"pkgId": "jp.muo.syncmemories"
+},
+{
+	"pkgId": "jp.redmine.redmineclient"
+},
+{
+	"pkgId": "jp.sawada.np2android"
+},
+{
+	"pkgId": "jp.sblo.pandora.aGrep"
+},
+{
+	"pkgId": "jp.sfjp.webglmol.NDKmol"
+},
+{
+	"pkgId": "jp.softstudio.DriversLicenseReader"
+},
+{
+	"pkgId": "jp.takke.cpustats"
+},
+{
+	"pkgId": "jp.takke.datastats"
+},
+{
+	"pkgId": "jp.yhonda"
+},
+{
+	"pkgId": "julianwi.javainstaller"
+},
+{
+	"pkgId": "jupiter.broadcasting.live.tv"
+},
+{
+	"pkgId": "jwtc.android.chess"
+},
+{
+	"pkgId": "kaba.yucata.envoy"
+},
+{
+	"pkgId": "kaljurand_at_gmail_dot_com.diktofon"
+},
+{
+	"pkgId": "kdk.android.simplydo"
+},
+{
+	"pkgId": "kiwi.root.an2linuxclient"
+},
+{
+	"pkgId": "kmac.dejavu_fonts"
+},
+{
+	"pkgId": "koeln.mop.elpeefpe"
+},
+{
+	"pkgId": "krasilnikov.alexey.cryptopass"
+},
+{
+	"pkgId": "kr.hybdms.sidepanel"
+},
+{
+	"pkgId": "kr.softgear.multiping"
+},
+{
+	"pkgId": "kvj.taskw"
+},
+{
+	"pkgId": "lanchon.sigspoof.checker"
+},
+{
+	"pkgId": "libretasks.app"
+},
+{
+	"pkgId": "li.klass.fhem"
+},
+{
+	"pkgId": "link.standen.michael.fatesheets"
+},
+{
+	"pkgId": "link.standen.michael.phonesaver"
+},
+{
+	"pkgId": "link.standen.michael.slideshow"
+},
+{
+	"pkgId": "makeinfo.com.getid"
+},
+{
+	"pkgId": "mancioboxblog.altervista.it.volumecontrol"
+},
+{
+	"pkgId": "marto.rtl_tcp_andro"
+},
+{
+	"pkgId": "mattecarra.accapp"
+},
+{
+	"pkgId": "mavonst.app.easylight"
+},
+{
+	"pkgId": "max.music_cyclon"
+},
+{
+	"pkgId": "mazechazer.android.wottankquiz"
+},
+{
+	"pkgId": "mbmb5.lumixextendedcontrolapp"
+},
+{
+	"pkgId": "me.alexghr.bulkshare.android.app2"
+},
+{
+	"pkgId": "me.anon.grow"
+},
+{
+	"pkgId": "me.anuraag.grader"
+},
+{
+	"pkgId": "me.anuraag.loveactualized"
+},
+{
+	"pkgId": "me.blog.korn123.easydiary"
+},
+{
+	"pkgId": "me.bpear.archonpackager"
+},
+{
+	"pkgId": "me.ccrama.redditslide"
+},
+{
+	"pkgId": "me.cgarcia.yarr"
+},
+{
+	"pkgId": "me.echeung.moemoekyun.fdroid"
+},
+{
+	"pkgId": "me.hackerchick.sharetoinputstick"
+},
+{
+	"pkgId": "me.hda.urlhda"
+},
+{
+	"pkgId": "me.iacn.mbestyle"
+},
+{
+	"pkgId": "me.impa.knockonports"
+},
+{
+	"pkgId": "me.jakelane.wrapperforfacebook"
+},
+{
+	"pkgId": "me.jamesfrost.simpledo"
+},
+{
+	"pkgId": "me.jfenn.alarmio"
+},
+{
+	"pkgId": "me.johnmh.boogdroid"
+},
+{
+	"pkgId": "me.kavishhukmani.watwitchstickers"
+},
+{
+	"pkgId": "me.kuehle.carreport"
+},
+{
+	"pkgId": "me.malladi.dashcricket"
+},
+{
+	"pkgId": "me.murks.feedwatcher"
+},
+{
+	"pkgId": "me.murks.filmchecker"
+},
+{
+	"pkgId": "menion.android.whereyougo"
+},
+{
+	"pkgId": "me.phh.superuser"
+},
+{
+	"pkgId": "me.sheimi.sgit"
+},
+{
+	"pkgId": "me.shrimadhavuk.numselapp"
+},
+{
+	"pkgId": "me.shrimadhavuk.watransmitter"
+},
+{
+	"pkgId": "me.tripsit.tripmobile"
+},
+{
+	"pkgId": "me.tsukanov.counter"
+},
+{
+	"pkgId": "me.writeily"
+},
+{
+	"pkgId": "me.zeeroooo.materialfb"
+},
+{
+	"pkgId": "me.zhanghai.android.files"
+},
+{
+	"pkgId": "mixedbit.speechtrainer"
+},
+{
+	"pkgId": "mkg20001.net.samremote"
+},
+{
+	"pkgId": "ml.adamsprogs.bimba"
+},
+{
+	"pkgId": "mn.tck.semitone"
+},
+{
+	"pkgId": "mobi.boilr.boilr"
+},
+{
+	"pkgId": "mobi.cyann.nstools"
+},
+{
+	"pkgId": "mobi.maptrek"
+},
+{
+	"pkgId": "mobi.omegacentauri.PerApp"
+},
+{
+	"pkgId": "mobi.omegacentauri.SendReduced"
+},
+{
+	"pkgId": "moe.feng.nhentai"
+},
+{
+	"pkgId": "moe.martini.midictrl"
+},
+{
+	"pkgId": "moe.minori.pgpclipper"
+},
+{
+	"pkgId": "mohammad.adib.roundr"
+},
+{
+	"pkgId": "monakhv.android.samlib"
+},
+{
+	"pkgId": "mono.hg"
+},
+{
+	"pkgId": "name.bagi.levente.pedometer"
+},
+{
+	"pkgId": "name.boyle.chris.sgtpuzzles"
+},
+{
+	"pkgId": "name.gdr.acastus_photon"
+},
+{
+	"pkgId": "name.juodumas.ext_kbd_lithuanian"
+},
+{
+	"pkgId": "name.livitski.games.puzzle.android"
+},
+{
+	"pkgId": "name.marfl.ext_kbd_bulgarian_phonetic"
+},
+{
+	"pkgId": "name.seguri.android.getforegroundactivity"
+},
+{
+	"pkgId": "name.seguri.android.isphoneencrypted"
+},
+{
+	"pkgId": "name.seguri.android.lock"
+},
+{
+	"pkgId": "name.soulayrol.rhaa.sholi"
+},
+{
+	"pkgId": "name.starnberger.guenther.android.cbw"
+},
+{
+	"pkgId": "namlit.siteswapgenerator"
+},
+{
+	"pkgId": "negativedensity.techahashi"
+},
+{
+	"pkgId": "net.aangle.rvclock"
+},
+{
+	"pkgId": "net.alaindonesia.silectric"
+},
+{
+	"pkgId": "net.alegen.android.netclip"
+},
+{
+	"pkgId": "net.androgames.level"
+},
+{
+	"pkgId": "net.androidcomics.acv"
+},
+{
+	"pkgId": "net.anzix.osm.upload"
+},
+{
+	"pkgId": "net.artificialworlds.rabbitescape"
+},
+{
+	"pkgId": "net.asceai.meritous"
+},
+{
+	"pkgId": "net.avs234"
+},
+{
+	"pkgId": "net.basov.lws.fdroid"
+},
+{
+	"pkgId": "net.basov.lws.qr.fdroid"
+},
+{
+	"pkgId": "net.bible.android.activity"
+},
+{
+	"pkgId": "net.bierbaumer.otp_authenticator"
+},
+{
+	"pkgId": "net.bitconomy.ckpoolwatcher"
+},
+{
+	"pkgId": "net.bitplane.android.microphone"
+},
+{
+	"pkgId": "net.bluetoothviewer"
+},
+{
+	"pkgId": "net.bmaron.openfixmap"
+},
+{
+	"pkgId": "net.cactii.mathdoku"
+},
+{
+	"pkgId": "net.chilon.matt.teacup"
+},
+{
+	"pkgId": "net.codechunk.speedofsound"
+},
+{
+	"pkgId": "net.currit.tonality"
+},
+{
+	"pkgId": "net.cyclestreets"
+},
+{
+	"pkgId": "net.czlee.debatekeeper"
+},
+{
+	"pkgId": "net.dahanne.android.regalandroid"
+},
+{
+	"pkgId": "net.dahanne.banq.notifications"
+},
+{
+	"pkgId": "net.damsy.soupeaucaillou.heriswap"
+},
+{
+	"pkgId": "net.damsy.soupeaucaillou.recursiveRunner"
+},
+{
+	"pkgId": "net.daverix.urlforward"
+},
+{
+	"pkgId": "net.dcnnt"
+},
+{
+	"pkgId": "net.ddns.mlsoftlaberge.trycorder"
+},
+{
+	"pkgId": "net.debian.debiandroid"
+},
+{
+	"pkgId": "net.ebt.muzei.miyazaki"
+},
+{
+	"pkgId": "net.eneiluj.moneybuster"
+},
+{
+	"pkgId": "net.eneiluj.nextcloud.phonetrack"
+},
+{
+	"pkgId": "net.etuldan.sparss.floss"
+},
+{
+	"pkgId": "net.everythingandroid.smspopup"
+},
+{
+	"pkgId": "net.fabiszewski.ulogger"
+},
+{
+	"pkgId": "net.fercanet.LNM"
+},
+{
+	"pkgId": "net.frju.flym"
+},
+{
+	"pkgId": "net.gaast.giggity"
+},
+{
+	"pkgId": "net.gcompris.full"
+},
+{
+	"pkgId": "net.georgewhiteside.android.abstractart"
+},
+{
+	"pkgId": "net.glsk.wpgen"
+},
+{
+	"pkgId": "net.gorry.aicia"
+},
+{
+	"pkgId": "net.gorry.android.input.nicownng"
+},
+{
+	"pkgId": "net.gsantner.dandelior"
+},
+{
+	"pkgId": "net.gsantner.markor"
+},
+{
+	"pkgId": "net.guildem.publicip"
+},
+{
+	"pkgId": "net.haltcondition.anode"
+},
+{
+	"pkgId": "net.healeys.lexic"
+},
+{
+	"pkgId": "net.i2p.android.router"
+},
+{
+	"pkgId": "net.iexos.musicalarm"
+},
+{
+	"pkgId": "net.inbox.pager"
+},
+{
+	"pkgId": "net.iowaline.dotdash"
+},
+{
+	"pkgId": "net.ivpn.client"
+},
+{
+	"pkgId": "net.jakevossen.apollotrivia"
+},
+{
+	"pkgId": "net.jaqpot.netcounter"
+},
+{
+	"pkgId": "net.jjc1138.android.scrobbler"
+},
+{
+	"pkgId": "net.justdave.nwsweatheralertswidget"
+},
+{
+	"pkgId": "net.kervala.comicsreader"
+},
+{
+	"pkgId": "net.khertan.forrunners"
+},
+{
+	"pkgId": "net.kismetwireless.android.smarterwifimanager"
+},
+{
+	"pkgId": "net.kollnig.missioncontrol.fdroid"
+},
+{
+	"pkgId": "net.kourlas.voipms_sms"
+},
+{
+	"pkgId": "net.ktnx.mobileledger"
+},
+{
+	"pkgId": "net.lardcave.keepassnfc"
+},
+{
+	"pkgId": "net.loeuillet.wifi_eap_sim_conf"
+},
+{
+	"pkgId": "net.logomancy.dashquotes.civ5"
+},
+{
+	"pkgId": "net.logomancy.diedroid"
+},
+{
+	"pkgId": "net.luniks.android.inetify"
+},
+{
+	"pkgId": "net.mabako.steamgifts"
+},
+{
+	"pkgId": "net.majorkernelpanic.spydroid"
+},
+{
+	"pkgId": "net.mcarolan.whenzebus"
+},
+{
+	"pkgId": "net.micode.compass"
+},
+{
+	"pkgId": "net.micode.fileexplorer"
+},
+{
+	"pkgId": "net.micode.soundrecorder"
+},
+{
+	"pkgId": "net.minetest.minetest"
+},
+{
+	"pkgId": "net.momodalo.app.vimtouch"
+},
+{
+	"pkgId": "net.mullvad.mullvadvpn"
+},
+{
+	"pkgId": "net.mypapit.mobile.myposition"
+},
+{
+	"pkgId": "net.nightwhistler.pageturner"
+},
+{
+	"pkgId": "net.nitroshare.android"
+},
+{
+	"pkgId": "net.nullsum.audinaut"
+},
+{
+	"pkgId": "net.nurik.roman.dashclock"
+},
+{
+	"pkgId": "net.nurik.roman.muzei"
+},
+{
+	"pkgId": "net.opendasharchive.openarchive.release"
+},
+{
+	"pkgId": "net.oschina.app"
+},
+{
+	"pkgId": "net.osmand.parkingPlugin"
+},
+{
+	"pkgId": "net.osmand.plus"
+},
+{
+	"pkgId": "net.osmand.srtmPlugin.paid"
+},
+{
+	"pkgId": "net.osmtracker"
+},
+{
+	"pkgId": "net.pejici.easydice"
+},
+{
+	"pkgId": "net.pejici.summation"
+},
+{
+	"pkgId": "net.pherth.omnomagon"
+},
+{
+	"pkgId": "net.phunehehe.foocam"
+},
+{
+	"pkgId": "net.pierrox.mcompass"
+},
+{
+	"pkgId": "net.pmarks.chromadoze"
+},
+{
+	"pkgId": "net.pp3345.ykdroid"
+},
+{
+	"pkgId": "net.programmierecke.radiodroid2"
+},
+{
+	"pkgId": "net.progval.android.andquote"
+},
+{
+	"pkgId": "net.ralphbroenink.muzei.unsplash"
+},
+{
+	"pkgId": "net.reichholf.dreamdroid"
+},
+{
+	"pkgId": "net.rocboronat.android.wallpaper.npe"
+},
+{
+	"pkgId": "net.rocrail.androc"
+},
+{
+	"pkgId": "net.schueller.peertube"
+},
+{
+	"pkgId": "net.scintill.duotp"
+},
+{
+	"pkgId": "net.screenfreeze.deskcon"
+},
+{
+	"pkgId": "net.sf.andbatdog.batterydog"
+},
+{
+	"pkgId": "net.sf.andhsli.hotspotlogin"
+},
+{
+	"pkgId": "net.sf.crypt.gort"
+},
+{
+	"pkgId": "net.sf.ethersynth"
+},
+{
+	"pkgId": "net.sf.times"
+},
+{
+	"pkgId": "net.solutinno.websearch"
+},
+{
+	"pkgId": "net.somethingdreadful.MAL"
+},
+{
+	"pkgId": "net.sourceforge.andsys"
+},
+{
+	"pkgId": "net.sourceforge.dibdib.android.dib2qm"
+},
+{
+	"pkgId": "net.sourceforge.kid3"
+},
+{
+	"pkgId": "net.sourceforge.opencamera"
+},
+{
+	"pkgId": "net.sourceforge.solitaire_cg"
+},
+{
+	"pkgId": "net.sourceforge.subsonic.androidapp"
+},
+{
+	"pkgId": "net.sourceforge.wifiremoteplay"
+},
+{
+	"pkgId": "net.sourceforge.x11basic"
+},
+{
+	"pkgId": "net.stkaddons.viewer"
+},
+{
+	"pkgId": "net.syncthing.lite"
+},
+{
+	"pkgId": "net.syntaxblitz.plucklock"
+},
+{
+	"pkgId": "net.szym.barnacle"
+},
+{
+	"pkgId": "net.tapi.handynotes"
+},
+{
+	"pkgId": "net.tedstein.AndroSS"
+},
+{
+	"pkgId": "net.teknoraver.andhrystone"
+},
+{
+	"pkgId": "net.tevp.postcode"
+},
+{
+	"pkgId": "net.thauvin.erik.android.noussd"
+},
+{
+	"pkgId": "net.tjado.passwdsafe"
+},
+{
+	"pkgId": "net.typeblog.shelter"
+},
+{
+	"pkgId": "net.usikkert.kouchat.android"
+},
+{
+	"pkgId": "net.vivekiyer.GAL"
+},
+{
+	"pkgId": "net.vreeken.quickmsg"
+},
+{
+	"pkgId": "net.wigle.wigleandroid"
+},
+{
+	"pkgId": "network.ubic.ubic"
+},
+{
+	"pkgId": "net.xenotropic.quizznworldcap"
+},
+{
+	"pkgId": "net.xvello.salasana"
+},
+{
+	"pkgId": "net.yolosec.routerkeygen2"
+},
+{
+	"pkgId": "net.yxejamir.misbotheringsms"
+},
+{
+	"pkgId": "net.zygotelabs.locker"
+},
+{
+	"pkgId": "news.androidtv.launchonboot"
+},
+{
+	"pkgId": "nf.frex.android"
+},
+{
+	"pkgId": "nightlock.peppercarrot"
+},
+{
+	"pkgId": "nitezh.ministock"
+},
+{
+	"pkgId": "nl.asymmetrics.droidshows"
+},
+{
+	"pkgId": "nl.devluuk.sleepywifi"
+},
+{
+	"pkgId": "nl.eventinfra.wifisetup"
+},
+{
+	"pkgId": "nl.frankkie.bronylivewallpaper"
+},
+{
+	"pkgId": "nl.implode.regenalarm"
+},
+{
+	"pkgId": "nl.implode.weer"
+},
+{
+	"pkgId": "nl.mpcjanssen.simpletask"
+},
+{
+	"pkgId": "nl.patrickkostjens.kandroid"
+},
+{
+	"pkgId": "nl.ttys0.simplec25k"
+},
+{
+	"pkgId": "nl.yoerinijs.notebuddy"
+},
+{
+	"pkgId": "nodomain.freeyourgadget.gadgetbridge"
+},
+{
+	"pkgId": "nodomain.freeyourgadget.tpmsmonitor"
+},
+{
+	"pkgId": "nodomain.vanous.blitztypekeyboard"
+},
+{
+	"pkgId": "nodom.darkfm.inventoryguimobile"
+},
+{
+	"pkgId": "no.rkkc.bysykkel"
+},
+{
+	"pkgId": "nu.firetech.android.pactrack"
+},
+{
+	"pkgId": "nu.firetech.android.wifiwarning"
+},
+{
+	"pkgId": "nya.kitsunyan.foxydroid"
+},
+{
+	"pkgId": "nya.miku.wishmaster"
+},
+{
+	"pkgId": "nz.gen.geek_central.ObjViewer"
+},
+{
+	"pkgId": "ohi.andre.consolelauncher"
+},
+{
+	"pkgId": "ohm.quickdice"
+},
+{
+	"pkgId": "one.librem.chat"
+},
+{
+	"pkgId": "one.librem.mail"
+},
+{
+	"pkgId": "one.librem.social"
+},
+{
+	"pkgId": "one.librem.social.multi"
+},
+{
+	"pkgId": "one.librem.tunnel"
+},
+{
+	"pkgId": "opencontacts.open.com.opencontacts"
+},
+{
+	"pkgId": "openfoodfacts.github.scrachx.openbeauty"
+},
+{
+	"pkgId": "openfoodfacts.github.scrachx.openfood"
+},
+{
+	"pkgId": "orbitlivewallpaperfree.puzzleduck.com"
+},
+{
+	"pkgId": "org.adaway"
+},
+{
+	"pkgId": "org.adblockplus.android"
+},
+{
+	"pkgId": "org.addhen.smssync"
+},
+{
+	"pkgId": "org.adw.launcher"
+},
+{
+	"pkgId": "org.afhdownloader"
+},
+{
+	"pkgId": "org.aja.flightmode"
+},
+{
+	"pkgId": "org.akvo.rsr.up"
+},
+{
+	"pkgId": "org.ale.openwatch"
+},
+{
+	"pkgId": "org.ale.scanner.zotero"
+},
+{
+	"pkgId": "org.aminb.mathtools.app"
+},
+{
+	"pkgId": "org.amoradi.syncopoli"
+},
+{
+	"pkgId": "org.andglkmod.hunkypunk"
+},
+{
+	"pkgId": "org.androidappdev.batterywidget"
+},
+{
+	"pkgId": "org.androidappdev.wifiwidget"
+},
+{
+	"pkgId": "org.androidfromfrankfurt.archnews"
+},
+{
+	"pkgId": "org.androidpn.client"
+},
+{
+	"pkgId": "org.androidsoft.app.permission"
+},
+{
+	"pkgId": "org.androidsoft.coloring"
+},
+{
+	"pkgId": "org.androidsoft.games.memory.tux"
+},
+{
+	"pkgId": "org.androidsoft.games.puzzle.kids"
+},
+{
+	"pkgId": "org.androidsoft.games.slowit"
+},
+{
+	"pkgId": "org.andstatus.app"
+},
+{
+	"pkgId": "org.andstatus.todoagenda"
+},
+{
+	"pkgId": "org.anothermonitor"
+},
+{
+	"pkgId": "org.appsroid.fxpro"
+},
+{
+	"pkgId": "org.ardour"
+},
+{
+	"pkgId": "org.asdtm.fas"
+},
+{
+	"pkgId": "org.asdtm.goodweather"
+},
+{
+	"pkgId": "org.asnelt.derandom"
+},
+{
+	"pkgId": "org.asteroidos.sync"
+},
+{
+	"pkgId": "org.atai.TessUI"
+},
+{
+	"pkgId": "org.atalk.android"
+},
+{
+	"pkgId": "org.aykit.MyOwnNotes"
+},
+{
+	"pkgId": "org.balau.fakedawn"
+},
+{
+	"pkgId": "org.basketbuilddownloader"
+},
+{
+	"pkgId": "org.bc_bd.mrwhite"
+},
+{
+	"pkgId": "org.beide.bomber"
+},
+{
+	"pkgId": "org.beide.droidgain"
+},
+{
+	"pkgId": "org.berlin_vegan.bvapp"
+},
+{
+	"pkgId": "org.bienvenidoainternet.app"
+},
+{
+	"pkgId": "org.billthefarmer.accordion"
+},
+{
+	"pkgId": "org.billthefarmer.crossword"
+},
+{
+	"pkgId": "org.billthefarmer.currency"
+},
+{
+	"pkgId": "org.billthefarmer.diary"
+},
+{
+	"pkgId": "org.billthefarmer.editor"
+},
+{
+	"pkgId": "org.billthefarmer.melodeon"
+},
+{
+	"pkgId": "org.billthefarmer.notes"
+},
+{
+	"pkgId": "org.billthefarmer.scope"
+},
+{
+	"pkgId": "org.billthefarmer.shorty"
+},
+{
+	"pkgId": "org.billthefarmer.siggen"
+},
+{
+	"pkgId": "org.billthefarmer.tuner"
+},
+{
+	"pkgId": "org.birthdayadapter"
+},
+{
+	"pkgId": "org.bitbatzen.wlanscanner"
+},
+{
+	"pkgId": "org.bitbucket.tickytacky.mirrormirror"
+},
+{
+	"pkgId": "org.blitzortung.android.app"
+},
+{
+	"pkgId": "org.blockinger.game"
+},
+{
+	"pkgId": "org.blokada.alarm"
+},
+{
+	"pkgId": "org.bobstuff.bobball"
+},
+{
+	"pkgId": "org.bombusmod"
+},
+{
+	"pkgId": "org.bottiger.podcast"
+},
+{
+	"pkgId": "org.brandroid.openmanager"
+},
+{
+	"pkgId": "org.briarproject.briar.android"
+},
+{
+	"pkgId": "org.broeuschmeul.android.gps.bluetooth.provider"
+},
+{
+	"pkgId": "org.broeuschmeul.android.gps.usb.provider"
+},
+{
+	"pkgId": "org.calyxinstitute.vpn"
+},
+{
+	"pkgId": "org.catrobat.paintroid"
+},
+{
+	"pkgId": "org.c_base.c_beam"
+},
+{
+	"pkgId": "org.chickenhook.startflagexploit"
+},
+{
+	"pkgId": "org.chorem.android.saymytexts"
+},
+{
+	"pkgId": "org.chrisbailey.todo"
+},
+{
+	"pkgId": "org.ciasaboark.tacere"
+},
+{
+	"pkgId": "org.cipherdyne.fwknop2"
+},
+{
+	"pkgId": "org.cmotc.tools.rotationlockpp"
+},
+{
+	"pkgId": "org.commonvoice.saverio"
+},
+{
+	"pkgId": "org.congresointeractivo.elegilegi"
+},
+{
+	"pkgId": "org.connectbot"
+},
+{
+	"pkgId": "org.coolfrood.mytronome"
+},
+{
+	"pkgId": "org.coolreader"
+},
+{
+	"pkgId": "org.courville.nova"
+},
+{
+	"pkgId": "org.covolunablu.marswallpaper"
+},
+{
+	"pkgId": "org.cprados.wificellmanager"
+},
+{
+	"pkgId": "org.crocodile.sbautologin"
+},
+{
+	"pkgId": "org.cry.otp"
+},
+{
+	"pkgId": "org.csploit.android"
+},
+{
+	"pkgId": "org.cyanogenmod.great.freedom"
+},
+{
+	"pkgId": "org.cyanogenmod.oneclick"
+},
+{
+	"pkgId": "org.damazio.notifier"
+},
+{
+	"pkgId": "org.dash.electrum.electrum_dash"
+},
+{
+	"pkgId": "org.daylightingsociety.wherearetheeyes"
+},
+{
+	"pkgId": "org.debian.eugen.headingcalculator"
+},
+{
+	"pkgId": "org.decsync.cc"
+},
+{
+	"pkgId": "org.decsync.sparss.floss"
+},
+{
+	"pkgId": "org.deluge.trireme"
+},
+{
+	"pkgId": "org.developfreedom.ccdroid.app"
+},
+{
+	"pkgId": "org.developfreedom.logmein"
+},
+{
+	"pkgId": "org.developfreedom.wordpowermadeeasy"
+},
+{
+	"pkgId": "org.dgtale.icsimport"
+},
+{
+	"pkgId": "org.disroot.disrootapp"
+},
+{
+	"pkgId": "org.disrupted.rumble"
+},
+{
+	"pkgId": "org.diygenomics.pg"
+},
+{
+	"pkgId": "org.dmfs.tasks"
+},
+{
+	"pkgId": "org.dnaq.dialer2"
+},
+{
+	"pkgId": "org.documentfoundation.libreoffice"
+},
+{
+	"pkgId": "org.dolphinemu.dolphinemu"
+},
+{
+	"pkgId": "org.domogik.domodroid13"
+},
+{
+	"pkgId": "org.dpadgett.timer"
+},
+{
+	"pkgId": "org.droidparts.battery_widget"
+},
+{
+	"pkgId": "org.droidtr.deletegapps"
+},
+{
+	"pkgId": "org.droidtr.keyboard"
+},
+{
+	"pkgId": "org.droidtr.termbin"
+},
+{
+	"pkgId": "org.droidupnp"
+},
+{
+	"pkgId": "org.dsandler.apps.markers"
+},
+{
+	"pkgId": "org.dslul.openboard.inputmethod.latin"
+},
+{
+	"pkgId": "org.durka.hallmonitor"
+},
+{
+	"pkgId": "org.dynalogin.android"
+},
+{
+	"pkgId": "org.dynamicsoft.caloriescope"
+},
+{
+	"pkgId": "org.dyndns.fules.ck"
+},
+{
+	"pkgId": "org.dyndns.ipignoli.petronius"
+},
+{
+	"pkgId": "org.dyndns.sven_ola.debian_kit"
+},
+{
+	"pkgId": "org.dyndns.warenix.web2pdf"
+},
+{
+	"pkgId": "org.dystopia.email"
+},
+{
+	"pkgId": "org.ea.sqrl"
+},
+{
+	"pkgId": "org.edunivers.whereami"
+},
+{
+	"pkgId": "org.eehouse.android.xw4"
+},
+{
+	"pkgId": "org.elijaxapps.androidxmrigminer"
+},
+{
+	"pkgId": "org.emergent.android.weave"
+},
+{
+	"pkgId": "org.emunix.insteadlauncher"
+},
+{
+	"pkgId": "org.emunix.unipatcher"
+},
+{
+	"pkgId": "org.epstudios.epmobile"
+},
+{
+	"pkgId": "org.epstudios.morbidmeter"
+},
+{
+	"pkgId": "org.equeim.tremotesf"
+},
+{
+	"pkgId": "org.esteban.piano"
+},
+{
+	"pkgId": "org.ethack.orwall"
+},
+{
+	"pkgId": "org.eu.exodus_privacy.exodusprivacy"
+},
+{
+	"pkgId": "org.evilsoft.pathfinder.reference"
+},
+{
+	"pkgId": "org.example.rosary"
+},
+{
+	"pkgId": "org.fastergps"
+},
+{
+	"pkgId": "org.fdroid.fdroid"
+},
+{
+	"pkgId": "org.fdroid.fdroid.privileged"
+},
+{
+	"pkgId": "org.fdroid.fdroid.privileged.ota"
+},
+{
+	"pkgId": "org.fedorahosted.freeotp"
+},
+{
+	"pkgId": "org.fitchfamily.android.dejavu"
+},
+{
+	"pkgId": "org.fitchfamily.android.gsmlocation"
+},
+{
+	"pkgId": "org.fitchfamily.android.symphony"
+},
+{
+	"pkgId": "org.fitchfamily.android.wifi_backend"
+},
+{
+	"pkgId": "org.floens.chan"
+},
+{
+	"pkgId": "org.flyve.inventory.agent"
+},
+{
+	"pkgId": "org.flyve.mdm.agent"
+},
+{
+	"pkgId": "org.flyve.mdm.agent.mqtt"
+},
+{
+	"pkgId": "org.fossasia.badgemagic"
+},
+{
+	"pkgId": "org.fox.tttrss"
+},
+{
+	"pkgId": "org.freedombox.freedombox"
+},
+{
+	"pkgId": "org.freeminer.freeminer"
+},
+{
+	"pkgId": "org.freshrss.easyrss"
+},
+{
+	"pkgId": "org.froscon.schedule"
+},
+{
+	"pkgId": "org.galexander.sshd"
+},
+{
+	"pkgId": "org.gateshipone.malp"
+},
+{
+	"pkgId": "org.gateshipone.odyssey"
+},
+{
+	"pkgId": "org.gc.networktester"
+},
+{
+	"pkgId": "org.gdroid.gdroid"
+},
+{
+	"pkgId": "org.gege.caldavsyncadapter"
+},
+{
+	"pkgId": "org.geometerplus.fbreader.plugin.local_opds_scanner"
+},
+{
+	"pkgId": "org.geometerplus.fbreader.plugin.tts"
+},
+{
+	"pkgId": "org.geometerplus.zlibrary.ui.android"
+},
+{
+	"pkgId": "org.getdisconnected.libreipsum"
+},
+{
+	"pkgId": "org.gfd.gsmlocation"
+},
+{
+	"pkgId": "org.gitorious.jamesjrh.isokeys"
+},
+{
+	"pkgId": "org.gittner.osmbugs"
+},
+{
+	"pkgId": "org.glucosio.android"
+},
+{
+	"pkgId": "org.gmote.client.android"
+},
+{
+	"pkgId": "org.gnu.icecat"
+},
+{
+	"pkgId": "org.grapentin.apps.exceer"
+},
+{
+	"pkgId": "org.gringene.colourclock"
+},
+{
+	"pkgId": "org.gringene.concentricclock"
+},
+{
+	"pkgId": "org.handmadeideas.chordreader"
+},
+{
+	"pkgId": "org.hanenoshino.onscripter"
+},
+{
+	"pkgId": "org.happypeng.sumatora.android.sumatoradictionary"
+},
+{
+	"pkgId": "org.happysanta.gd"
+},
+{
+	"pkgId": "org.hekmatof.chesswatch"
+},
+{
+	"pkgId": "org.helllabs.android.xmp"
+},
+{
+	"pkgId": "org.hermit.tricorder"
+},
+{
+	"pkgId": "org.herrlado.ask.languagepack.czech"
+},
+{
+	"pkgId": "org.herrlado.ask.languagepack.lithuanian"
+},
+{
+	"pkgId": "org.herrlado.geofonts"
+},
+{
+	"pkgId": "org.hiittimer.hiittimer"
+},
+{
+	"pkgId": "org.hlwd.bible"
+},
+{
+	"pkgId": "org.hlwd.bible_multi_the_life"
+},
+{
+	"pkgId": "org.hoi_polloi.android.ringcode"
+},
+{
+	"pkgId": "org.holylobster.nuntius"
+},
+{
+	"pkgId": "org.horaapps.leafpic"
+},
+{
+	"pkgId": "org.hwyl.sexytopo"
+},
+{
+	"pkgId": "org.hystudio.android.dosbox"
+},
+{
+	"pkgId": "org.icasdri.mather"
+},
+{
+	"pkgId": "org.iilab.openmentoring"
+},
+{
+	"pkgId": "org.iilab.pb"
+},
+{
+	"pkgId": "org.indywidualni.fblite"
+},
+{
+	"pkgId": "org.ironrabbit"
+},
+{
+	"pkgId": "org.ironrabbit.bhoboard"
+},
+{
+	"pkgId": "org.isoron.uhabits"
+},
+{
+	"pkgId": "org.itishka.pointim"
+},
+{
+	"pkgId": "org.jak_linux.dns66"
+},
+{
+	"pkgId": "org.jamienicol.episodes"
+},
+{
+	"pkgId": "org.janb.shoppinglist"
+},
+{
+	"pkgId": "org.jessies.dalvikexplorer"
+},
+{
+	"pkgId": "org.jfedor.frozenbubble"
+},
+{
+	"pkgId": "org.jfedor.nxtremotecontrol"
+},
+{
+	"pkgId": "org.jfet.batsHIIT"
+},
+{
+	"pkgId": "org.jf.Penroser"
+},
+{
+	"pkgId": "org.jitsi.meet"
+},
+{
+	"pkgId": "org.jmoyer.NotificationPlus"
+},
+{
+	"pkgId": "org.jschwab.openrecipes"
+},
+{
+	"pkgId": "org.jsharkey.sky"
+},
+{
+	"pkgId": "org.jsl.shmp"
+},
+{
+	"pkgId": "org.jsl.wfwt"
+},
+{
+	"pkgId": "org.jtb.alogcat"
+},
+{
+	"pkgId": "org.jtb.droidlife"
+},
+{
+	"pkgId": "org.jtb.httpmon"
+},
+{
+	"pkgId": "org.jwz.xscreensaver"
+},
+{
+	"pkgId": "org.kaqui"
+},
+{
+	"pkgId": "org.katsarov.dofcalc"
+},
+{
+	"pkgId": "org.katsarov.heatcalc"
+},
+{
+	"pkgId": "org.kaziprst.android.ndfilter"
+},
+{
+	"pkgId": "org.kde.kdeconnect_tp"
+},
+{
+	"pkgId": "org.kde.ktrip"
+},
+{
+	"pkgId": "org.kde.necessitas.ministro"
+},
+{
+	"pkgId": "org.kiwix.kiwixmobile"
+},
+{
+	"pkgId": "org.kknickkk.spider"
+},
+{
+	"pkgId": "org.kontalk"
+},
+{
+	"pkgId": "org.koreader.launcher"
+},
+{
+	"pkgId": "org.kore.kolabnotes.android"
+},
+{
+	"pkgId": "org.kost.nmap.android.networkmapper"
+},
+{
+	"pkgId": "org.kwaak3"
+},
+{
+	"pkgId": "org.legtux.m_316k.fortune"
+},
+{
+	"pkgId": "org.legtux.m_316k.taptheblacktiles"
+},
+{
+	"pkgId": "org.lenchan139.ncbookmark"
+},
+{
+	"pkgId": "org.lf_net.pgpunlocker"
+},
+{
+	"pkgId": "org.liberty.android.fantastischmemo"
+},
+{
+	"pkgId": "org.liberty.android.freeotpplus"
+},
+{
+	"pkgId": "org.libre.agosto.p2play"
+},
+{
+	"pkgId": "org.libreflix.app"
+},
+{
+	"pkgId": "org.libreoffice.impressremote"
+},
+{
+	"pkgId": "org.ligi.ajsha"
+},
+{
+	"pkgId": "org.ligi.blexplorer"
+},
+{
+	"pkgId": "org.ligi.etheremote"
+},
+{
+	"pkgId": "org.ligi.fast"
+},
+{
+	"pkgId": "org.ligi.faster"
+},
+{
+	"pkgId": "org.ligi.gobandroid_hd"
+},
+{
+	"pkgId": "org.ligi.ipfsdroid"
+},
+{
+	"pkgId": "org.ligi.materialteatimer"
+},
+{
+	"pkgId": "org.ligi.passandroid"
+},
+{
+	"pkgId": "org.ligi.satoshiproof"
+},
+{
+	"pkgId": "org.ligi.survivalmanual"
+},
+{
+	"pkgId": "org.ligi.vaporizercontrol"
+},
+{
+	"pkgId": "org.linphone"
+},
+{
+	"pkgId": "org.logicallycreative.movingpolygons"
+},
+{
+	"pkgId": "org.lufebe16.pysolfc"
+},
+{
+	"pkgId": "org.lumicall.android"
+},
+{
+	"pkgId": "org.macno.puma"
+},
+{
+	"pkgId": "org.madore.android.unicodeMap"
+},
+{
+	"pkgId": "org.marcus905.wifi.ace"
+},
+{
+	"pkgId": "org.mariotaku.imageviewergl"
+},
+{
+	"pkgId": "org.mariotaku.twidere"
+},
+{
+	"pkgId": "org.mariotaku.twidere.extension.twitlonger"
+},
+{
+	"pkgId": "org.materialos.icons"
+},
+{
+	"pkgId": "org.mattvchandler.a2050"
+},
+{
+	"pkgId": "org.mattvchandler.progressbars"
+},
+{
+	"pkgId": "org.mbach.lemonde"
+},
+{
+	"pkgId": "org.mcxa.softsound"
+},
+{
+	"pkgId": "org.mcxa.vortaro"
+},
+{
+	"pkgId": "org.mcxa.zephyrlogger"
+},
+{
+	"pkgId": "org.metabrainz.android"
+},
+{
+	"pkgId": "org.miamplayer.autoairplanemode"
+},
+{
+	"pkgId": "org.mian.gitnex"
+},
+{
+	"pkgId": "org.michaelevans.nightmodeenabler"
+},
+{
+	"pkgId": "org.microg.nlp"
+},
+{
+	"pkgId": "org.microg.nlp.backend.apple"
+},
+{
+	"pkgId": "org.microg.nlp.backend.ichnaea"
+},
+{
+	"pkgId": "org.microg.nlp.backend.nominatim"
+},
+{
+	"pkgId": "org.midorinext.android"
+},
+{
+	"pkgId": "org.mixare"
+},
+{
+	"pkgId": "org.mmk2410.cyngn.theme.fira"
+},
+{
+	"pkgId": "org.moire.opensudoku"
+},
+{
+	"pkgId": "org.moire.ultrasonic"
+},
+{
+	"pkgId": "org.montrealtransit.android.schedule.stmbus"
+},
+{
+	"pkgId": "org.moparisthebest.appbak"
+},
+{
+	"pkgId": "org.moparisthebest.pageplus"
+},
+{
+	"pkgId": "org.mosad.seil0.projectlaogai"
+},
+{
+	"pkgId": "org.mosspaper"
+},
+{
+	"pkgId": "org.mozc.android.inputmethod.japanese"
+},
+{
+	"pkgId": "org.mozilla.fennec_fdroid"
+},
+{
+	"pkgId": "org.mozilla.klar"
+},
+{
+	"pkgId": "org.mozilla.mozstumbler"
+},
+{
+	"pkgId": "org.mult.daap"
+},
+{
+	"pkgId": "org.mumod.android"
+},
+{
+	"pkgId": "org.mupen64plusae.v3.alpha"
+},
+{
+	"pkgId": "org.musicbrainz.picard.barcodescanner"
+},
+{
+	"pkgId": "org.musicpd"
+},
+{
+	"pkgId": "org.mustard.android"
+},
+{
+	"pkgId": "org.mysociety.FixMyStreet"
+},
+{
+	"pkgId": "org.mythdroid"
+},
+{
+	"pkgId": "org.n52.sosmobileclient"
+},
+{
+	"pkgId": "org.nathan.jf.build.prop.editor"
+},
+{
+	"pkgId": "org.navitproject.navit"
+},
+{
+	"pkgId": "org.ncrmnt.nettts"
+},
+{
+	"pkgId": "org.ndeftools.boilerplate"
+},
+{
+	"pkgId": "org.nerdcircus.android.klaxon"
+},
+{
+	"pkgId": "org.nick.cryptfs.passwdmanager"
+},
+{
+	"pkgId": "org.nick.wwwjdic"
+},
+{
+	"pkgId": "org.ninthfloor.copperpdf"
+},
+{
+	"pkgId": "org.nitri.opentopo"
+},
+{
+	"pkgId": "org.nonononoki.hendroid"
+},
+{
+	"pkgId": "org.notabug.lifeuser.moviedb"
+},
+{
+	"pkgId": "org.npr.android.news"
+},
+{
+	"pkgId": "org.ntpsync"
+},
+{
+	"pkgId": "org.numixproject.iconsubmit"
+},
+{
+	"pkgId": "org.nuntius35.wrongpinshutdown"
+},
+{
+	"pkgId": "org.nutritionfacts.dailydozen"
+},
+{
+	"pkgId": "org.nv95.openmanga"
+},
+{
+	"pkgId": "org.ocsinventoryng.android.agent"
+},
+{
+	"pkgId": "org.odk.collect.android"
+},
+{
+	"pkgId": "org.og8.a1tox"
+},
+{
+	"pkgId": "org.ogre.browser"
+},
+{
+	"pkgId": "org.okfn.pod"
+},
+{
+	"pkgId": "org.olgsoft.apipepanic"
+},
+{
+	"pkgId": "org.olpc_france.sugarizer"
+},
+{
+	"pkgId": "org.openbmap"
+},
+{
+	"pkgId": "org.openbmap.unifiedNlp"
+},
+{
+	"pkgId": "org.opengappsdownloader"
+},
+{
+	"pkgId": "org.opengemara.shiurim"
+},
+{
+	"pkgId": "org.opengpx"
+},
+{
+	"pkgId": "org.openhab.habdroid"
+},
+{
+	"pkgId": "org.openhab.habdroid.beta"
+},
+{
+	"pkgId": "org.openintents.about"
+},
+{
+	"pkgId": "org.openintents.filemanager"
+},
+{
+	"pkgId": "org.openintents.flashlight"
+},
+{
+	"pkgId": "org.openintents.notepad"
+},
+{
+	"pkgId": "org.openintents.safe"
+},
+{
+	"pkgId": "org.openintents.shopping"
+},
+{
+	"pkgId": "org.openlp.android"
+},
+{
+	"pkgId": "org.openlp.android2"
+},
+{
+	"pkgId": "org.openobservatory.ooniprobe"
+},
+{
+	"pkgId": "org.openorienteering.mapper"
+},
+{
+	"pkgId": "org.openpetfoodfacts.scanner"
+},
+{
+	"pkgId": "org.osmdroid"
+},
+{
+	"pkgId": "org.osmocom.tacdatabaseclient"
+},
+{
+	"pkgId": "org.ostrya.presencepublisher"
+},
+{
+	"pkgId": "org.pacien.tincapp"
+},
+{
+	"pkgId": "org.paladyn.mediclog"
+},
+{
+	"pkgId": "org.passwordmaker.android"
+},
+{
+	"pkgId": "org.paulmach.textedit"
+},
+{
+	"pkgId": "org.peterbaldwin.client.android.tinyurl"
+},
+{
+	"pkgId": "org.peterbaldwin.client.android.vlcremote"
+},
+{
+	"pkgId": "org.petero.droidfish"
+},
+{
+	"pkgId": "org.pipoypipagames.cowsrevenge"
+},
+{
+	"pkgId": "org.pipoypipagames.towerjumper"
+},
+{
+	"pkgId": "org.piwigo.android"
+},
+{
+	"pkgId": "org.pixmob.freemobile.netstat"
+},
+{
+	"pkgId": "org.pocketworkstation.pckeyboard"
+},
+{
+	"pkgId": "org.poirsouille.tinc_gui"
+},
+{
+	"pkgId": "org.poopeeland.tinytinyfeed"
+},
+{
+	"pkgId": "org.poul.bits.android"
+},
+{
+	"pkgId": "org.ppsspp.ppsspp"
+},
+{
+	"pkgId": "org.primftpd"
+},
+{
+	"pkgId": "org.privacyhelper"
+},
+{
+	"pkgId": "org.projectmaxs.main"
+},
+{
+	"pkgId": "org.projectmaxs.module.alarmset"
+},
+{
+	"pkgId": "org.projectmaxs.module.bluetooth"
+},
+{
+	"pkgId": "org.projectmaxs.module.bluetoothadmin"
+},
+{
+	"pkgId": "org.projectmaxs.module.clipboard"
+},
+{
+	"pkgId": "org.projectmaxs.module.contactsread"
+},
+{
+	"pkgId": "org.projectmaxs.module.fileread"
+},
+{
+	"pkgId": "org.projectmaxs.module.filewrite"
+},
+{
+	"pkgId": "org.projectmaxs.module.locationfine"
+},
+{
+	"pkgId": "org.projectmaxs.module.misc"
+},
+{
+	"pkgId": "org.projectmaxs.module.nfc"
+},
+{
+	"pkgId": "org.projectmaxs.module.notification"
+},
+{
+	"pkgId": "org.projectmaxs.module.phonestateread"
+},
+{
+	"pkgId": "org.projectmaxs.module.ringermode"
+},
+{
+	"pkgId": "org.projectmaxs.module.shell"
+},
+{
+	"pkgId": "org.projectmaxs.module.smsnotify"
+},
+{
+	"pkgId": "org.projectmaxs.module.smsread"
+},
+{
+	"pkgId": "org.projectmaxs.module.smssend"
+},
+{
+	"pkgId": "org.projectmaxs.module.smswrite"
+},
+{
+	"pkgId": "org.projectmaxs.module.wifiaccess"
+},
+{
+	"pkgId": "org.projectmaxs.module.wifichange"
+},
+{
+	"pkgId": "org.projectmaxs.transport.xmpp"
+},
+{
+	"pkgId": "org.projectvoodoo.otarootkeeper"
+},
+{
+	"pkgId": "org.projectvoodoo.screentestpatterns"
+},
+{
+	"pkgId": "org.projectvoodoo.simplecarrieriqdetector"
+},
+{
+	"pkgId": "org.proninyaroslav.libretorrent"
+},
+{
+	"pkgId": "org.pulpdust.lesserpad"
+},
+{
+	"pkgId": "org.pyload.android.client"
+},
+{
+	"pkgId": "org.pyneo.maps"
+},
+{
+	"pkgId": "org.qii.weiciyuan"
+},
+{
+	"pkgId": "org.quantumbadger.redreader"
+},
+{
+	"pkgId": "org.quovadit.apps.andof"
+},
+{
+	"pkgId": "org.recentwidget"
+},
+{
+	"pkgId": "org.redcross.openmapkit"
+},
+{
+	"pkgId": "org.retroshare.android.qml_app"
+},
+{
+	"pkgId": "org.rmll"
+},
+{
+	"pkgId": "org.runnerup.free"
+},
+{
+	"pkgId": "org.safecoin.safeprice"
+},
+{
+	"pkgId": "org.safermobile.intheclear"
+},
+{
+	"pkgId": "org.sagemath.droid"
+},
+{
+	"pkgId": "org.saiditnet.redreader"
+},
+{
+	"pkgId": "org.sasehash.burgerwp"
+},
+{
+	"pkgId": "org.savapage.android.print"
+},
+{
+	"pkgId": "org.schabi.etherwake"
+},
+{
+	"pkgId": "org.schabi.jedentageinset"
+},
+{
+	"pkgId": "org.schabi.kiba"
+},
+{
+	"pkgId": "org.schabi.newpipe"
+},
+{
+	"pkgId": "org.schabi.newpipelegacy"
+},
+{
+	"pkgId": "org.schabi.nxbookmarks"
+},
+{
+	"pkgId": "org.schabi.stethox"
+},
+{
+	"pkgId": "org.schabi.svgredirect"
+},
+{
+	"pkgId": "org.schabi.terminightor"
+},
+{
+	"pkgId": "org.scid.android"
+},
+{
+	"pkgId": "org.scoutant.blokish"
+},
+{
+	"pkgId": "org.scoutant.cc"
+},
+{
+	"pkgId": "org.scoutant.rpn"
+},
+{
+	"pkgId": "org.scummvm.scummvm"
+},
+{
+	"pkgId": "org.seamapdroid"
+},
+{
+	"pkgId": "org.secuso.privacyfriendly2048"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlyactivitytracker"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlyboardgameclock"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlycardgameone"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlycircuittraining"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlydame"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlydicer"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlyfinancemanager"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlyfoodtracker"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlyintervaltimer"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlyludo"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlymemory"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlyminesweeper"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlynetmonitor"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlynotes"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlypaindiary"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlypasswordgenerator"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlypausinghealthily"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlypin"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlyrecknoningskills"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlyruler"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlysketching"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlysolitaire"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlysudoku"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlytapemeasure"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlytodolist"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlyweather"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlywifimanager"
+},
+{
+	"pkgId": "org.secuso.privacyfriendlyyahtzeedicer"
+},
+{
+	"pkgId": "org.segin.bfinterpreter"
+},
+{
+	"pkgId": "org.segin.ttleditor"
+},
+{
+	"pkgId": "org.sensors2.osc"
+},
+{
+	"pkgId": "org.sensors2.pd"
+},
+{
+	"pkgId": "org.servalproject"
+},
+{
+	"pkgId": "org.servDroid.web"
+},
+{
+	"pkgId": "org.sge.haltestellenanzeige"
+},
+{
+	"pkgId": "org.shadowice.flocke.andotp"
+},
+{
+	"pkgId": "org.shirakumo.ocelot"
+},
+{
+	"pkgId": "org.shortcuts"
+},
+{
+	"pkgId": "org.sickstache"
+},
+{
+	"pkgId": "org.sipdroid.sipua"
+},
+{
+	"pkgId": "org.smblott.intentradio"
+},
+{
+	"pkgId": "org.smc.inputmethod.indic"
+},
+{
+	"pkgId": "org.smssecure.smssecure"
+},
+{
+	"pkgId": "org.snikket.android"
+},
+{
+	"pkgId": "org.softcatala.traductor"
+},
+{
+	"pkgId": "org.softeg.slartus.forpdaplus"
+},
+{
+	"pkgId": "org.solovyev.android.calculator"
+},
+{
+	"pkgId": "org.sorz.lab.tinykeepass"
+},
+{
+	"pkgId": "org.sparkleshare.android"
+},
+{
+	"pkgId": "org.strawberryforum.argentum"
+},
+{
+	"pkgId": "org.strawberryforum.pollywog"
+},
+{
+	"pkgId": "org.subsurface"
+},
+{
+	"pkgId": "org.sudowars"
+},
+{
+	"pkgId": "org.sufficientlysecure.ical"
+},
+{
+	"pkgId": "org.sufficientlysecure.keychain"
+},
+{
+	"pkgId": "org.sufficientlysecure.localcalendar"
+},
+{
+	"pkgId": "org.sufficientlysecure.standalonecalendar"
+},
+{
+	"pkgId": "org.sufficientlysecure.termbot"
+},
+{
+	"pkgId": "org.sufficientlysecure.viewer"
+},
+{
+	"pkgId": "org.sufficientlysecure.viewer.fontpack"
+},
+{
+	"pkgId": "org.sugr.gearshift"
+},
+{
+	"pkgId": "org.supertuxkart.stk"
+},
+{
+	"pkgId": "org.surrel.facebooknotifications"
+},
+{
+	"pkgId": "org.surrel.messengerbypasser"
+},
+{
+	"pkgId": "org.sw24softwares.starkeverben"
+},
+{
+	"pkgId": "org.synergy"
+},
+{
+	"pkgId": "org.systemcall.scores"
+},
+{
+	"pkgId": "org.t2.synconwifi"
+},
+{
+	"pkgId": "org.tamanegi.atmosphere"
+},
+{
+	"pkgId": "org.tamanegi.wallpaper.multipicture.dnt"
+},
+{
+	"pkgId": "org.tasks"
+},
+{
+	"pkgId": "org.tbrk.mnemododo"
+},
+{
+	"pkgId": "org.telegram.messenger"
+},
+{
+	"pkgId": "org.tengel.planisphere"
+},
+{
+	"pkgId": "org.thecongers.mtpms"
+},
+{
+	"pkgId": "org.thialfihar.android.apg"
+},
+{
+	"pkgId": "org.thiolliere.youtubestream"
+},
+{
+	"pkgId": "org.thosp.yourlocalweather"
+},
+{
+	"pkgId": "org.tigase.messenger.phone.pro"
+},
+{
+	"pkgId": "org.tilelessmap.app"
+},
+{
+	"pkgId": "org.tint"
+},
+{
+	"pkgId": "org.tint.adblock"
+},
+{
+	"pkgId": "org.tlhInganHol.android.klingonassistant"
+},
+{
+	"pkgId": "org.tmurakam.presentationtimer"
+},
+{
+	"pkgId": "org.tof"
+},
+{
+	"pkgId": "org.tomdroid"
+},
+{
+	"pkgId": "org.torproject.android"
+},
+{
+	"pkgId": "org.totschnig.myexpenses"
+},
+{
+	"pkgId": "org.totschnig.sendwithftp"
+},
+{
+	"pkgId": "org.toulibre.capitoledulibre"
+},
+{
+	"pkgId": "org.traccar.client"
+},
+{
+	"pkgId": "org.transdroid.full"
+},
+{
+	"pkgId": "org.transdroid.lite"
+},
+{
+	"pkgId": "org.transdroid.search"
+},
+{
+	"pkgId": "org.tryton.client"
+},
+{
+	"pkgId": "org.ttrssreader"
+},
+{
+	"pkgId": "org.tunesremote"
+},
+{
+	"pkgId": "org.tuxpaint"
+},
+{
+	"pkgId": "org.tvheadend.tvhguide"
+},
+{
+	"pkgId": "org.twistedappdeveloper.statocovid19italia"
+},
+{
+	"pkgId": "org.uaraven.e"
+},
+{
+	"pkgId": "org.us.andriod"
+},
+{
+	"pkgId": "org.valos.isolmoa"
+},
+{
+	"pkgId": "org.videolan.vlc"
+},
+{
+	"pkgId": "org.vi_server.red_screen"
+},
+{
+	"pkgId": "org.voidptr.swpieview"
+},
+{
+	"pkgId": "org.voidsink.anewjkuapp"
+},
+{
+	"pkgId": "org.vono.narau"
+},
+{
+	"pkgId": "org.vudroid"
+},
+{
+	"pkgId": "org.wahtod.wififixer"
+},
+{
+	"pkgId": "org.walleth"
+},
+{
+	"pkgId": "org.weilbach.splitbills"
+},
+{
+	"pkgId": "org.wheelmap.android.online"
+},
+{
+	"pkgId": "org.whitequark.sipcaller"
+},
+{
+	"pkgId": "org.wikimedia.commons.muzei"
+},
+{
+	"pkgId": "org.wikimedia.commons.wikimedia"
+},
+{
+	"pkgId": "org.wikipedia"
+},
+{
+	"pkgId": "org.wiktionary"
+},
+{
+	"pkgId": "org.witness.sscphase1"
+},
+{
+	"pkgId": "org.woltage.irssiconnectbot"
+},
+{
+	"pkgId": "org.wownero.cyberwow"
+},
+{
+	"pkgId": "org.wroot.android.goldeneye"
+},
+{
+	"pkgId": "org.xapek.andiodine"
+},
+{
+	"pkgId": "org.xbmc.android.remote"
+},
+{
+	"pkgId": "org.xbmc.kodi"
+},
+{
+	"pkgId": "org.xbmc.kore"
+},
+{
+	"pkgId": "org.xcsoar"
+},
+{
+	"pkgId": "org.xphnx.ameixa"
+},
+{
+	"pkgId": "org.xphnx.ameixamonochrome"
+},
+{
+	"pkgId": "org.xphnx.iconsubmit"
+},
+{
+	"pkgId": "org.xposeddownloader"
+},
+{
+	"pkgId": "org.y20k.escapepod"
+},
+{
+	"pkgId": "org.y20k.trackbook"
+},
+{
+	"pkgId": "org.y20k.transistor"
+},
+{
+	"pkgId": "org.yaaic"
+},
+{
+	"pkgId": "org.yabause.android"
+},
+{
+	"pkgId": "org.yaxim.androidclient"
+},
+{
+	"pkgId": "org.yuttadhammo.BodhiTimer"
+},
+{
+	"pkgId": "org.yuttadhammo.tipitaka"
+},
+{
+	"pkgId": "org.zakky.memopad"
+},
+{
+	"pkgId": "org.zamedev.gloomydungeons1hardcore.opensource"
+},
+{
+	"pkgId": "org.zamedev.gloomydungeons2.opensource"
+},
+{
+	"pkgId": "org.zeitgeist.movement"
+},
+{
+	"pkgId": "org.zephyrsoft.checknetwork"
+},
+{
+	"pkgId": "org.zephyrsoft.sdbviewer"
+},
+{
+	"pkgId": "org.zephyrsoft.trackworktime"
+},
+{
+	"pkgId": "org.zimmob.zimlx"
+},
+{
+	"pkgId": "org.zirco"
+},
+{
+	"pkgId": "paulscode.android.mupen64plusae"
+},
+{
+	"pkgId": "pc.javier.actualizadoropendns"
+},
+{
+	"pkgId": "pc.javier.seguime"
+},
+{
+	"pkgId": "peanutencryption.peanutencryption"
+},
+{
+	"pkgId": "pk.contender.earmouse"
+},
+{
+	"pkgId": "player.efis.cfd"
+},
+{
+	"pkgId": "player.efis.data.eur.rus"
+},
+{
+	"pkgId": "player.efis.data.pan.arg"
+},
+{
+	"pkgId": "player.efis.data.sah.jap"
+},
+{
+	"pkgId": "player.efis.data.usa.can"
+},
+{
+	"pkgId": "player.efis.data.zar.aus"
+},
+{
+	"pkgId": "player.efis.mfd"
+},
+{
+	"pkgId": "player.efis.pfd"
+},
+{
+	"pkgId": "pl.hypeapp.endoscope"
+},
+{
+	"pkgId": "pl.hypeapp.episodie"
+},
+{
+	"pkgId": "pl.kuben.progressapp"
+},
+{
+	"pkgId": "pl.narfsoftware.thermometer"
+},
+{
+	"pkgId": "pl.net.szafraniec.NFCKey"
+},
+{
+	"pkgId": "pl.net.szafraniec.NFCTagmaker"
+},
+{
+	"pkgId": "pl.nkg.geokrety"
+},
+{
+	"pkgId": "pl.sanszo.pcis"
+},
+{
+	"pkgId": "posidon.launcher"
+},
+{
+	"pkgId": "press.condense.www"
+},
+{
+	"pkgId": "privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist"
+},
+{
+	"pkgId": "priv.twoerner.brightnesswidget"
+},
+{
+	"pkgId": "pro.dbro.bart"
+},
+{
+	"pkgId": "pro.oneredpixel.l9droid"
+},
+{
+	"pkgId": "pro.rudloff.lineageos_updater_shortcut"
+},
+{
+	"pkgId": "pro.rudloff.muzei.commons"
+},
+{
+	"pkgId": "pro.rudloff.openvegemap"
+},
+{
+	"pkgId": "pro.rudloff.papercraft"
+},
+{
+	"pkgId": "protect.babymonitor"
+},
+{
+	"pkgId": "protect.babysleepsounds"
+},
+{
+	"pkgId": "protect.budgetwatch"
+},
+{
+	"pkgId": "protect.card_locker"
+},
+{
+	"pkgId": "protect.gift_card_guard"
+},
+{
+	"pkgId": "protect.rentalcalc"
+},
+{
+	"pkgId": "protect.videoeditor"
+},
+{
+	"pkgId": "pt.ipleiria.mymusicqoe"
+},
+{
+	"pkgId": "pt.isec.tp.am"
+},
+{
+	"pkgId": "pt.joaomneto.titancompanion"
+},
+{
+	"pkgId": "pw.thedrhax.mosmetro"
+},
+{
+	"pkgId": "quickly.quit"
+},
+{
+	"pkgId": "raele.concurseiro"
+},
+{
+	"pkgId": "re.indigo.epistolaire"
+},
+{
+	"pkgId": "re.jcg.playmusicexporter"
+},
+{
+	"pkgId": "remuco.client.android"
+},
+{
+	"pkgId": "rino.org.tethercompanion"
+},
+{
+	"pkgId": "rkr.simplekeyboard.inputmethod"
+},
+{
+	"pkgId": "ro.ciubex.dscautorename"
+},
+{
+	"pkgId": "rocks.poopjournal.morse"
+},
+{
+	"pkgId": "rodrigodavy.com.github.pixelartist"
+},
+{
+	"pkgId": "ro.ieval.fonbot"
+},
+{
+	"pkgId": "ro.ui.pttdroid"
+},
+{
+	"pkgId": "rs.ltt.android"
+},
+{
+	"pkgId": "rs.pedjaapps.alogcatroot.app"
+},
+{
+	"pkgId": "ru0xdc.rtkgps"
+},
+{
+	"pkgId": "ru.equestriadev.mgke"
+},
+{
+	"pkgId": "ru.evgeniy.dpitunnel"
+},
+{
+	"pkgId": "ru.exlmoto.snood21"
+},
+{
+	"pkgId": "ru.gelin.android.browser.open"
+},
+{
+	"pkgId": "ru.gelin.android.sendtosd"
+},
+{
+	"pkgId": "ru.gelin.android.weather.notification"
+},
+{
+	"pkgId": "ru.gelin.android.weather.notification.skin.biggertext"
+},
+{
+	"pkgId": "ru.gelin.android.weather.notification.skin.blacktext"
+},
+{
+	"pkgId": "ru.gelin.android.weather.notification.skin.blacktextplus"
+},
+{
+	"pkgId": "ru.gelin.android.weather.notification.skin.whitetext"
+},
+{
+	"pkgId": "ru.gelin.android.weather.notification.skin.whitetextplus"
+},
+{
+	"pkgId": "ru.glesik.wifireminders"
+},
+{
+	"pkgId": "ru.henridellal.dialer"
+},
+{
+	"pkgId": "ru.henridellal.emerald"
+},
+{
+	"pkgId": "ru.henridellal.fsassist"
+},
+{
+	"pkgId": "ru.henridellal.patolli"
+},
+{
+	"pkgId": "ru.hyst329.openfool"
+},
+{
+	"pkgId": "ru.ifproject.android.afr"
+},
+{
+	"pkgId": "ru.meefik.busybox"
+},
+{
+	"pkgId": "ru.moscow.tuzlukov.sergey.weatherlog"
+},
+{
+	"pkgId": "ru.neverdark.silentnight"
+},
+{
+	"pkgId": "ru.o2genum.coregame"
+},
+{
+	"pkgId": "ru.playsoftware.j2meloader"
+},
+{
+	"pkgId": "ru.ra66it.updaterforspotify"
+},
+{
+	"pkgId": "ru.sash0k.bluetooth_terminal"
+},
+{
+	"pkgId": "ru.seva.finder"
+},
+{
+	"pkgId": "ru.subprogram.paranoidsmsblocker"
+},
+{
+	"pkgId": "ru.ttyh.neko259.notey"
+},
+{
+	"pkgId": "ru.valle.btc"
+},
+{
+	"pkgId": "ru.yanus171.feedexfork"
+},
+{
+	"pkgId": "ru.zxalexis.ugaday"
+},
+{
+	"pkgId": "ryey.camcov"
+},
+{
+	"pkgId": "ryey.easer"
+},
+{
+	"pkgId": "ryey.easer.beta"
+},
+{
+	"pkgId": "ryey.flock"
+},
+{
+	"pkgId": "saschpe.contactevents"
+},
+{
+	"pkgId": "saschpe.poker"
+},
+{
+	"pkgId": "science.iodev.fissh"
+},
+{
+	"pkgId": "science.itaintrocket.pomfshare"
+},
+{
+	"pkgId": "seanfoy.wherering"
+},
+{
+	"pkgId": "se.anyro.nfc_reader"
+},
+{
+	"pkgId": "se.bitcraze.crazyfliecontrol2"
+},
+{
+	"pkgId": "security.pEp"
+},
+{
+	"pkgId": "se.danielj.geometridestroyer"
+},
+{
+	"pkgId": "se.embargo.retroboy"
+},
+{
+	"pkgId": "se.erikofsweden.findmyphone"
+},
+{
+	"pkgId": "se.johanhil.clipboard"
+},
+{
+	"pkgId": "se.johanhil.duckduckgo"
+},
+{
+	"pkgId": "se.leap.bitmaskclient"
+},
+{
+	"pkgId": "se.leap.riseupvpn"
+},
+{
+	"pkgId": "se.lublin.mumla"
+},
+{
+	"pkgId": "se.manyver"
+},
+{
+	"pkgId": "se.norenh.rkfread"
+},
+{
+	"pkgId": "se.oandell.riksdagen"
+},
+{
+	"pkgId": "se.pp.mc.android.Gerberoid"
+},
+{
+	"pkgId": "se.traffar.dot_race"
+},
+{
+	"pkgId": "se.tube42.drum.android"
+},
+{
+	"pkgId": "se.tube42.kidsmem.android"
+},
+{
+	"pkgId": "se.tube42.p9.android"
+},
+{
+	"pkgId": "sh.ftp.rocketninelabs.meditationassistant.opensource"
+},
+{
+	"pkgId": "siir.es.adbWireless"
+},
+{
+	"pkgId": "si.modrajagoda.didi"
+},
+{
+	"pkgId": "simple.reboot.com"
+},
+{
+	"pkgId": "sk.halmi.fbeditplus"
+},
+{
+	"pkgId": "sk.madzik.android.logcatudp"
+},
+{
+	"pkgId": "sk.vx.connectbot"
+},
+{
+	"pkgId": "sonoroxadc.garethmurfin.co.uk"
+},
+{
+	"pkgId": "sony.hidden.servicemenu"
+},
+{
+	"pkgId": "souch.smp"
+},
+{
+	"pkgId": "souch.smsbypass"
+},
+{
+	"pkgId": "space.bm835.pb"
+},
+{
+	"pkgId": "space.kraut.schluessel"
+},
+{
+	"pkgId": "space.neothefox.laytray"
+},
+{
+	"pkgId": "SpeedoMeterApp.main"
+},
+{
+	"pkgId": "starcom.snd"
+},
+{
+	"pkgId": "steele.gerry.dotty"
+},
+{
+	"pkgId": "sterrenburg.github.flutterhole"
+},
+{
+	"pkgId": "streetwalrus.usbmountr"
+},
+{
+	"pkgId": "subins2000.manglish"
+},
+{
+	"pkgId": "subreddit.android.appstore"
+},
+{
+	"pkgId": "sun.bob.leela"
+},
+{
+	"pkgId": "superfreeze.tool.android"
+},
+{
+	"pkgId": "superustats.tool.android"
+},
+{
+	"pkgId": "su.sadrobot.yashlang"
+},
+{
+	"pkgId": "su.xash.husky"
+},
+{
+	"pkgId": "swati4star.createpdf"
+},
+{
+	"pkgId": "systems.byteswap.aiproute"
+},
+{
+	"pkgId": "szelok.app.twister"
+},
+{
+	"pkgId": "taco.apkmirror"
+},
+{
+	"pkgId": "team.swing.pendulums"
+},
+{
+	"pkgId": "teaonly.droideye"
+},
+{
+	"pkgId": "tech.ula"
+},
+{
+	"pkgId": "telegra.ph"
+},
+{
+	"pkgId": "theakki.synctool"
+},
+{
+	"pkgId": "theredspy15.ltecleanerfoss"
+},
+{
+	"pkgId": "threads.server"
+},
+{
+	"pkgId": "tk.al54.dev.badpixels"
+},
+{
+	"pkgId": "tk.elevenk.dailybread"
+},
+{
+	"pkgId": "tk.giesecke.disaster_radio"
+},
+{
+	"pkgId": "tk.giesecke.painlessmesh"
+},
+{
+	"pkgId": "tk.giesecke.phoenix"
+},
+{
+	"pkgId": "tkj.android.homecontrol.mythmote"
+},
+{
+	"pkgId": "tk.jordynsmediagroup.simpleirc.fdroid"
+},
+{
+	"pkgId": "tk.radioactivemineral.metronome"
+},
+{
+	"pkgId": "tk.superl2.xwifi"
+},
+{
+	"pkgId": "tmendes.com.analyticalbalancedroid"
+},
+{
+	"pkgId": "tmendes.com.waterydroid"
+},
+{
+	"pkgId": "tn.creativeteam.newyoutubelistingapp"
+},
+{
+	"pkgId": "tomer.com.alwaysonamoledplugin"
+},
+{
+	"pkgId": "tool.fff.profilepicturegenerator"
+},
+{
+	"pkgId": "tranquvis.simplesmsremote"
+},
+{
+	"pkgId": "trikita.obsqr"
+},
+{
+	"pkgId": "trikita.slide"
+},
+{
+	"pkgId": "trikita.talalarmo"
+},
+{
+	"pkgId": "tritop.androidSLWCpuWidget"
+},
+{
+	"pkgId": "tritop.android.SLWTrafficMeterWidget"
+},
+{
+	"pkgId": "troop.com.freedcam"
+},
+{
+	"pkgId": "tv.piratemedia.lightcontroler"
+},
+{
+	"pkgId": "tw.com.daxia.virtualsoftkeys"
+},
+{
+	"pkgId": "tw.qtlin.mac.airunlocker"
+},
+{
+	"pkgId": "tyagi.shubham.customsearch"
+},
+{
+	"pkgId": "uk.ac.cam.cl.dtg.android.barcodebox"
+},
+{
+	"pkgId": "uk.ac.ed.inf.mandelbrotmaps"
+},
+{
+	"pkgId": "uk.ac.swansea.eduroamcat"
+},
+{
+	"pkgId": "uk.co.ashtonbrsc.android.intentintercept"
+},
+{
+	"pkgId": "uk.co.bitethebullet.android.token"
+},
+{
+	"pkgId": "uk.co.busydoingnothing.catverbs"
+},
+{
+	"pkgId": "uk.co.busydoingnothing.prevo"
+},
+{
+	"pkgId": "uk.co.danieljarvis.android.flashback"
+},
+{
+	"pkgId": "uk.co.jarofgreen.JustADamnCompass"
+},
+{
+	"pkgId": "uk.co.keepawayfromfire.screens"
+},
+{
+	"pkgId": "uk.co.richyhbm.monochromatic"
+},
+{
+	"pkgId": "uk.co.yahoo.p1rpp.calendartrigger"
+},
+{
+	"pkgId": "uk.org.boddie.android.weatherforecast"
+},
+{
+	"pkgId": "uk.org.crimetalk"
+},
+{
+	"pkgId": "uk.org.ngo.squeezer"
+},
+{
+	"pkgId": "unisiegen.photographers.activity"
+},
+{
+	"pkgId": "uobikiemukot.yaft"
+},
+{
+	"pkgId": "urbanstew.RehearsalAssistant"
+},
+{
+	"pkgId": "us.achromaticmetaphor.agram"
+},
+{
+	"pkgId": "us.achromaticmetaphor.imcktg"
+},
+{
+	"pkgId": "us.bravender.android.dongsa"
+},
+{
+	"pkgId": "us.feras.mdv.demo"
+},
+{
+	"pkgId": "us.koller.cameraroll"
+},
+{
+	"pkgId": "us.lindanrandy.cidrcalculator"
+},
+{
+	"pkgId": "us.shandian.giga"
+},
+{
+	"pkgId": "ut.ewh.audiometrytest"
+},
+{
+	"pkgId": "vnd.blueararat.kaleidoscope6"
+},
+{
+	"pkgId": "vocabletrainer.heinecke.aron.vocabletrainer"
+},
+{
+	"pkgId": "wb.receiptspro"
+},
+{
+	"pkgId": "wiseguys.radar"
+},
+{
+	"pkgId": "wsdfhjxc.taponium"
+},
+{
+	"pkgId": "wseemann.media.romote"
+},
+{
+	"pkgId": "ws.xsoh.etar"
+},
+{
+	"pkgId": "x1125io.initdlight"
+},
+{
+	"pkgId": "x653.all_in_gold"
+},
+{
+	"pkgId": "x653.bullseye"
+},
+{
+	"pkgId": "xyz.deepdaikon.xeonjia"
+},
+{
+	"pkgId": "xyz.deepdaikon.zoysii"
+},
+{
+	"pkgId": "xyz.hisname.fireflyiii"
+},
+{
+	"pkgId": "xyz.iridiumion.plucklockex"
+},
+{
+	"pkgId": "yellr.net.yellr_android"
+},
+{
+	"pkgId": "ymakei.vegetarian_journal"
+},
+{
+	"pkgId": "youten.redo.ble.ibeacondetector"
+},
+{
+	"pkgId": "z4pp3r.flashlightwidget"
+},
+{
+	"pkgId": "za.co.lukestonehm.logicaldefence"
+},
+{
+	"pkgId": "za.co.neilson.alarm"
+},
+{
+	"pkgId": "zame.GloomyDungeons.opensource.game"
+},
+{
+	"pkgId": "zen.meditation.android"
+}
+]
