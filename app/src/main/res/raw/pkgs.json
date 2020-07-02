@@ -855,13 +855,19 @@
 	"pkgId": "com.atr.tedit"
 },
 {
-	"pkgId": "com.aurora.adroid"
+	"pkgId": "com.aurora.adroid",
+    "flags": {
+        "external_content": true
+    }
 },
 {
 	"pkgId": "com.aurora.corona"
 },
 {
-	"pkgId": "com.aurora.store"
+	"pkgId": "com.aurora.store",
+    "flags": {
+        "external_content": true
+    }
 },
 {
 	"pkgId": "com.averi.worldscribe"
@@ -1302,7 +1308,10 @@
 	"pkgId": "com.drodin.tuxrider"
 },
 {
-	"pkgId": "com.duckduckgo.mobile.android"
+	"pkgId": "com.duckduckgo.mobile.android",
+    "flags": {
+        "external_content": true
+    }
 },
 {
 	"pkgId": "com.dwak.lastcall"
@@ -2595,7 +2604,10 @@
 	"pkgId": "com.matteopacini.katana"
 },
 {
-	"pkgId": "com.mattermost.mattermost"
+	"pkgId": "com.mattermost.mattermost",
+    "flags": {
+        "instant_messaging": true
+    }
 },
 {
 	"pkgId": "com.mattermost.rnbeta"
@@ -4941,7 +4953,10 @@
 	"pkgId": "eu.e43.impeller"
 },
 {
-	"pkgId": "eu.faircode.email"
+	"pkgId": "eu.faircode.email",
+    "flags": {
+        "reduced_features": true
+    }
 },
 {
 	"pkgId": "eu.faircode.finegeotag"
@@ -5595,7 +5610,10 @@
 	"pkgId": "io.github.gsantner.memetastic"
 },
 {
-	"pkgId": "io.github.hidroh.materialistic"
+	"pkgId": "io.github.hidroh.materialistic",
+    "flags": {
+        "external_content": true
+    }
 },
 {
 	"pkgId": "io.github.hopedia"
@@ -6450,10 +6468,16 @@
 	"pkgId": "net.osmand.parkingPlugin"
 },
 {
-	"pkgId": "net.osmand.plus"
+	"pkgId": "net.osmand.plus",
+    "flags": {
+        "additional_features": true
+    }
 },
 {
-	"pkgId": "net.osmand.srtmPlugin.paid"
+	"pkgId": "net.osmand.srtmPlugin.paid",
+    "flags": {
+        "additional_features": true
+    }
 },
 {
 	"pkgId": "net.osmtracker"
@@ -6657,7 +6681,10 @@
 	"pkgId": "nl.yoerinijs.notebuddy"
 },
 {
-	"pkgId": "nodomain.freeyourgadget.gadgetbridge"
+	"pkgId": "nodomain.freeyourgadget.gadgetbridge",
+    "flags": {
+        "useful_in_background": true
+    }
 },
 {
 	"pkgId": "nodomain.freeyourgadget.tpmsmonitor"
@@ -6954,7 +6981,10 @@
 	"pkgId": "org.coolreader"
 },
 {
-	"pkgId": "org.courville.nova"
+	"pkgId": "org.courville.nova",
+    "flags": {
+        "external_content": true
+    }
 },
 {
 	"pkgId": "org.covolunablu.marswallpaper"
@@ -7170,7 +7200,10 @@
 	"pkgId": "org.fossasia.badgemagic"
 },
 {
-	"pkgId": "org.fox.tttrss"
+	"pkgId": "org.fox.tttrss",
+    "flags": {
+        "additional_features": true
+    }
 },
 {
 	"pkgId": "org.freedombox.freedombox"
@@ -7404,7 +7437,10 @@
 	"pkgId": "org.kontalk"
 },
 {
-	"pkgId": "org.koreader.launcher"
+	"pkgId": "org.koreader.launcher",
+    "flags": {
+        "external_content": true
+    }
 },
 {
 	"pkgId": "org.kore.kolabnotes.android"
@@ -8205,7 +8241,10 @@
 	"pkgId": "org.tbrk.mnemododo"
 },
 {
-	"pkgId": "org.telegram.messenger"
+	"pkgId": "org.telegram.messenger",
+    "flags": {
+        "instant_messaging": true
+    }
 },
 {
 	"pkgId": "org.tengel.planisphere"
@@ -8298,7 +8337,10 @@
 	"pkgId": "org.valos.isolmoa"
 },
 {
-	"pkgId": "org.videolan.vlc"
+	"pkgId": "org.videolan.vlc",
+    "flags": {
+        "external_content": true
+    }
 },
 {
 	"pkgId": "org.vi_server.red_screen"

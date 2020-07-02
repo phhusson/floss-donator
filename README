@@ -1,0 +1,7 @@
+app/src/main/res/raw/pkgs.json
+
+additional_features ===> this means that the variant here has additional features compared to free appstore version
+reduced_features ===> this means that the variant here has reduced feature set compared to paying appstore version
+external_content ===> this means that those apps don't have their own content, but is an app to display other people's content
+instant_messaging ===>  this means this is an IM app
+useful_in_background ===> this means the app is useful in background as well
