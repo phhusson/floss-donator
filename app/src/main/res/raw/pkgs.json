@@ -4928,6 +4928,7 @@
 {
 	"pkgId": "eu.faircode.email",
     "flags": {
+        "paying_google": true,
         "reduced_features": true
     }
 },
@@ -7175,6 +7176,7 @@
 {
 	"pkgId": "org.fox.tttrss",
     "flags": {
+        "paying_google": true,
         "additional_features": true
     }
 },
