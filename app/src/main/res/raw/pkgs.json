@@ -639,19 +639,10 @@
 	"pkgId": "com.android.keepass"
 },
 {
-	"pkgId": "com.android.launcher3"
-},
-{
-	"pkgId": "com.android.music"
-},
-{
 	"pkgId": "com.android.quake"
 },
 {
 	"pkgId": "com.android.shellms"
-},
-{
-	"pkgId": "com.android.talkback"
 },
 {
 	"pkgId": "com.android.todolist"
@@ -1944,25 +1935,7 @@
 	"pkgId": "com.googamaphone.typeandspeak"
 },
 {
-	"pkgId": "com.google.android.accessibility.talkback"
-},
-{
-	"pkgId": "com.google.android.apps.authenticator2"
-},
-{
 	"pkgId": "com.google.android.diskusage"
-},
-{
-	"pkgId": "com.google.android.gms"
-},
-{
-	"pkgId": "com.google.android.location"
-},
-{
-	"pkgId": "com.google.android.marvin.talkback"
-},
-{
-	"pkgId": "com.google.android.sambadocumentsprovider"
 },
 {
 	"pkgId": "com.google.android.stardroid"
