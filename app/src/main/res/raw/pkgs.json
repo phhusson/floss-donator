@@ -2157,7 +2157,10 @@
 	"pkgId": "com.isdp.trirose"
 },
 {
-	"pkgId": "com.iskrembilen.quasseldroid"
+	"pkgId": "com.iskrembilen.quasseldroid",
+    "flags": {
+        "instant_messaging": true
+    }
 },
 {
 	"pkgId": "com.itds.sms.ping"

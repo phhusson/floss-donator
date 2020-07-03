@@ -1,6 +1,8 @@
 package me.phh.flossdonator
 
 import android.app.usage.UsageStatsManager
+import android.content.Context
+import android.content.DialogInterface
 import android.os.Bundle
 import android.os.Handler
 import android.os.HandlerThread
@@ -9,10 +11,8 @@ import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
-import android.widget.ImageView
-import android.widget.LinearLayout
-import android.widget.ProgressBar
-import android.widget.TextView
+import android.widget.*
+import androidx.appcompat.app.AlertDialog
 
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
@@ -123,9 +123,27 @@ class MainActivity : AppCompatActivity() {
 
         Log.e("FLOSS-Donator", "Let's allocate $allocatedPercentToBackgrounds to $nBackgrounds apps")
         //We don't count apps that are useful in background, because they already got their share
+
+        val updateTimeWithFlags = {app: String, info: AppInfo ->
+            val foregroundTime = info.localInfo.foregroundTime
+            var newTime = foregroundTime
+
+            // POLICY: If the app provides a paying version on PlayStore, and all the features aren't available in the FLOSS variant
+            // Let's say that this app found their business model and doesn't need much donations, so reduce their equivalent time
+            if(info.flags.reducedFeatures) {
+                newTime /= 8
+            }
+
+            // POLICY: Messaging has a very huge networking effect, so smooth that out, by capping them to 4 hours a month
+
+            val upLocalInfo = info.localInfo.copy(foregroundTime = )
+            info.copy(localInfo = )
+        }
+
+        val appsUpdatedTimes = list.map { Pair(it.key, updateTimeWithFlags(it.key, it.value)) }
         val totalForegroundTime =
-            list
-                .map { it.value }
+            appsUpdatedTimes
+                .map { it.second }
                 .filter { !it.flags.usefulInBackground }
                 .map { it.localInfo.foregroundTime }
                 .sum().toDouble()
@@ -176,6 +194,21 @@ class MainActivity : AppCompatActivity() {
     override fun onResume() {
         super.onResume()
 
+        val sp = getSharedPreferences("default", Context.MODE_PRIVATE)
+        if(sp.getFloat("total_monthly_donation", -1.0f) == -1.0f) {
+            val dialogView = layoutInflater.inflate(R.layout.dialog_how_much, null)
+            //Ask the user how much it thinks they'll donate
+            val dialog = AlertDialog.Builder(this)
+                .setView(dialogView)
+                .setPositiveButton("Set") { _, _ ->
+                    val valueWidget = dialogView.findViewById<EditText>(R.id.value).text.toString().toFloat()
+                    sp.edit().putFloat("total_monthly_donation", valueWidget).apply()
+                }
+                .setNegativeButton("Later") { _, _ ->
+
+                }
+            dialog.show()
+        }
         /*
          * This code doesn't work, checkSelfPermission returns -1 when permission has been given?!?
         if(checkSelfPermission(Manifest.permission.PACKAGE_USAGE_STATS) != PackageManager.PERMISSION_GRANTED) {

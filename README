@@ -5,3 +5,6 @@ reduced_features ===> this means that the variant here has reduced feature set c
 external_content ===> this means that those apps don't have their own content, but is an app to display other people's content
 instant_messaging ===>  this means this is an IM app
 useful_in_background ===> this means the app is useful in background as well
+
+
+This software has an opiniated policy. All the areas where those opinions are used to compute how much money an app gets are marked with POLICY
