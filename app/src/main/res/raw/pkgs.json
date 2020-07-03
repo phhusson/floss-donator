@@ -7177,7 +7177,8 @@
 	"pkgId": "org.fox.tttrss",
     "flags": {
         "paying_google": true,
-        "additional_features": true
+        "additional_features": true,
+        "external_content": true
     }
 },
 {
@@ -7598,7 +7599,10 @@
 	"pkgId": "org.mozc.android.inputmethod.japanese"
 },
 {
-	"pkgId": "org.mozilla.fennec_fdroid"
+	"pkgId": "org.mozilla.fennec_fdroid",
+    "flags": {
+        "external_content": true
+    }
 },
 {
 	"pkgId": "org.mozilla.klar"
@@ -9126,5 +9130,11 @@
 },
 {
 	"pkgId": "zen.meditation.android"
+},
+{
+	"pkgId": "me.phh.treble.app",
+    "flags": {
+        "useful_in_background": true
+    }
 }
 ]
