@@ -119,9 +119,9 @@ class MainActivity : AppCompatActivity() {
 
         val nBackgrounds = list.count { it.value.flags.usefulInBackground }
         //Allocate somewhere between 10% and 30% for all the background apps
-        val allocatedToBackgrounds = if(nBackgrounds > 0) 10+20*(1-Math.exp( (1 - nBackgrounds )/5.0)) else 0.0
+        val allocatedPercentToBackgrounds = if(nBackgrounds > 0) 10+20*(1-Math.exp( (1 - nBackgrounds )/5.0)) else 0.0
 
-        Log.e("FLOSS-Donator", "Let's allocate $allocatedToBackgrounds to $nBackgrounds apps")
+        Log.e("FLOSS-Donator", "Let's allocate $allocatedPercentToBackgrounds to $nBackgrounds apps")
         //We don't count apps that are useful in background, because they already got their share
         val totalForegroundTime =
             list
@@ -130,9 +130,17 @@ class MainActivity : AppCompatActivity() {
                 .map { it.localInfo.foregroundTime }
                 .sum().toDouble()
 
-        for( (app,info) in list) {
+        val computeScore = { app: String, info: AppInfo ->
+            if(info.flags.usefulInBackground)
+                allocatedPercentToBackgrounds/nBackgrounds
+            else
+                100.0 * info.localInfo.foregroundTime / totalForegroundTime
+        }
+        val appScores = list.toList().map { Triple(it.first, it.second, computeScore(it.first, it.second) )}.sortedBy { -it.third }
+
+        for( (app,info) in appScores) {
             try {
-                val percent = if(info.flags.usefulInBackground) allocatedToBackgrounds/nBackgrounds else 100.0 * info.localInfo.foregroundTime / totalForegroundTime
+                val percent = computeScore(app, info)
                 val layout = layoutInflater.inflate(R.layout.app_row, listWidget, false)
 
                 val iconWidget = layout.findViewById<ImageView>(R.id.app_icon)
