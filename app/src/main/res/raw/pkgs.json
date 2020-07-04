@@ -848,7 +848,7 @@
 {
 	"pkgId": "com.aurora.adroid",
     "flags": {
-        "external_content": true
+        "viewer_level": 5
     }
 },
 {
@@ -857,7 +857,7 @@
 {
 	"pkgId": "com.aurora.store",
     "flags": {
-        "external_content": true
+        "viewer_level": 5
     }
 },
 {
@@ -1299,9 +1299,10 @@
 	"pkgId": "com.drodin.tuxrider"
 },
 {
+    "_comment": "The viewer value takes into account both the changes to the browser, and the efforts on the search engine",
 	"pkgId": "com.duckduckgo.mobile.android",
     "flags": {
-        "external_content": true
+        "viewer_level": 6
     }
 },
 {
@@ -2159,7 +2160,9 @@
 {
 	"pkgId": "com.iskrembilen.quasseldroid",
     "flags": {
-        "instant_messaging": true
+        "viewer_level": -1,
+        "messaging": true,
+        "decentralized_network": true
     }
 },
 {
@@ -2582,7 +2585,8 @@
 {
 	"pkgId": "com.mattermost.mattermost",
     "flags": {
-        "instant_messaging": true
+        "viewer_level": -1,
+        "messaging": true
     }
 },
 {
@@ -4931,8 +4935,11 @@
 {
 	"pkgId": "eu.faircode.email",
     "flags": {
+        "viewer_level": -1,
         "paying_google": true,
-        "reduced_features": true
+        "reduced_features": true,
+        "messaging": true,
+        "decentralized_network": true
     }
 },
 {
@@ -5425,7 +5432,12 @@
 	"pkgId": "im.vector.alpha"
 },
 {
-	"pkgId": "im.vector.riotx"
+	"pkgId": "im.vector.riotx",
+    "flags": {
+        "viewer_level": -1,
+        "messaging": true,
+        "decentralized_network": true
+    }
 },
 {
 	"pkgId": "in.ac.dtu.subtlenews"
@@ -5589,7 +5601,7 @@
 {
 	"pkgId": "io.github.hidroh.materialistic",
     "flags": {
-        "external_content": true
+        "viewer_level": 7
     }
 },
 {
@@ -6447,6 +6459,7 @@
 {
 	"pkgId": "net.osmand.plus",
     "flags": {
+        "viewer_level": 2,
         "additional_features": true
     }
 },
@@ -6958,9 +6971,10 @@
 	"pkgId": "org.coolreader"
 },
 {
+    "_comment": "This is a bit lower than VLC, because NOVA provides additional rich features",
 	"pkgId": "org.courville.nova",
     "flags": {
-        "external_content": true
+        "viewer_level": 6
     }
 },
 {
@@ -7177,11 +7191,12 @@
 	"pkgId": "org.fossasia.badgemagic"
 },
 {
+    "_comment": "TTRSS has a fairly low viewer level, because it also takes into account that the ttrss server is maintained by the same author",
 	"pkgId": "org.fox.tttrss",
     "flags": {
         "paying_google": true,
         "additional_features": true,
-        "external_content": true
+        "viewer_level": 2
     }
 },
 {
@@ -7418,7 +7433,7 @@
 {
 	"pkgId": "org.koreader.launcher",
     "flags": {
-        "external_content": true
+        "viewer_level": 6
     }
 },
 {
@@ -7602,9 +7617,10 @@
 	"pkgId": "org.mozc.android.inputmethod.japanese"
 },
 {
+    "_comment": "Viewer level is high, because this isn't funding Mozilla",
 	"pkgId": "org.mozilla.fennec_fdroid",
     "flags": {
-        "external_content": true
+        "viewer_level": 10
     }
 },
 {
@@ -8225,7 +8241,7 @@
 {
 	"pkgId": "org.telegram.messenger",
     "flags": {
-        "instant_messaging": true
+        "messaging": true
     }
 },
 {
@@ -8321,7 +8337,7 @@
 {
 	"pkgId": "org.videolan.vlc",
     "flags": {
-        "external_content": true
+        "viewer_level": 7
     }
 },
 {
@@ -8385,7 +8401,10 @@
 	"pkgId": "org.xbmc.android.remote"
 },
 {
-	"pkgId": "org.xbmc.kodi"
+	"pkgId": "org.xbmc.kodi",
+    "flags": {
+        "viewer_level": 6
+    }
 },
 {
 	"pkgId": "org.xbmc.kore"

@@ -2,7 +2,6 @@ package me.phh.flossdonator
 
 import android.app.usage.UsageStatsManager
 import android.content.Context
-import android.content.DialogInterface
 import android.os.Bundle
 import android.os.Handler
 import android.os.HandlerThread
@@ -16,6 +15,7 @@ import androidx.appcompat.app.AlertDialog
 
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
+import kotlin.math.exp
 
 class MainActivity : AppCompatActivity() {
 
@@ -25,12 +25,14 @@ class MainActivity : AppCompatActivity() {
         setSupportActionBar(toolbar)
     }
 
+    //POLICY: The default values here are part of the policy
     data class AppFlags(
         val additionalFeatures: Boolean = false,
         val reducedFeatures: Boolean = false,
-        val externalContent: Boolean = false,
-        val instantMessaging: Boolean = false,
-        val usefulInBackground: Boolean = false)
+        val viewerLevel: Int = 8,
+        val messaging: Boolean = false,
+        val usefulInBackground: Boolean = false,
+        val decentralizedNetwork: Boolean = false)
     data class AppLocalInfo(
         val foregroundTime: Long = 0L,
         val installer: String = "")
@@ -40,6 +42,9 @@ class MainActivity : AppCompatActivity() {
         val localInfo: AppLocalInfo
     )
 
+    fun exponentialCap(value: Double, cap: Double, tau: Double): Double {
+        return cap * (1.0 - exp( - value / tau ))
+    }
 
     fun refreshStats() {
         val usageManager = getSystemService(UsageStatsManager::class.java)!!
@@ -77,13 +82,13 @@ class MainActivity : AppCompatActivity() {
                         jsonParser.beginObject()
                         while(jsonParser.hasNext()) {
                             val flagName = jsonParser.nextName()
-                            val value = jsonParser.nextBoolean()
                             flags = when(flagName) {
-                                "external_content" -> flags.copy(externalContent = value)
-                                "instant_messaging" -> flags.copy(instantMessaging = value)
-                                "reduced_features" -> flags.copy(reducedFeatures = value)
-                                "additional_features" -> flags.copy(additionalFeatures = value)
-                                "useful_in_background" -> flags.copy(usefulInBackground = value)
+                                "viewer_level" -> flags.copy(viewerLevel = jsonParser.nextInt())
+                                "messaging" -> flags.copy(messaging = jsonParser.nextBoolean())
+                                "reduced_features" -> flags.copy(reducedFeatures = jsonParser.nextBoolean())
+                                "additional_features" -> flags.copy(additionalFeatures = jsonParser.nextBoolean())
+                                "useful_in_background" -> flags.copy(usefulInBackground = jsonParser.nextBoolean())
+                                "decentralized_network" -> flags.copy(decentralizedNetwork = jsonParser.nextBoolean())
                                 else -> flags
                             }
                         }
@@ -124,7 +129,12 @@ class MainActivity : AppCompatActivity() {
         Log.e("FLOSS-Donator", "Let's allocate $allocatedPercentToBackgrounds to $nBackgrounds apps")
         //We don't count apps that are useful in background, because they already got their share
 
-        val updateTimeWithFlags = {app: String, info: AppInfo ->
+        Log.e("FLOSS-Donator", "${exponentialCap(value = 0.0, tau = 4*3600*1000.0, cap = 4*3600*1000.0).toLong()}")
+        Log.e("FLOSS-Donator", "${exponentialCap(value = 1.0, tau = 4*3600*1000.0, cap = 4*3600*1000.0).toLong()}")
+        Log.e("FLOSS-Donator", "${exponentialCap(value = 100.0, tau = 4*3600*1000.0, cap = 4*3600*1000.0).toLong()}")
+        Log.e("FLOSS-Donator", "${exponentialCap(value = 10000.0, tau = 4*3600*1000.0, cap = 4*3600*1000.0).toLong()}")
+
+        val updateTimeWithFlags = { app: String, info: AppInfo ->
             val foregroundTime = info.localInfo.foregroundTime
             var newTime = foregroundTime
 
@@ -135,9 +145,39 @@ class MainActivity : AppCompatActivity() {
             }
 
             // POLICY: Messaging has a very huge networking effect, so smooth that out, by capping them to 4 hours a month
+            // The aim is to improve Messaging diversity
+            // Ignores reducedFeatures
+            if(info.flags.messaging) {
+                //cap = tau so that the initial slope is 1, to with small value, newTime ~=foregroundTime
+                newTime = exponentialCap(value = foregroundTime*1.0, tau = 4*3600*1000.0, cap = 4*3600*1000.0).toLong()
+            }
 
-            val upLocalInfo = info.localInfo.copy(foregroundTime = )
-            info.copy(localInfo = )
+            //POLICY: Apps that doesn't provide any backend, and are "simply" showing third party content are capped to half an hour a month
+            // Example: VLC is a media player, only roughly 1% of the time will the user actually interact with the app,
+            // most of the time, the user will simply be watching their movie
+            // Ignores IM and reduced features
+            if(info.flags.viewerLevel != -1) {
+                val cap = when(info.flags.viewerLevel) {
+                    10 -> 30*1000L
+                    9 -> 60*1000L
+                    8 -> 2*60*1000L
+                    7 -> 30*60*1000L
+                    6 -> 60*60*1000L
+                    5 -> 2 * 60 * 60 * 1000L
+                    4 -> 4 * 60 * 60 * 1000L
+                    3 -> 6 * 60 * 60 * 1000L
+                    2 -> 10 * 60 * 60 * 1000L
+                    1 -> 16 * 60 * 60 * 1000L
+                    0 -> 24 * 60 * 60 * 1000L
+
+                    else -> 24*3600*1000L
+                }
+                //cap = tau so that the initial slope is 1: with small values, newTime ~=foregroundTime
+                newTime = exponentialCap(value = foregroundTime*1.0, tau = 1800*1000.0, cap = 1800*1000.0).toLong()
+            }
+
+            val upLocalInfo = info.localInfo.copy(foregroundTime = newTime)
+            info.copy(localInfo = upLocalInfo)
         }
 
         val appsUpdatedTimes = list.map { Pair(it.key, updateTimeWithFlags(it.key, it.value)) }
